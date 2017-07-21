@@ -9,6 +9,18 @@ Blind Croupier is a gambling software development company, prodiving decentraliz
 
 **Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), independent of a casino's will.
 
+# Introduction
+
+The moment smart contracts emerged, the gambling industry changed forever. Casinos are becoming transparent and fair with their help. A player can easily check all the transactions, confirm the source code validity and check a casino's advantage in no time.
+
+It's also obvious that the industry will not move forward to a new stage of online gambling until there is a complete solution, providing both a platform and games while taking advantage of smart contracts. We believe that the market drives the advance of technology, which, in turn, drives market growth.
+
+Blind Croupier will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market.
+
+We have already done a tremendous job, starting from a general concept and ending up with a working beta-version of a video poker game. We have completely solved the problems of slow staking and fair, no oracle (An oracle is a third-party data supplier for a smart-contract, pseudo-random number generation).
+
+This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
+
 # Продажа токенов
 303,000,000BCT ( «Blind Croupier Tokens»)стандарта ERC20, будет выставлено на продажу на протяжении 303 раздельных периодов (1,000,000BCT на период) продолжительность каждого 24 часа или пока все доступные для периода токены не будут выкуплены, все не проданые в периоде токены сжигаются сразу же после окончания периода. Продажа токенов начнется с 13 августа, 2017 года и закончится по окончанию 303 периода. Пожалуйста, внимательно ознакомьтесь с ниже приведеными условиями распределения токенов, прежде чем принять свое участие.
 
@@ -62,18 +74,6 @@ TOP-1 участник вложивший наибольшую сумму ETH 
 * *Декабрь-Январь 2017:  Презентация базовой платформы вместе с базовым набором игр. Разработка маркетинговой кампании.*
 
  * *Май-Июль 2018:} Презентация продвинутой игровой платформы, с дополнительным набором игр. Запуск маркетинговой кампании.*
-
-# Introduction
-
-The moment smart contracts emerged, the gambling industry changed forever. Casinos are becoming transparent and fair with their help. A player can easily check all the transactions, confirm the source code validity and check a casino's advantage in no time.
-
-It's also obvious that the industry will not move forward to a new stage of online gambling until there is a complete solution, providing both a platform and games while taking advantage of smart contracts. We believe that the market drives the advance of technology, which, in turn, drives market growth.
-
-Blind Croupier will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market.
-
-We have already done a tremendous job, starting from a general concept and ending up with a working beta-version of a video poker game. We have completely solved the problems of slow staking and fair, no oracle (An oracle is a third-party data supplier for a smart-contract, pseudo-random number generation).
-
-This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
 
 # The retrospective
 
@@ -250,7 +250,7 @@ The chance of winning the jackpot depends on the number of transactions to the F
 * **Wild Jackpot** is the daily payout of 0.3% of the Fund's size.*
 
 
-*Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.(
+* *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.*
 
 
 ## BlindJackpot Main Features
