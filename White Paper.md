@@ -1,5 +1,6 @@
 # BLINDCRUPIER.io White Paper
 #### Jul 21, 2017
+<img src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="120">
 
 **Abstract:** Blind Crupier is a gambling software development company, prodiving decentralized, fair and  transparent gambling solutions for casinos working in the Ethereum blockchain.
 
