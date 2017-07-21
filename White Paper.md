@@ -210,9 +210,9 @@ The release of the platform is split into two stages. The features and functiona
 | Mobile Casino  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 
 
-## Description
+### Description
 
-* **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy BlindChips, using many different cryptocurrencies.*
+* **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy \blindchips, using many different cryptocurrencies.*
 
 * **Analytics.** The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.*
 
@@ -231,13 +231,34 @@ The release of the platform is split into two stages. The features and functiona
 
 The main reason preventing us from delivering our products at a global level is Ethereum's lack of recognition outside the blockchain community. There needs to be a way to deposit funds more conveniently. To achieve this one must acquire a gambling license. We are going to get one and introduce the sale of BlindChips online by using traditional payment methods: credit cards and payment systems. This has nothing to do with gameplay fairness and transparency. For the casino owners this means there is no need to get a gambling license because all the payments are processed by Blind Croupier.
 
-# Games
+# The Blind Jackpot Fund
 
-Each stage of the platform release roadmap is accompanied by a release of the relevant games set. As mentioned already, the essential part of the development is already completed. This combines the overall absolute fairness gambling concept with fast staking (like in traditional casinos).
-The basic game set includes: *video poker (the beta version is ready), dice,blackjack,Baccarat roulette. You can use these games in your casino as soon as the basic platform is released.*
-Along with the advanced platform release we are going to present our first videoslots collections. Professional artists and game designers will be hired for this purpose. We are going to create something special in this area, outmatching the competition.
-We are going to deliver games continuously, that's why we will hire all the specialists required. The core team contains experienced game development professionals. We are also going to deliver special occasion skins for games, which will be released on certain dates.
+Any casino, using Blind Croupier software can choose a set of games to connect to the BlindJackpot fund. A percentage of bets placed will be automatically put into it. The percent transferred is 1/5 of the house edge of the specific game.
 
-## Game Developers
+* **For example:** for the videopoker 5-bet game the casino's expected revenue from each bet is 0.46\%, so 1/5 or 0.092\% of each bet is transferred to Blind Jackpot Fund.*
 
-We are ready to cooperate with game developers, list their products on our platform and integrate them into current and future investors' casinos. We are especially interested in working with developers focused on specific features of certain markets. Product quality and uniqueness are required.
+The chance of winning the jackpot depends on the number of transactions to the Fund the player has made *(the more transactions made, the larger the Fund's share is and the higher the chance is)*. **Only high-bidders can deposit to the Fund.**
+
+
+## The BlindJackpot Fund is divided into three prize funds:
+
+* **Mega Jackpot** is the largest one.The winning amount is 28\% of the Fund's size. The payout interval \todo {убрать везде упоминания о роялти}is 28 days. After Mega Jackpot payout the rest of the money is moved to the next cycle.
+**All the "tickets" are destroyed before the new cycle beginning.** *
+	
+* **Miracle Jackpot** is the second largest of the regular payouts. It's 4% of the Fund's size. The payout interval is 16 days. The winning "ticket" is excluded from the further payout cycles.*
+
+* **Wild Jackpot** is the daily payout of 0.3\% of the Fund's size.*
+\end{itemize}
+
+*Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.(
+
+
+## BlindJackpot Main Features
+* **Cycles:** For the long time players are not excited by the low-chance large-sized jackpots. In the BlindJackpot fund money don't accumulate for ages, instead there are cycles with certain time periods. Everyone knows the moment a new winner is determined. The cycle lasts for 28 days, after that all the "tickets" are destroyed and the rest of the money is moved to the next cycle. Working this way we hope to reach the balance between the jackpot's size and the probability of winning.*
+
+* **The teamwork** - the BlindJackpot fund is an excellent opportunity for the competitive casinos to cooperate. Collectively, giving away a small percentage of the revenue they can achieve a really impressive prize fund. The player's chance to win is the same independent of the specific casino he is playing in.*
+* **Accumulation** - each cycle ends with the announcement of the winner. It lasts 28 days. The major part of the money is then transfered to the next cycle to keep the BlindJackpot Fund growing.*
+
+* **Transparency** - the BlindJackpot Fund is controlled by a smart contract. All the transactions, source code, balance, winner determining are transparent and open for the public inspection.*
+
+* **Player Motivation and Syndicates creation** - the BlindJackpot Fund is created to motivate player to place the bets larget than the required size thus increasing the casino's revenue. The main motive for the players are transparency and large win possibility. To drive the motivation even more \projectname is going to promite the creation of syndicates. A syndicate gives a higher winning chance in exchange of a small prize share. They can be formed either by a group of people closely connected to each other (relatives, friends) or in specially created communities.*
