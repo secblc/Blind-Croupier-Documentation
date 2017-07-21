@@ -270,7 +270,7 @@ A winner is determined randomly using a specially designed blockchain-based algo
 
 # iGaming Market
 
-# Casino's Revenue
-## House Edge
+# House Edge or How to Casino's earn money?
+
 
 
