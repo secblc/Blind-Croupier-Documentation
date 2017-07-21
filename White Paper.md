@@ -1,5 +1,5 @@
-# BLINDCRUPIER.io White Paper <img src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="100">
-#### Jul 21, 2017
+# BLINDCRUPIER.io White Paper
+#### Jul 21, 2017  <img align="right" src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="100">
 
 Blind Crupier is a gambling software development company, prodiving decentralized, fair and  transparent gambling solutions for casinos working in the Ethereum blockchain.
 
@@ -153,5 +153,29 @@ A video poker machine <img align="right" src="https://user-images.githubusercont
 On the top there are wnning combinations and the payouts table. In the centre there is a screen showing the player's hand.
 On the bottom side there are 3 fields, indicating the player's credit, the last game win and the current bet. By using the "Bet One" button, a player increases the current bet by one coin.
 
-Having placed a bet, the player pushes the "Deal" button and receives five cards from the 52-card deck. By touching a card, the player can put it on hold. After that, the player pushes the "DRAW" button  and the machine changes the free cards for him. In case there is a winning combination, shown in the top table, the appropriate win is deposited to the player's account. The combinations correspond to the standard poker combinations, the lower the chances, the higher the payouts. 
+Having placed a bet, the player pushes the "Deal" button and receives five cards from the 52-card deck. By touching a card, the player can put it on hold. After that, the player pushes the "DRAW" button  and the machine changes the free cards for him. In case there is a winning combination, shown in the top table, the appropriate win is deposited to the player's account. The combinations correspond to the standard poker combinations, the lower the chances, the higher the payouts.
+
+## Implementation
+The Player and the Croupier first generate a key pair of a private and a public key and submit the public key to the Bank. This operation uses 1 blockchain transaction, but must be completed only once. After it is done, all commands issued by any side (Player or Croupier) are signed by the private key of the corresponding side. The signature can then be validated by any party.
+
+First of all, Player submits the signed bet command (the amount of chips he is willing to put at stake, signed by the private key) to Croupier. Croupier validates the command and begins the game.
+
+Four random seeds are used in the algorithm (2 Croupier's and 2 Player's). They are derived from the signature of the fixed data set (a Player's address, a Croupier's address and game id), so only the owner of the private key can know the seed a priori. However, when a seed is published, any party can validate that the seed is generated correctly (using the normal signature validation procedure).
+
+The first two seeds (Player 1 and Croupier 1) are mixed and used to shuffle the deck. After that operation, the first five cards are drawn by Player. 
+
+When the five cards are drawn, Player submits the signed replacement order (the information about cards he is willing to replace, signed by the private key) to Croupier.
+
+Two remaining random seeds (Player 2 and Croupier 2) are then mixed and used to shuffle the remainder of the deck. When this operation is completed, all parties agree on the game result and Croupier submits all the information (4 seeds, bet and replacement commands) to the Bank, which checks all signatures, calculates the game outcome and pays Player his win.
+
+If Cropuier fails to submit the information, Player kindly waits for the time required for the transactions to complete and submits the information himself. The result is the same - the Bank calculates the game result and pays Player his win.
+
+# Technologies and Methodologies
+
+In development, we use the latest tech and methodological stack. The main programming languages used in our project are Javascript (ECMAScript 6) and Solidity 0.4.11. Initially we write all the smart contracts code in specially designed iSolidity language, which is compiled into normal Solidity code. We designed iSolidity and implemented iSolidity to Solidity compiler to solve some major problems of Solidity (like the inability to pass structures and arrays of structures to and from a contract). For smart contract development we use the [Truffle framework](https://truffleframework.com). We are unit-testing with [Mocha](https://mochajs.org) and [Chai](\url{https://chaijs.com). For source code transpiling we use [Babel](https://babeljs.io). We stick to the strict source code style and validity by using [ESLint](eslint.org). We use [solc](https://github.com/ethereum/solidity) for the smart contract compilation. For Player-Croupier API building we use [Swagger](http://swagger.io/) and [Express framework](https://expressjs.com/). We use [Webpack](https://webpack.github.io/) for packaging and optimizing the source code.
+
+* *Methodologies: We use Agile working methodologies. To coordinate our work we use [Pivotal
+Tracker](https://pivotaltracker.com), Discord, Slack. To control the source code versions we use [Git](https://git-scm.com/).*
+* *Client Side: The client side uses HTML5, CSS3, Javascript with React / Redux. To preprocess CSS we use [LESS](http://lesscss.org/).
+* *Server Side: The Server Side is implemented in Javascript with the use of Node.js.*
 
