@@ -17,7 +17,7 @@ The moment smart contracts emerged, the gambling industry changed forever. Casin
 
 It's also obvious that the industry will not move forward to a new stage of online gambling until there is a complete solution, providing both a platform and games while taking advantage of smart contracts. We believe that the market drives the advance of technology, which, in turn, drives market growth.
 
-This is what happened in 1994, when Microgaming created the first online gambling software, starting a gold rush all over the world. <a href="http://example.com/" target="_blank">example</a>
+This is what happened in [1994](http://www.rightcasino.com/news/history-of-online-casinos/), when Microgaming created the first online gambling software, starting a gold rush all over the world. 
 
 \projectname will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market.
 
