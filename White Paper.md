@@ -48,7 +48,21 @@ TOP-1 участник вложивший наибольшую сумму ETH 
 
 * *С BlindChips вы можете делать ставки и получать выигрыши, в любом подключеном к программному обеспечению от Blind Crupier казино*
 
-**Например:** Алиса сдала в аренду 80BCT(80%), а Боб 20BCT(20%) другие держатели токенов воздержались от участия. Оба они выбрали период аренды 1,000,000BlindChips (колличество сделаных ставок) и получат бонус +5% за продолжительный период. Через  3 месяца цель была достигнута, и общими усилиями было сгенерировано 10,000BlindChips. Алиса получила 8,000+400BlindChips, а Боб 2,000B+100BlindChips соответственно. 
+**Например:** Алиса сдала в аренду 80BCT(80%), а Боб 20BCT(20%) другие держатели токенов воздержались от участия. Оба они выбрали период аренды 1,000,000BlindChips (колличество сделаных ставок) и получат бонус +5% за продолжительный период. Через  3 месяца цель была достигнута, и общими усилиями было сгенерировано 10,000BlindChips. Алиса получила 8,000+400BlindChips, а Боб 2,000B+100BlindChips соответственно.
+
+## Roadmap
+
+* *Апрель-июль 2017: Разработка общей концепции проекта. Комплексная разработка алгоритма для обеспечения быстрых и честных азартных игр на смарт-контракте Ethereum, с  наглядной демонстрацией его работоспособности в бета-версии видеопокера.*
+
+* *Июль 2017:} Pre-ICO и дальнейшая разработка продуктов.*
+
+* *Август-Сентябрь 2017: Легализация. Готовность запуска видеопокера на  main net  и его интеграция победителю  Pre-ICO аукциона.*
+
+* *Сентябрь-Октябрь 2017: ICO, вместе с выпуском бета версии  Baccarat.*
+
+* *Декабрь-Январь 2017:  Презентация базовой платформы вместе с базовым набором игр. Разработка маркетинговой кампании.*
+
+ * *Май-Июль 2018:} Презентация продвинутой игровой платформы, с дополнительным набором игр. Запуск маркетинговой кампании.*
 
 ## Introduction
 
@@ -56,10 +70,42 @@ The moment smart contracts emerged, the gambling industry changed forever. Casin
 
 It's also obvious that the industry will not move forward to a new stage of online gambling until there is a complete solution, providing both a platform and games while taking advantage of smart contracts. We believe that the market drives the advance of technology, which, in turn, drives market growth.
 
-This is what happened in [1994](http://www.rightcasino.com/news/history-of-online-casinos/), when Microgaming created the first online gambling software, starting a gold rush all over the world. 
-
 Blind Crupier will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market.
 
 We have already done a tremendous job, starting from a general concept and ending up with a working beta-version of a video poker game. We have completely solved the problems of slow staking and fair, no oracle (An oracle is a third-party data supplier for a smart-contract, pseudo-random number generation).
 
 This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
+
+## The retrospective
+
+It all began in [1994](http://www.rightcasino.com/news/history-of-online-casinos/), when Microgaming company presented the first online gambling platform, allowing to build a full-scale casino. The same year Antigua and Barbuda's government passed  ["Free Trade and Processing Zone"](http://laws.gov.ag/new/detail_page.php?page=content/year.php), describing steps required to obtain an online casino license. This act served as the foundation of the industry's growth. In 1997 there were about 200 online casinos around, compared to 15 in 1996.
+
+A year after, in 1998, the progressive jackpot came in. This innovation implied strong player base growth. Players were attracted by the huge sums of possible wins. This principle still serves as a perfect selling point for gambling lovers all over the world. 
+
+The further development of online gambling was enabled by the risw of a new breed of ambitious developers, rushing into the market with their competitive solutions. The game rules started to become better and the size of the maximum win also increased.
+
+The appearance of the Bitcoin cryptocurrency in 2009 gave birth to a new wave of companies: software vendors which now dominate the market. 
+
+The Bitcoin platforms also gave a boost to casinos using the currency because of the following reasons:
+
+1. anonymity;
+2. total balance control;
+3. faster transactions and lower running costs; 
+
+But Bitcoin casinos were still unable to solve the main gambling problem: a player can never be sure a casino is playing fair.
+
+## The Problems Solved By the Algorithm
+
+The absence of fairness or transparency checking facilities is the main problem for a casino. A player has to rely on the good will of the casino owners and third party recommendations. He can't possibly check the source code and what is mostly important, whether a server generates unbiased random data. This is the case because the information is kept private and available only for the casino owners. The closed system is what discourages gamblers from using online casinos.
+
+This is not good for the casino itself. Even if it plays fairly, there is no way to prove this as there is no way to prove the size of the jackpot stated. To solve this, a casino must pay rating agencies, creating an unnecessary dependency on affiliated third parties.
+
+### Pseudo-Random Number Generation (PRNG)
+**Problem:** For any online casino the used [PRNG](https://en.wikipedia.org/wiki/Pseudorandom_number_generator/) is of utter importance. **добавить что в закрытой системе не возможно удостоверится не подкидывает ли тебе казино фальшивый рандом**
+
+**Our solution:** In the BlindCrupier's algorithm we use a very simple idea to generate random data. Each side has a private key, used to sign messages and commands. We use it to sign the fixed message, consisting of 4 parts: the Croupier's address, the Player's address, the game id and the seed id. The random seed is then acquired from this signature by a very simple manupulation. Until the seed is published it is only known to the owner of the private key. However, after the seed is published, any party can easily verify it by checking the signature against the public key of the seed owner. So, each random seed used in BlindCrupier's algorithm has two major traits:
+
+* *item The seed is determined and can't be changed by any side.*
+* *The seed is known to the owner from the beginning of the game, and is available to public when the owner wishes to publish it.*
+
+After both seeds are published (1 Croupier seed and 1 Player seed), we mix them to get a truly random unbiased seed. All sides use it to independently calculate the game result.
