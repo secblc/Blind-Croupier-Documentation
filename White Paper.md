@@ -270,6 +270,9 @@ A winner is determined randomly using a specially designed blockchain-based algo
 
 # iGaming Market
 
+Online gaming, or gambling, is the wagering of something of value, usually money, on the outcome of an event or game using the internet. Online gaming includes such activities as poker, casinos (where people can play traditional casino games, like roulette or blackjack, but online), sports betting, bingo and lotteries. Of these, casino games and sports betting make up the largest share of the market. The market volume of online gaming was forecasted to reach 51.96 billion U.S. dollars in 2018, more than doubling since 2009. 
+
+
 # House Edge or How Casino's earn money?
 
 # How Blind Croupier earn money?
