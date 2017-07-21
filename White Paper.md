@@ -210,9 +210,9 @@ The release of the platform is split into two stages. The features and functiona
 | Mobile Casino  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 
 
-### Description
+## Description
 
-* **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy \blindchips, using many different cryptocurrencies.*
+* **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy BlindChips, using many different cryptocurrencies.*
 
 * **Analytics.** The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.*
 
@@ -230,3 +230,14 @@ The release of the platform is split into two stages. The features and functiona
 ## White Label Casino and Payment Aggregation
 
 The main reason preventing us from delivering our products at a global level is Ethereum's lack of recognition outside the blockchain community. There needs to be a way to deposit funds more conveniently. To achieve this one must acquire a gambling license. We are going to get one and introduce the sale of BlindChips online by using traditional payment methods: credit cards and payment systems. This has nothing to do with gameplay fairness and transparency. For the casino owners this means there is no need to get a gambling license because all the payments are processed by Blind Croupier.
+
+# Games
+
+Each stage of the platform release roadmap is accompanied by a release of the relevant games set. As mentioned already, the essential part of the development is already completed. This combines the overall absolute fairness gambling concept with fast staking (like in traditional casinos).
+The basic game set includes: *video poker (the beta version is ready), dice,blackjack,Baccarat roulette. You can use these games in your casino as soon as the basic platform is released.*
+Along with the advanced platform release we are going to present our first videoslots collections. Professional artists and game designers will be hired for this purpose. We are going to create something special in this area, outmatching the competition.
+We are going to deliver games continuously, that's why we will hire all the specialists required. The core team contains experienced game development professionals. We are also going to deliver special occasion skins for games, which will be released on certain dates.
+
+## Game Developers
+
+We are ready to cooperate with game developers, list their products on our platform and integrate them into current and future investors' casinos. We are especially interested in working with developers focused on specific features of certain markets. Product quality and uniqueness are required.
