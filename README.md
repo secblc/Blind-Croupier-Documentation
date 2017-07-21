@@ -1,2 +1,2 @@
 # BLINDCRUPIER.io White Paper
-### Jul 21, 2017
+#### Jul 21, 2017
