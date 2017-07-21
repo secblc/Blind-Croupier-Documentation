@@ -270,7 +270,8 @@ A winner is determined randomly using a specially designed blockchain-based algo
 
 # iGaming Market
 
-# House Edge or How to Casino's earn money?
+# House Edge or How Casino's earn money?
 
+# How Blind Croupier earn money?
 
 
