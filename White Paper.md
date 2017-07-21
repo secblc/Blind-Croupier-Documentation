@@ -117,7 +117,7 @@ After both seeds are published (1 Croupier seed and 1 Player seed), we mix them 
 
 ## Fairness check
 
-<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="20"> **Problem:** There is no way to check the mathematical advantage of a casino because of the closed casino system.
+<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28480966-8d3dcb04-6e95-11e7-832a-e16deb7880bb.png" width="15"> **Problem:** There is no way to check the mathematical advantage of a casino because of the closed casino system.
 
 <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **Our solution:** All the randomness used in the process is generated from four random seeds. Each of the seeds is random and verifyable. No one can influence the generation of the seeds and anyone can check the seeds have been generated correctly. So, the advantage is truly determined by the game rules which are absolutely transparent.
 
