@@ -1,6 +1,5 @@
-# BLINDCRUPIER.io White Paper
+# BLINDCRUPIER.io White Paper <img src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="100">
 #### Jul 21, 2017
-<img src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="120">
 
 Blind Crupier is a gambling software development company, prodiving decentralized, fair and  transparent gambling solutions for casinos working in the Ethereum blockchain.
 
@@ -152,7 +151,7 @@ The client-side Javascript Player code is open-sourced and open for public inspe
 
 A video poker machine <img align="right" src="https://user-images.githubusercontent.com/30338333/28469012-74600e9a-6e67-11e7-9da0-67be5ffa5a7f.png" width="500"> is usually visually similar to a slot machine. 
 On the top there are wnning combinations and the payouts table. In the centre there is a screen showing the player's hand.
-On the bottom side there are 3 fields, indicating the player's credit, the last game win and the current bet. By using the "Bet One" button, a player increases the current bet by one coin. By using the "Bet Max" button, a player chooses the maximum amount possible and starts the game. When the bet is already maxed, pushing the "Bet One" button returns the bet to the minimum value.
+On the bottom side there are 3 fields, indicating the player's credit, the last game win and the current bet. By using the "Bet One" button, a player increases the current bet by one coin.
 
-Having placed a bet, the player pushes the "Deal" button and receives five cards from the 52-card deck. By touching a card, the player can put it on hold. After that, the player pushes the "Deal" button again and the machine changes the free cards for him. In case there is a winning combination, shown in the top table, the appropriate win is deposited to the player's account. The combinations correspond to the standard poker combinations, the lower the chances, the higher the payouts. shows payout coefficients for "Full Pay Jacks or Better" video poker, used for the beta-version of Blind Croupier.
+Having placed a bet, the player pushes the "Deal" button and receives five cards from the 52-card deck. By touching a card, the player can put it on hold. After that, the player pushes the "DRAW" button  and the machine changes the free cards for him. In case there is a winning combination, shown in the top table, the appropriate win is deposited to the player's account. The combinations correspond to the standard poker combinations, the lower the chances, the higher the payouts. 
 
