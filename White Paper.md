@@ -212,19 +212,19 @@ The release of the platform is split into two stages. The features and functiona
 
 ### Description
 
-* **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy BlindChips, using many different cryptocurrencies.*
+* **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy BlindChips, using many different cryptocurrencies.
 
-* **Analytics.** The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.*
+* **Analytics.** The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.
 
-* **Bonus Program**. Set up your bonus program to motivate your players even more. Add free spins and bonus rewards. We are going to develop new bonus types and bonus programs and keep you informed.*
+* **Bonus Program**. Set up your bonus program to motivate your players even more. Add free spins and bonus rewards. We are going to develop new bonus types and bonus programs and keep you informed.
 
-* **CMS**. Edit the content, drag and drop game blocks, add special offers, set up SEO.*
+* **CMS**. Edit the content, drag and drop game blocks, add special offers, set up SEO.
 
-* **Multilingual**. Localise your casino for any market.*
+* **Multilingual**. Localise your casino for any market.
 
-* **JACKPOT**. A progressive jackpot motivates your players to increase the stakes. You can connect your games to a system which certifies the jackpot size and choosing the winner in a fair manner.*
+* **JACKPOT**. A progressive jackpot motivates your players to increase the stakes. You can connect your games to a system which certifies the jackpot size and choosing the winner in a fair manner.
 
-*  **Anti-Fraud System.** Our algorithms make Player fraudery and Croupier cheating impossible even in theory. All money transfers are controlled by the smart contract, immune to external control.*
+*  **Anti-Fraud System.** Our algorithms make Player fraudery and Croupier cheating impossible even in theory. All money transfers are controlled by the smart contract, immune to external control.
 
 
 ## White Label Casino and Payment Aggregation
@@ -235,7 +235,7 @@ The main reason preventing us from delivering our products at a global level is 
 
 Any casino, using Blind Croupier software can choose a set of games to connect to the BlindJackpot fund. A percentage of bets placed will be automatically put into it. The percent transferred is 1/5 of the house edge of the specific game.
 
-* **For example:** for the videopoker 5-bet game the casino's expected revenue from each bet is 0.46%, so 1/5 or 0.092% of each bet is transferred to Blind Jackpot Fund.*
+* **For example:** for the videopoker 5-bet game the casino's expected revenue from each bet is 0.46%, so 1/5 or 0.092% of each bet is transferred to Blind Jackpot Fund.
 
 The chance of winning the jackpot depends on the number of transactions to the Fund the player has made *(the more transactions made, the larger the Fund's share is and the higher the chance is)*. **Only high-bidders can deposit to the Fund.**
 
@@ -250,11 +250,11 @@ The chance of winning the jackpot depends on the number of transactions to the F
 * **Wild Jackpot** is the daily payout of 0.3% of the Fund's size.
 
 
-* *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.*
+* *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.
 
 
 ## BlindJackpot Main Features
-* **Cycles:** For the long time players are not excited by the low-chance large-sized jackpots. In the BlindJackpot fund money don't accumulate for ages, instead there are cycles with certain time periods. Everyone knows the moment a new winner is determined. The cycle lasts for 28 days, after that all the "tickets" are destroyed and the rest of the money is moved to the next cycle. Working this way we hope to reach the balance between the jackpot's size and the probability of winning.*
+* **Cycles:** For the long time players are not excited by the low-chance large-sized jackpots. In the BlindJackpot fund money don't accumulate for ages, instead there are cycles with certain time periods. Everyone knows the moment a new winner is determined. The cycle lasts for 28 days, after that all the "tickets" are destroyed and the rest of the money is moved to the next cycle. Working this way we hope to reach the balance between the jackpot's size and the probability of winning.
 
 * **The teamwork** - the BlindJackpot fund is an excellent opportunity for the competitive casinos to cooperate. Collectively, giving away a small percentage of the revenue they can achieve a really impressive prize fund. The player's chance to win is the same independent of the specific casino he is playing in.
 
