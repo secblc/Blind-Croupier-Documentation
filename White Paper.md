@@ -192,3 +192,45 @@ Tracker](https://pivotaltracker.com), Discord, Slack. To control the source code
 * *Client Side: The client side uses HTML5, CSS3, Javascript with React / Redux. To preprocess CSS we use [LESS](http://lesscss.org/).
 * *Server Side: The Server Side is implemented in Javascript with the use of Node.js.*
 
+# Blind Croupier Platform
+The release of the platform is split into two stages. The features and functionality are described in table.
+
+|  Platform features | Basic platform  | Advanced platform  |
+|---|---|:-:|
+| Analytics  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| Cryptocurrencies Exchange  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| Basic Game  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| Multilingual Support  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| Extended Game Set  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| Bonus Program Management  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25"> | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| CMS  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25"> |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
+| BlindJackpot Fund   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
+| Jackpot  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| Bonus Items Shop  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| Payment Aggregation   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
+| Mobile Casino  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+
+
+
+
+\begin{itemize}
+\item \textbf {White Label Casino and Payment Aggregation}
+
+The main reason preventing us from delivering \todo {хорошо проверить раздел, не сильно понятно различие между базовой и продвинутой платформы} our products at a global level is Ethereum's lack of recognition outside the blockchain community. There needs to be a way to deposit funds more conveniently. To achieve this one must acquire a gambling license. We are going to get one and introduce the sale of \blindchips online by using traditional payment methods: credit cards and payment systems. This has nothing to do with gameplay fairness and transparency. For the casino owners this means there is no need to get a gambling license because all the payments are processed by \projectname.
+
+\item  \textbf {Cryptocurrencies Exchange} To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy \blindchips, using many different cryptocurrencies.
+
+\item \textbf {Analytics}. The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.
+
+\item \textbf {Bonus Program}. Set up your bonus program to motivate your players even more. Add free spins and bonus rewards. We are going to develop new bonus types and bonus programs and keep you informed.
+
+\item \textbf {CMS}. Edit the content, drag and drop game blocks, add special offers, set up SEO.
+
+\item \textbf {Multilingual}. Localise your casino for any market.
+
+\item  \textbf {JACKPOT}. A progressive jackpot motivates your players to increase the stakes. You can connect your games to a system which certifies the jackpot size and choosing the winner in a fair manner. 
+
+\item \textbf {Anti-Fraud System}. Our algorithms make Player fraudery and Croupier cheating impossible even in theory. All money transfers are controlled by the smart contract, immune to external control.
+
+\item \textbf {Mobile Casino} \todo {добавить о мобильном казино}
+
