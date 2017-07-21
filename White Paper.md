@@ -1,7 +1,7 @@
-# BLINDCRUPIER.io White Paper
+# BLINDCROUPIER.io White Paper
 #### Jul 21, 2017  <img align="right" src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="100">
 
-Blind Crupier is a gambling software development company, prodiving decentralized, fair and  transparent gambling solutions for casinos working in the Ethereum blockchain.
+Blind Croupier is a gambling software development company, prodiving decentralized, fair and  transparent gambling solutions for casinos working in the Ethereum blockchain.
 
 **Completely fair** — a casino can't possibly gain any advantages except for those defined by specific game rules, including the fair random generation for cards, dices, roulette and slots.
 
@@ -10,7 +10,7 @@ Blind Crupier is a gambling software development company, prodiving decentralize
 **Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), independent of a casino's will.
 
 # Продажа токенов
-303,000,000BCT ( «Blind Crupier Tokens»)стандарта ERC20, будет выставлено на продажу на протяжении 303 раздельных периодов (1,000,000BCT на период) продолжительность каждого 24 часа или пока все доступные для периода токены не будут выкуплены, все не проданые в периоде токены сжигаются сразу же после окончания периода. Продажа токенов начнется с 13 августа, 2017 года и закончится по окончанию 303 периода. Пожалуйста, внимательно ознакомьтесь с ниже приведеными условиями распределения токенов, прежде чем принять свое участие.
+303,000,000BCT ( «Blind Croupier Tokens»)стандарта ERC20, будет выставлено на продажу на протяжении 303 раздельных периодов (1,000,000BCT на период) продолжительность каждого 24 часа или пока все доступные для периода токены не будут выкуплены, все не проданые в периоде токены сжигаются сразу же после окончания периода. Продажа токенов начнется с 13 августа, 2017 года и закончится по окончанию 303 периода. Пожалуйста, внимательно ознакомьтесь с ниже приведеными условиями распределения токенов, прежде чем принять свое участие.
 
 ## Распределение токенов
 **Стоимость токена:** Начальная стоимость 1BCT=0.1$.
@@ -24,7 +24,7 @@ Blind Crupier is a gambling software development company, prodiving decentralize
  **303,000,000BCT:** Распределение проходит в течении 303 раздельных периодов.
 Для каждого периода доступно 1 000 000BCT. Продолжительность каждого 24часа или пока не будут проданы все доступные для периода токены.Все не проданые в периоде токены сжигаются, незамедлительно в конце периода. Во время Pheriod 1-20 проводится аукцион привилегий.
 
-**45,000,000BCT:** Резервируются BlindCrupier, чтобы поощрить ранних участников проекта за
+**45,000,000BCT:** Резервируются BlindCroupier, чтобы поощрить ранних участников проекта за
 проделанную работу и в качестве долгосрочного резерва необходимого для дальнейшего развития платформы. Часть из них будет направлена на баланс маркет мейкер(это дилер/робот/брокер который будет хранить на своем счете токены BCT, и организовывать их продажу, тем самым поддерживая высокую ликвидность токенов на рынке, обеспечивая всем держателям быструю покупку и продажу токенов). Токены будут заморожены умным контрактом и будут доступны для снятия владельцами через 12 месяцев.
 
 **4,000,000BCT:** Резервируются для проведения «баунти» кампании. Токены распределяются по окончанию каждого периода и начисляются на баланс участников каждые 7 дней. Детали об участии в кампании читайте в соответствующем разделе на сайте.
@@ -45,7 +45,7 @@ TOP-1 участник вложивший наибольшую сумму ETH 
 
 * *Чем больше ваша доля и период аренды, тем больше BlindChips вы получаете.*
 
-* *С BlindChips вы можете делать ставки и получать выигрыши, в любом подключеном к программному обеспечению от Blind Crupier казино*
+* *С BlindChips вы можете делать ставки и получать выигрыши, в любом подключеном к программному обеспечению от Blind Croupier казино*
 
 **Например:** Алиса сдала в аренду 80BCT(80%), а Боб 20BCT(20%) другие держатели токенов воздержались от участия. Оба они выбрали период аренды 1,000,000BlindChips (колличество сделаных ставок) и получат бонус +5% за продолжительный период. Через  3 месяца цель была достигнута, и общими усилиями было сгенерировано 10,000BlindChips. Алиса получила 8,000+400BlindChips, а Боб 2,000B+100BlindChips соответственно.
 
@@ -69,7 +69,7 @@ The moment smart contracts emerged, the gambling industry changed forever. Casin
 
 It's also obvious that the industry will not move forward to a new stage of online gambling until there is a complete solution, providing both a platform and games while taking advantage of smart contracts. We believe that the market drives the advance of technology, which, in turn, drives market growth.
 
-Blind Crupier will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market.
+Blind Croupier will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market.
 
 We have already done a tremendous job, starting from a general concept and ending up with a working beta-version of a video poker game. We have completely solved the problems of slow staking and fair, no oracle (An oracle is a third-party data supplier for a smart-contract, pseudo-random number generation).
 
@@ -102,7 +102,7 @@ This is not good for the casino itself. Even if it plays fairly, there is no way
 ## Pseudo-Random Number Generation (PRNG)
 **Problem:** For any online casino the used [PRNG](https://en.wikipedia.org/wiki/Pseudorandom_number_generator/) is of utter importance. **добавить что в закрытой системе не возможно удостоверится не подкидывает ли тебе казино фальшивый рандом**
 
-**Our solution:** In the BlindCrupier's algorithm we use a very simple idea to generate random data. Each side has a private key, used to sign messages and commands. We use it to sign the fixed message, consisting of 4 parts: the Croupier's address, the Player's address, the game id and the seed id. The random seed is then acquired from this signature by a very simple manupulation. Until the seed is published it is only known to the owner of the private key. However, after the seed is published, any party can easily verify it by checking the signature against the public key of the seed owner. So, each random seed used in BlindCrupier's algorithm has two major traits:
+**Our solution:** In the BlindCroupier's algorithm we use a very simple idea to generate random data. Each side has a private key, used to sign messages and commands. We use it to sign the fixed message, consisting of 4 parts: the Croupier's address, the Player's address, the game id and the seed id. The random seed is then acquired from this signature by a very simple manupulation. Until the seed is published it is only known to the owner of the private key. However, after the seed is published, any party can easily verify it by checking the signature against the public key of the seed owner. So, each random seed used in BlindCroupier's algorithm has two major traits:
 
 * *item The seed is determined and can't be changed by any side.*
 * *The seed is known to the owner from the beginning of the game, and is available to public when the owner wishes to publish it.*
@@ -206,31 +206,27 @@ The release of the platform is split into two stages. The features and functiona
 | CMS  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25"> |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
 | BlindJackpot Fund   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
 | Jackpot  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
-| Bonus Items Shop  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 | Payment Aggregation   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
 | Mobile Casino  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 
 
+### Description
+
+* **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy \blindchips, using many different cryptocurrencies.*
+
+* **Analytics.** The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.*
+
+* **Bonus Program**. Set up your bonus program to motivate your players even more. Add free spins and bonus rewards. We are going to develop new bonus types and bonus programs and keep you informed.*
+
+* **CMS**. Edit the content, drag and drop game blocks, add special offers, set up SEO.*
+
+* **Multilingual**. Localise your casino for any market.*
+
+* **JACKPOT**. A progressive jackpot motivates your players to increase the stakes. You can connect your games to a system which certifies the jackpot size and choosing the winner in a fair manner.*
+
+*  **Anti-Fraud System.** Our algorithms make Player fraudery and Croupier cheating impossible even in theory. All money transfers are controlled by the smart contract, immune to external control.*
 
 
-\begin{itemize}
-\item \textbf {White Label Casino and Payment Aggregation}
+## White Label Casino and Payment Aggregation
 
-The main reason preventing us from delivering \todo {хорошо проверить раздел, не сильно понятно различие между базовой и продвинутой платформы} our products at a global level is Ethereum's lack of recognition outside the blockchain community. There needs to be a way to deposit funds more conveniently. To achieve this one must acquire a gambling license. We are going to get one and introduce the sale of \blindchips online by using traditional payment methods: credit cards and payment systems. This has nothing to do with gameplay fairness and transparency. For the casino owners this means there is no need to get a gambling license because all the payments are processed by \projectname.
-
-\item  \textbf {Cryptocurrencies Exchange} To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy \blindchips, using many different cryptocurrencies.
-
-\item \textbf {Analytics}. The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.
-
-\item \textbf {Bonus Program}. Set up your bonus program to motivate your players even more. Add free spins and bonus rewards. We are going to develop new bonus types and bonus programs and keep you informed.
-
-\item \textbf {CMS}. Edit the content, drag and drop game blocks, add special offers, set up SEO.
-
-\item \textbf {Multilingual}. Localise your casino for any market.
-
-\item  \textbf {JACKPOT}. A progressive jackpot motivates your players to increase the stakes. You can connect your games to a system which certifies the jackpot size and choosing the winner in a fair manner. 
-
-\item \textbf {Anti-Fraud System}. Our algorithms make Player fraudery and Croupier cheating impossible even in theory. All money transfers are controlled by the smart contract, immune to external control.
-
-\item \textbf {Mobile Casino} \todo {добавить о мобильном казино}
-
+The main reason preventing us from delivering our products at a global level is Ethereum's lack of recognition outside the blockchain community. There needs to be a way to deposit funds more conveniently. To achieve this one must acquire a gambling license. We are going to get one and introduce the sale of BlindChips online by using traditional payment methods: credit cards and payment systems. This has nothing to do with gameplay fairness and transparency. For the casino owners this means there is no need to get a gambling license because all the payments are processed by Blind Croupier.
