@@ -19,8 +19,8 @@ It's also obvious that the industry will not move forward to a new stage of onli
 
 This is what happened in [1994](http://www.rightcasino.com/news/history-of-online-casinos/), when Microgaming created the first online gambling software, starting a gold rush all over the world. 
 
-\projectname will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market.
+Blind Crupier will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market.
 
-We have already done a tremendous job, starting from a general concept and ending up with a working beta-version of a video poker game. We have completely solved the problems of slow staking and fair, no oracle\footnote{\textit{An oracle} is a third-party data supplier for a smart-contract.}, pseudo-random number generation.
+We have already done a tremendous job, starting from a general concept and ending up with a working beta-version of a video poker game. We have completely solved the problems of slow staking and fair, no oracle (An oracle is a third-party data supplier for a smart-contract, pseudo-random number generation).
 
 This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
