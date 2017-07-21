@@ -15,7 +15,7 @@ The moment smart contracts emerged, the gambling industry changed forever. Casin
 
 It's also obvious that the industry will not move forward to a new stage of online gambling until there is a complete solution, providing both a platform and games while taking advantage of smart contracts. We believe that the market drives the advance of technology, which, in turn, drives market growth.
 
-Blind Croupier will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market.
+Blind Croupier will open a new door in online gambling and provide all the tools necessary to start your own decentralized casino. We are sure that our solution will create a new start for the industry, and that our company will take the lead in this emerging market, which has already **reached 470Billions USD.**
 
 We have already done a tremendous job, starting from a general concept and ending up with a working beta-version of a video poker game. We have completely solved the problems of slow staking and fair, no oracle (An oracle is a third-party data supplier for a smart-contract, pseudo-random number generation).
 
@@ -267,5 +267,6 @@ The chance of winning the jackpot depends on the number of transactions to the F
 ## Jackpot Winner Determining Algorithm
 
 A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
+
 
 
