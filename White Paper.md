@@ -1,5 +1,5 @@
 # BLINDCROUPIER.io White Paper
-#### Jul 21, 2017  <img align="right" src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="100">
+#### Jul 21, 2017  <img align="right" src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="125">
 
 Blind Croupier is a gambling software development company, prodiving decentralized, fair and  transparent gambling solutions for casinos working in the Ethereum blockchain.
 
@@ -267,6 +267,5 @@ The chance of winning the jackpot depends on the number of transactions to the F
 ## Jackpot Winner Determining Algorithm
 
 A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
-
 
 
