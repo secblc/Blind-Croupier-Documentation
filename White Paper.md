@@ -155,6 +155,19 @@ On the bottom side there are 3 fields, indicating the player's credit, the last 
 
 Having placed a bet, the player pushes the "Deal" button and receives five cards from the 52-card deck. By touching a card, the player can put it on hold. After that, the player pushes the "DRAW" button  and the machine changes the free cards for him. In case there is a winning combination, shown in the top table, the appropriate win is deposited to the player's account. The combinations correspond to the standard poker combinations, the lower the chances, the higher the payouts.
 
+| Combination  | LVL1  | LVL2  | LVL3  | LVL4  | LVL5  |
+|---|---|:-:|---|:-:|---|
+| Flush Royal  | 250  | 500  |  750 |  1000 |  4000 |
+| Straight Flush  | 50  | 100 | 150  | 200  |  250 |
+| Four of Kind  | 25  | 50  | 75  | 100  |  125 |
+|  Full House | 9  |  18 |  27 | 36  | 45  |
+|  Flush |  6 |  12 | 18  |  24 | 30  |
+|  Straight | 4  | 8  | 12  | 16  | 20  |
+| Three Of Kind  | 3  |  6 |  9 | 12  | 15  |
+| Two Pairs  |  2 | 4  | 6  |  8 |  10 |
+| Jacks or Better  |  1 | 2  |  3 |  4 | 5  |
+| **PAYOUTS** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
+
 ## Implementation
 The Player and the Croupier first generate a key pair of a private and a public key and submit the public key to the Bank. This operation uses 1 blockchain transaction, but must be completed only once. After it is done, all commands issued by any side (Player or Croupier) are signed by the private key of the corresponding side. The signature can then be validated by any party.
 
