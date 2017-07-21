@@ -10,10 +10,10 @@ Blind Crupier is a gambling software development company, prodiving decentralize
 
 **Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), independent of a casino's will.
 
-## Продажа токенов
+# Продажа токенов
 303,000,000BCT ( «Blind Crupier Tokens»)стандарта ERC20, будет выставлено на продажу на протяжении 303 раздельных периодов (1,000,000BCT на период) продолжительность каждого 24 часа или пока все доступные для периода токены не будут выкуплены, все не проданые в периоде токены сжигаются сразу же после окончания периода. Продажа токенов начнется с 13 августа, 2017 года и закончится по окончанию 303 периода. Пожалуйста, внимательно ознакомьтесь с ниже приведеными условиями распределения токенов, прежде чем принять свое участие.
 
-### Распределение токенов
+## Распределение токенов
 **Стоимость токена:** Начальная стоимость 1BCT=0.1$.
 В новом периоде цена увеличивается на 1.7% от цены предыдущего периода.
 Если в предыдущем периоде сожжено 20% или более токенов тогда цена в новом периоде не увеличивается.
@@ -64,7 +64,7 @@ TOP-1 участник вложивший наибольшую сумму ETH 
 
  * *Май-Июль 2018:} Презентация продвинутой игровой платформы, с дополнительным набором игр. Запуск маркетинговой кампании.*
 
-## Introduction
+# Introduction
 
 The moment smart contracts emerged, the gambling industry changed forever. Casinos are becoming transparent and fair with their help. A player can easily check all the transactions, confirm the source code validity and check a casino's advantage in no time.
 
@@ -76,7 +76,7 @@ We have already done a tremendous job, starting from a general concept and endin
 
 This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
 
-## The retrospective
+# The retrospective
 
 It all began in [1994](http://www.rightcasino.com/news/history-of-online-casinos/), when Microgaming company presented the first online gambling platform, allowing to build a full-scale casino. The same year Antigua and Barbuda's government passed  ["Free Trade and Processing Zone"](http://laws.gov.ag/new/detail_page.php?page=content/year.php), describing steps required to obtain an online casino license. This act served as the foundation of the industry's growth. In 1997 there were about 200 online casinos around, compared to 15 in 1996.
 
@@ -94,13 +94,13 @@ The Bitcoin platforms also gave a boost to casinos using the currency because of
 
 But Bitcoin casinos were still unable to solve the main gambling problem: a player can never be sure a casino is playing fair.
 
-## The Problems Solved By the Algorithm
+# The Problems Solved By the Algorithm
 
 The absence of fairness or transparency checking facilities is the main problem for a casino. A player has to rely on the good will of the casino owners and third party recommendations. He can't possibly check the source code and what is mostly important, whether a server generates unbiased random data. This is the case because the information is kept private and available only for the casino owners. The closed system is what discourages gamblers from using online casinos.
 
 This is not good for the casino itself. Even if it plays fairly, there is no way to prove this as there is no way to prove the size of the jackpot stated. To solve this, a casino must pay rating agencies, creating an unnecessary dependency on affiliated third parties.
 
-### Pseudo-Random Number Generation (PRNG)
+## Pseudo-Random Number Generation (PRNG)
 **Problem:** For any online casino the used [PRNG](https://en.wikipedia.org/wiki/Pseudorandom_number_generator/) is of utter importance. **добавить что в закрытой системе не возможно удостоверится не подкидывает ли тебе казино фальшивый рандом**
 
 **Our solution:** In the BlindCrupier's algorithm we use a very simple idea to generate random data. Each side has a private key, used to sign messages and commands. We use it to sign the fixed message, consisting of 4 parts: the Croupier's address, the Player's address, the game id and the seed id. The random seed is then acquired from this signature by a very simple manupulation. Until the seed is published it is only known to the owner of the private key. However, after the seed is published, any party can easily verify it by checking the signature against the public key of the seed owner. So, each random seed used in BlindCrupier's algorithm has two major traits:
@@ -110,37 +110,37 @@ This is not good for the casino itself. Even if it plays fairly, there is no way
 
 After both seeds are published (1 Croupier seed and 1 Player seed), we mix them to get a truly random unbiased seed. All sides use it to independently calculate the game result.
 
-### Gaming Speed and Slow Staking
+## Gaming Speed and Slow Staking
 
 **Problem:** Most blockhain-based casinos require waiting time for the stake to be accepted (a time of one transaction). Because  smart contract transactions are slow, they require new blocks generation. That's the reason many existing solutions work slowly. This significantly spoils the game process.  
 
 **Our solution:** We use HTTPS only to exchange the signed commands between Player and Croupier. No Bank transactions are made that can disrupt or slow down the normal gameplay. The Player can place bets, draw and replace cards, finish the game and begin a new game as fast as allowed by his HTTPS connection. The only final transaction is made in the background when the game is finished. It doesn't slow down the gameplay. For staking we use specially designed BlindChips tokens. Their main distinguishing feature is the fact that anyone possessing the private key (initially generated by the player) can own them. So, to begin a game, the Player sends the Croupier the signed command to move some  BlindChips, and the Croupier instantly checks their validity and begins the game. There is no need to wait for the blockchain transaction confirmation. This approach combines the blockchain's absolute reliability and traditional online casino speed.
 
-### Fairness check
+## Fairness check
 
 **Problem:** There is no way to check the mathematical advantage of a casino because of the closed casino system.
 
 **Our solution:** All the randomness used in the process is generated from four random seeds. Each of the seeds is random and verifyable. No one can influence the generation of the seeds and anyone can check the seeds have been generated correctly. So, the advantage is truly determined by the game rules which are absolutely transparent.
 
-### Miners' Manipulations
+## Miners' Manipulations
 
 **Problem:** In some blockchain systems, freshly generated block parameters are used to generate randomness. This approach is criticized quite a [lot](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract), because it is vulnerable to some manipulation by the miners. Theoretically speaking, miners could delay the mined blocks until a better block appears, giving them an unfair advantage. It must be noted that all these attack vectors are purely theoretical and high-cost. There is no proof of real attacks taking place.
 
 **Our solution:** We don't use block parameters as a randomness source. Instead, we mix seeds generated by Croupier and by Player to get totally random seed.
 
-### Third Party Random Sources
+## Third Party Random Sources
 
 **Problem:** A lot of existing solutions use third party randomness vendors (e.g.http://random.org). Taking into account the aforesaid, it's clear that a malicious action by these vendors could lead to an unfair advantage for the Player or the Croupier. Simply put, while generating the required random seed, a site like random.org could easily win the jackpot. 
 
 **Our solution:** We don't use third party randomness. All our randomness is generated inside the system.
 
-### The Jackpot Validation
+## The Jackpot Validation
 
 **Problem:** There is no way to validate the fact that the published jackpot amount really exists.
 
 **Our solution:** The Croupier's bankroll is stored in the Bank, which is an Ethereum smart contract. All the funds of a smart contract are public and can be validated by anyone.
 
-## Algorithms and Video Poker Implementation
+# Algorithms and Video Poker Implementation
 
 Let's look at one of the possible Player-Croupier-Bank algorithms, already implemented in the beta version of the Video Poker game from \projectname. Please note that the same idea can be used to develop and implement an algorithm for any possible casino game with 2 or more participants.
 
