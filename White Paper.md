@@ -141,7 +141,7 @@ After both seeds are published (1 Croupier seed and 1 Player seed), we mix them 
 
 # Algorithms and Video Poker Implementation
 
-Let's look at one of the possible Player-Croupier-Bank algorithms, already implemented in the beta version of the Video Poker game from \projectname. Please note that the same idea can be used to develop and implement an algorithm for any possible casino game with 2 or more participants.
+Let's look at one of the possible Player-Croupier-Bank algorithms, already implemented in the beta version of the Video Poker game from Blind Croupier. Please note that the same idea can be used to develop and implement an algorithm for any possible casino game with 2 or more participants.
 
 Our algorithms are specialised for building casinos for 3 parties: the Player (playing through the client-side Javascript), the Croupier (an automatic server, belonging to the casino) and the Bank (a Solidity smart-contract, hosted in the Ethereum blockchain). The Player and the Croupier have no mutual trust in each other and trust the Bank unconditionally. The Bank receives the Player's and the Croupier's request, processes them and moves the funds (staking, winning, etc). In case someone (Player or Croupier) tries to cheat or refuses to oblige, the second party complains to he Bank (this is done automatically) and the Bank makes the final judgement and fines the guilty side if necessary. 
 
@@ -168,7 +168,7 @@ Having placed a bet, the player pushes the "Deal" button and receives five cards
 | Jacks or Better  |  1 | 2  |  3 |  4 | 5  |
 | **PAYOUTS** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
 
-## Implementation
+# Alghoritm Implementation
 The Player and the Croupier first generate a key pair of a private and a public key and submit the public key to the Bank. This operation uses 1 blockchain transaction, but must be completed only once. After it is done, all commands issued by any side (Player or Croupier) are signed by the private key of the corresponding side. The signature can then be validated by any party.
 
 First of all, Player submits the signed bet command (the amount of chips he is willing to put at stake, signed by the private key) to Croupier. Croupier validates the command and begins the game.
@@ -185,11 +185,11 @@ If Cropuier fails to submit the information, Player kindly waits for the time re
 
 # Technologies and Methodologies
 
-In development, we use the latest tech and methodological stack. The main programming languages used in our project are Javascript (ECMAScript 6) and Solidity 0.4.11. Initially we write all the smart contracts code in specially designed iSolidity language, which is compiled into normal Solidity code. We designed iSolidity and implemented iSolidity to Solidity compiler to solve some major problems of Solidity (like the inability to pass structures and arrays of structures to and from a contract). For smart contract development we use the [Truffle framework](https://truffleframework.com). We are unit-testing with [Mocha](https://mochajs.org) and [Chai](\url{https://chaijs.com). For source code transpiling we use [Babel](https://babeljs.io). We stick to the strict source code style and validity by using [ESLint](eslint.org). We use [solc](https://github.com/ethereum/solidity) for the smart contract compilation. For Player-Croupier API building we use [Swagger](http://swagger.io/) and [Express framework](https://expressjs.com/). We use [Webpack](https://webpack.github.io/) for packaging and optimizing the source code.
+In development, we use the latest tech and methodological stack. The main programming languages used in our project are Javascript (ECMAScript 6) and Solidity 0.4.11. Initially we write all the smart contracts code in specially designed iSolidity language, which is compiled into normal Solidity code. We designed iSolidity and implemented iSolidity to Solidity compiler to solve some major problems of Solidity (like the inability to pass structures and arrays of structures to and from a contract). For smart contract development we use the [Truffle framework](https://truffleframework.com). We are unit-testing with [Mocha](https://mochajs.org) and [Chai](https://chaijs.com). For source code transpiling we use [Babel](https://babeljs.io). We stick to the strict source code style and validity by using [ESLint](eslint.org). We use [solc](https://github.com/ethereum/solidity) for the smart contract compilation. For Player-Croupier API building we use [Swagger](http://swagger.io/) and [Express framework](https://expressjs.com/). We use [Webpack](https://webpack.github.io/) for packaging and optimizing the source code.
 
 * *Methodologies: We use Agile working methodologies. To coordinate our work we use [Pivotal
 Tracker](https://pivotaltracker.com), Discord, Slack. To control the source code versions we use [Git](https://git-scm.com/).*
-* *Client Side: The client side uses HTML5, CSS3, Javascript with React / Redux. To preprocess CSS we use [LESS](http://lesscss.org/).
+* *Client Side: The client side uses HTML5, CSS3, Javascript with React / Redux. To preprocess CSS we use [LESS](http://lesscss.org/).*
 * *Server Side: The Server Side is implemented in Javascript with the use of Node.js.*
 
 # Blind Croupier Platform
@@ -212,7 +212,7 @@ The release of the platform is split into two stages. The features and functiona
 
 ### Description
 
-* **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy \blindchips, using many different cryptocurrencies.*
+* **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy BlindChips, using many different cryptocurrencies.*
 
 * **Analytics.** The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.*
 
@@ -235,20 +235,20 @@ The main reason preventing us from delivering our products at a global level is 
 
 Any casino, using Blind Croupier software can choose a set of games to connect to the BlindJackpot fund. A percentage of bets placed will be automatically put into it. The percent transferred is 1/5 of the house edge of the specific game.
 
-* **For example:** for the videopoker 5-bet game the casino's expected revenue from each bet is 0.46\%, so 1/5 or 0.092\% of each bet is transferred to Blind Jackpot Fund.*
+* **For example:** for the videopoker 5-bet game the casino's expected revenue from each bet is 0.46%, so 1/5 or 0.092% of each bet is transferred to Blind Jackpot Fund.*
 
 The chance of winning the jackpot depends on the number of transactions to the Fund the player has made *(the more transactions made, the larger the Fund's share is and the higher the chance is)*. **Only high-bidders can deposit to the Fund.**
 
 
 ## The BlindJackpot Fund is divided into three prize funds:
 
-* **Mega Jackpot** is the largest one.The winning amount is 28\% of the Fund's size. The payout interval \todo {убрать везде упоминания о роялти}is 28 days. After Mega Jackpot payout the rest of the money is moved to the next cycle.
+* **Mega Jackpot** is the largest one.The winning amount is 28% of the Fund's size. The payout interval is 28 days. After Mega Jackpot payout the rest of the money is moved to the next cycle.
 **All the "tickets" are destroyed before the new cycle beginning.** *
 	
 * **Miracle Jackpot** is the second largest of the regular payouts. It's 4% of the Fund's size. The payout interval is 16 days. The winning "ticket" is excluded from the further payout cycles.*
 
-* **Wild Jackpot** is the daily payout of 0.3\% of the Fund's size.*
-\end{itemize}
+* **Wild Jackpot** is the daily payout of 0.3% of the Fund's size.*
+
 
 *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.(
 
@@ -261,4 +261,10 @@ The chance of winning the jackpot depends on the number of transactions to the F
 
 * **Transparency** - the BlindJackpot Fund is controlled by a smart contract. All the transactions, source code, balance, winner determining are transparent and open for the public inspection.*
 
-* **Player Motivation and Syndicates creation** - the BlindJackpot Fund is created to motivate player to place the bets larget than the required size thus increasing the casino's revenue. The main motive for the players are transparency and large win possibility. To drive the motivation even more \projectname is going to promite the creation of syndicates. A syndicate gives a higher winning chance in exchange of a small prize share. They can be formed either by a group of people closely connected to each other (relatives, friends) or in specially created communities.*
+* **Player Motivation and Syndicates creation** - the BlindJackpot Fund is created to motivate player to place the bets larget than the required size thus increasing the casino's revenue. The main motive for the players are transparency and large win possibility. To drive the motivation even more Blind Croupier is going to promite the creation of syndicates. A syndicate gives a higher winning chance in exchange of a small prize share. They can be formed either by a group of people closely connected to each other (relatives, friends) or in specially created communities.*
+
+## Jackpot Winner Determining Algorithm
+
+A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
+
+
