@@ -117,9 +117,9 @@ After both seeds are published (1 Croupier seed and 1 Player seed), we mix them 
 
 ## Fairness check
 
-**Problem:** There is no way to check the mathematical advantage of a casino because of the closed casino system.
+<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="20"> **Problem:** There is no way to check the mathematical advantage of a casino because of the closed casino system.
 
-**Our solution:** All the randomness used in the process is generated from four random seeds. Each of the seeds is random and verifyable. No one can influence the generation of the seeds and anyone can check the seeds have been generated correctly. So, the advantage is truly determined by the game rules which are absolutely transparent.
+<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **Our solution:** All the randomness used in the process is generated from four random seeds. Each of the seeds is random and verifyable. No one can influence the generation of the seeds and anyone can check the seeds have been generated correctly. So, the advantage is truly determined by the game rules which are absolutely transparent.
 
 ## Miners' Manipulations
 
@@ -243,11 +243,11 @@ The chance of winning the jackpot depends on the number of transactions to the F
 ## The BlindJackpot Fund is divided into three prize funds:
 
 * **Mega Jackpot** is the largest one.The winning amount is 28% of the Fund's size. The payout interval is 28 days. After Mega Jackpot payout the rest of the money is moved to the next cycle.
-**All the "tickets" are destroyed before the new cycle beginning.** *
+**All the "tickets" are destroyed before the new cycle beginning.** 
 	
-* **Miracle Jackpot** is the second largest of the regular payouts. It's 4% of the Fund's size. The payout interval is 16 days. The winning "ticket" is excluded from the further payout cycles.*
+* **Miracle Jackpot** is the second largest of the regular payouts. It's 4% of the Fund's size. The payout interval is 16 days. The winning "ticket" is excluded from the further payout cycles.
 
-* **Wild Jackpot** is the daily payout of 0.3% of the Fund's size.*
+* **Wild Jackpot** is the daily payout of 0.3% of the Fund's size.
 
 
 * *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.*
@@ -256,12 +256,13 @@ The chance of winning the jackpot depends on the number of transactions to the F
 ## BlindJackpot Main Features
 * **Cycles:** For the long time players are not excited by the low-chance large-sized jackpots. In the BlindJackpot fund money don't accumulate for ages, instead there are cycles with certain time periods. Everyone knows the moment a new winner is determined. The cycle lasts for 28 days, after that all the "tickets" are destroyed and the rest of the money is moved to the next cycle. Working this way we hope to reach the balance between the jackpot's size and the probability of winning.*
 
-* **The teamwork** - the BlindJackpot fund is an excellent opportunity for the competitive casinos to cooperate. Collectively, giving away a small percentage of the revenue they can achieve a really impressive prize fund. The player's chance to win is the same independent of the specific casino he is playing in.*
-* **Accumulation** - each cycle ends with the announcement of the winner. It lasts 28 days. The major part of the money is then transfered to the next cycle to keep the BlindJackpot Fund growing.*
+* **The teamwork** - the BlindJackpot fund is an excellent opportunity for the competitive casinos to cooperate. Collectively, giving away a small percentage of the revenue they can achieve a really impressive prize fund. The player's chance to win is the same independent of the specific casino he is playing in.
 
-* **Transparency** - the BlindJackpot Fund is controlled by a smart contract. All the transactions, source code, balance, winner determining are transparent and open for the public inspection.*
+* **Accumulation** - each cycle ends with the announcement of the winner. It lasts 28 days. The major part of the money is then transfered to the next cycle to keep the BlindJackpot Fund growing.
 
-* **Player Motivation and Syndicates creation** - the BlindJackpot Fund is created to motivate player to place the bets larget than the required size thus increasing the casino's revenue. The main motive for the players are transparency and large win possibility. To drive the motivation even more Blind Croupier is going to promite the creation of syndicates. A syndicate gives a higher winning chance in exchange of a small prize share. They can be formed either by a group of people closely connected to each other (relatives, friends) or in specially created communities.*
+* **Transparency** - the BlindJackpot Fund is controlled by a smart contract. All the transactions, source code, balance, winner determining are transparent and open for the public inspection.
+
+* **Player Motivation and Syndicates creation** - the BlindJackpot Fund is created to motivate player to place the bets larget than the required size thus increasing the casino's revenue. The main motive for the players are transparency and large win possibility. To drive the motivation even more Blind Croupier is going to promite the creation of syndicates. A syndicate gives a higher winning chance in exchange of a small prize share. They can be formed either by a group of people closely connected to each other (relatives, friends) or in specially created communities.
 
 ## Jackpot Winner Determining Algorithm
 
