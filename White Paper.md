@@ -283,8 +283,6 @@ A casino's revenue is formed from the house edge, (assured percentage return to 
 
 # How Blind Croupier earn money?
 
-Blind Croupier's Revenue Flow 
-
 Basically, Blind Croupier uses a standard revenue model, which consists of fixed fees and variable charges. This model minimises the initial software investment for casino's. We believe that a casino should invest mainly in marketing and bankrolling.
 
 For Blind Croupier this model guarantees monthly revenue flow, motivating us to improve our products and to release new ones. We look forward to providing first-class support and helping our partner casinos — we are interested in their success like no one else! 
