@@ -231,7 +231,7 @@ The release of the platform is split into two stages. The features and functiona
 
 ## Mobile Casino 
 
-Mobile casinos actually represent a brand new craze of online casino industry (Reached €13.5Billions [H2 Gambling Capital report](http://www.igamingbusiness.com/news/igaming-dashboard-june-2017)). Internet expansion in Smartphone helped greatly the world of gambling providing a wide array of online mobile casinos. Online mobile casinos offer the same excitement and thrill like you get in real casino. Besides, some of the reputed mobile casinos. We will, provide gamblers with high quality graphics and most powerful software to offer a realistic gambling experience. With all these advantages, there is no doubt that online mobile casino is here to stay. 
+Mobile casinos actually represent a brand new craze of online casino industry (Reached €13.5Billions [H2 Gambling Capital report](http://www.igamingbusiness.com/news/igaming-dashboard-june-2017)). Internet expansion in Smartphone helped greatly the world of gambling providing a wide array of online mobile casinos. Online mobile casinos offer the same excitement and thrill like you get in real casino. Besides, some of the reputed mobile casinos. Blind Croupier will, provide gamblers with high quality graphics and most powerful software to offer a realistic gambling experience. With all these advantages, there is no doubt that online mobile casino is here to stay. 
 
 
 ## White Label Casino and Payment Aggregation
