@@ -242,19 +242,23 @@ The main reason preventing us from delivering our products at a global level is 
 
 Any casino, using Blind Croupier software can choose a set of games to connect to the BlindJackpot fund. A percentage of bets placed will be automatically put into it. The percent transferred is 1/5 of the house edge of the specific game.
 
-* **For example:** for the videopoker 5-bet game the casino's expected revenue from each bet is 0.46%, so 1/5 or 0.092% of each bet is transferred to Blind Jackpot Fund.
+> **For example:** for the videopoker 5-bet game the casino's expected revenue from each bet is 0.46%, so 1/5 or 0.092% of each bet is transferred to Blind Jackpot Fund.
 
 The chance of winning the jackpot depends on the number of transactions to the Fund the player has made *(the more transactions made, the larger the Fund's share is and the higher the chance is)*. **Only high-bidders can deposit to the Fund.**
 
 
-## The BlindJackpot Fund is divided into three prize funds:
+## The Blind Jackpot Fund is divided into three prize funds:
+
+Процент выплат из призового фонда построен таким образом, что там всегда присутствует аккамуляция, то есть призовой фонд не истощается, а большая часть из его средств переходит в новый цикл.
+
+> **Пример** Для наглядного подсчета предположим, что призовой фонд не пополняется от новых ставок и его баланс для всего >цикла равен 1,000$. Для выплат Wild Jackpot понадобится 73.9$, для Miracle Jack Pot 38.2$ (одна выплата за цикл==>следующий >цикл две выплаты), для Mega Jackpot 248.6$ Тогда в новый цикл перейдет 639.9$ и так далее. **Все подсчеты осуществлены без учета  пополнения фонда новыми отчислениями от ставок.**
 
 * **Mega Jackpot** is the largest one.The winning amount is 28% of the Fund's size. The payout interval is 28 days. After Mega Jackpot payout the rest of the money is moved to the next cycle.
 **All the "tickets" are destroyed before the new cycle beginning.** 
 	
 * **Miracle Jackpot** is the second largest of the regular payouts. It's 4% of the Fund's size. The payout interval is 16 days. The winning "ticket" is excluded from the further payout cycles.
 
-* **Wild Jackpot** is the daily payout of 0.3% of the Fund's size.
+* **Wild Jackpot** is the daily payout of 0.3% of the Fund's size. **Wild Jackpot не разыгрывается по дням когда идут розыгрыши других фондов**
 
 
 *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.*
@@ -280,10 +284,12 @@ A winner is determined randomly using a specially designed blockchain-based algo
 <img align="right" src="https://user-images.githubusercontent.com/30338333/28489539-d48dc560-6ef7-11e7-87f8-f159419e45e9.png" width="470">
 Online gaming, or gambling, is the wagering of something of value, usually money, on the outcome of an event or game using the internet. Online gaming includes such activities as poker, casinos (where people can play traditional casino games, like roulette or blackjack, but online), sports betting, bingo and lotteries. Of these, casino games and sports betting make up the largest share of the market. The market volume of online gaming was forecasted to reach 51.96 billion U.S. dollars in 2018, more than doubling since 2009. 
 
-# House Edge or How Casino's earn money?
-A casino's revenue is formed from the house edge, (assured percentage return to the venue over time). We will develop games with different house edges. These include games with minimal house advantages requiring skills to play: for video poker, the house edge, given a player sticks to the best strategy possible, is 0.46%, for blackjack — 0.28% and the most popular games, in which success depends heavily on a player's luck: For roulette the house edge is 2.7%, for videoslots — 1-10%.
 
-* **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%. In theory after 10 spins, betting 1 unit per spin, the average house profit will be 10 x 1 x 2.76% = 0.27 units. Of course, the casino may not win exactly 0.27 units; this figure is the average casino profit from each player if it had millions of players each betting for 10 spins at 1 unit per spin.
+
+# House Edge or Casino's Revenue
+A casino's revenue is formed from the house edge. The house edge is defined as the ratio of the average loss to the initial bet. The house edge is not the ratio of money lost to total money wagered. We will develop games with different house edges. These include games with minimal house advantages requiring skills to play: video poker, the house edge, given a player sticks to the best strategy possible, is 0.46%, for blackjack — 0.28% and the most popular games, in which success depends heavily on a player's luck: For roulette the house edge is 2.7%, for videoslots — 1-10%.
+
+> **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%. In theory after 10 spins, betting 1 unit per spin, the average house profit will be 10 x 1 x 2.76% = 0.27 units. Of course, the casino may not win exactly 0.27 units; this figure is the average casino profit from each player if it had millions of players each betting for 10 spins at 1 unit per spin.
 
 # How Blind Croupier earn money?
 
