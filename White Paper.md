@@ -1,5 +1,5 @@
 # BLINDCROUPIER.io White Paper
-#### Jul 21, 2017  <img align="right" src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="125">
+#### Jul 21, 2017 
 
 Blind Croupier is a **gambling software development company** [Business to business], prodiving decentralized, fair and  transparent gambling solutions for casinos.
 
@@ -9,7 +9,7 @@ Blind Croupier is a **gambling software development company** [Business to busin
 
 **Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), independent of a casino's will.
 
-# Introduction
+# Introduction <img align="right" src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="70">
 
 The moment smart contracts emerged, the gambling industry changed forever. Casinos are becoming transparent and fair with their help. A player can easily check all the transactions, confirm the source code validity and check a casino's advantage in no time.
 
