@@ -277,9 +277,9 @@ Online gaming, or gambling, is the wagering of something of value, usually money
 
 
 # House Edge or How Casino's earn money?
-A casino's revenue is formed from the house edge, (assured percentage return to the venue over time). We will develop games with different house edges. These include games with minimal house advantages requiring skills to play: for video poker, the house edge, given a player sticks to the best strategy possible, is 0.46%, for blackjack — 0.28% and the most popular games, in which success depends heavily on a player's luck: For roulette the house edge is 2.7\, for videoslots — 1-10.
+A casino's revenue is formed from the house edge, (assured percentage return to the venue over time). We will develop games with different house edges. These include games with minimal house advantages requiring skills to play: for video poker, the house edge, given a player sticks to the best strategy possible, is 0.46%, for blackjack — 0.28% and the most popular games, in which success depends heavily on a player's luck: For roulette the house edge is 2.7%, for videoslots — 1-10%.
 
-* **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%
+* **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%. In theory after 10 spins, betting 1 unit per spin, the average house profit will be 10 x 1 x 2.76% = 0.27 units. Of course, the casino may not win exactly 0.27 units; this figure is the average casino profit from each player if it had millions of players each betting for 10 spins at 1 unit per spin.
 
 # How Blind Croupier earn money?
 
