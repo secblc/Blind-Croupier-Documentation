@@ -9,7 +9,7 @@ Blind Croupier is a **gambling software development company** [Business to busin
 
 **Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), independent of a casino's will.
 
-# Introduction <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="70">
+# Introduction <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
 
 The moment smart contracts emerged, the gambling industry changed forever. Casinos are becoming transparent and fair with their help. A player can easily check all the transactions, confirm the source code validity and check a casino's advantage in no time.
 
@@ -21,7 +21,7 @@ We have already done a tremendous job, starting from a general concept and endin
 
 This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
 
-# Продажа токенов <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="50">
+# Продажа токенов <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
 303,000,000BCT ( «Blind Croupier Tokens»)стандарта ERC20, будет выставлено на продажу на протяжении 303 раздельных периодов (1,000,000BCT на период) продолжительность каждого 24 часа или пока все доступные для периода токены не будут выкуплены, все не проданые в периоде токены сжигаются сразу же после окончания периода. Продажа токенов начнется с 13 августа, 2017 года и закончится по окончанию 303 периода. Пожалуйста, внимательно ознакомьтесь с ниже приведеными условиями распределения токенов, прежде чем принять свое участие.
 
 ## Распределение токенов
@@ -78,7 +78,7 @@ BlindChips - Games in all the connected casinos will be played with special game
 
  * *Май-Июль 2018:} Презентация продвинутой игровой платформы, с дополнительным набором игр. Запуск маркетинговой кампании.*
 
-# The retrospective <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="70">
+# The retrospective <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
 
 It all began in [1994](http://www.rightcasino.com/news/history-of-online-casinos/), when Microgaming company presented the first online gambling platform, allowing to build a full-scale casino. The same year Antigua and Barbuda's government passed  ["Free Trade and Processing Zone"](http://laws.gov.ag/new/detail_page.php?page=content/year.php), describing steps required to obtain an online casino license. This act served as the foundation of the industry's growth. In 1997 there were about 200 online casinos around, compared to 15 in 1996.
 
@@ -96,7 +96,7 @@ The Bitcoin platforms also gave a boost to casinos using the currency because of
 
 But Bitcoin casinos were still unable to solve the main gambling problem: a player can never be sure a casino is playing fair.
 
-# The Problems Solved By the Algorithm <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="70">
+# The Problems Solved By the Algorithm <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
 
 The absence of fairness or transparency checking facilities is the main problem for a casino. A player has to rely on the good will of the casino owners and third party recommendations. He can't possibly check the source code and what is mostly important, whether a server generates unbiased random data. This is the case because the information is kept private and available only for the casino owners. The closed system is what discourages gamblers from using online casinos.
 
@@ -142,7 +142,7 @@ After both seeds are published (1 Croupier seed and 1 Player seed), we mix them 
 
 <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **Our solution:** The Croupier's bankroll is stored in the Bank, which is an Ethereum smart contract. All the funds of a smart contract are public and can be validated by anyone.
 
-# Algorithms and Video Poker Implementation
+# Algorithms and Video Poker Implementation <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
 
 Let's look at one of the possible Player-Croupier-Bank algorithms, already implemented in the beta version of the Video Poker game from Blind Croupier. Please note that the same idea can be used to develop and implement an algorithm for any possible casino game with 2 or more participants.
 
@@ -171,7 +171,8 @@ Having placed a bet, the player pushes the "Deal" button and receives five cards
 | Jacks or Better  |  1 | 2  |  3 |  4 | 5  |
 | **PAYOUTS** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
 
-# Alghoritm Implementation
+# Alghoritm Implementation <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
+
 The Player and the Croupier first generate a key pair of a private and a public key and submit the public key to the Bank. This operation uses 1 blockchain transaction, but must be completed only once. After it is done, all commands issued by any side (Player or Croupier) are signed by the private key of the corresponding side. The signature can then be validated by any party.
 
 First of all, Player submits the signed bet command (the amount of chips he is willing to put at stake, signed by the private key) to Croupier. Croupier validates the command and begins the game.
@@ -186,7 +187,7 @@ Two remaining random seeds (Player 2 and Croupier 2) are then mixed and used to 
 
 If Cropuier fails to submit the information, Player kindly waits for the time required for the transactions to complete and submits the information himself. The result is the same - the Bank calculates the game result and pays Player his win.
 
-# Technologies and Methodologies
+# Technologies and Methodologies <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
 
 In development, we use the latest tech and methodological stack. The main programming languages used in our project are Javascript (ECMAScript 6) and Solidity 0.4.11. Initially we write all the smart contracts code in specially designed iSolidity language, which is compiled into normal Solidity code. We designed iSolidity and implemented iSolidity to Solidity compiler to solve some major problems of Solidity (like the inability to pass structures and arrays of structures to and from a contract). For smart contract development we use the [Truffle framework](https://truffleframework.com). We are unit-testing with [Mocha](https://mochajs.org) and [Chai](https://chaijs.com). For source code transpiling we use [Babel](https://babeljs.io). We stick to the strict source code style and validity by using [ESLint](eslint.org). We use [solc](https://github.com/ethereum/solidity) for the smart contract compilation. For Player-Croupier API building we use [Swagger](http://swagger.io/) and [Express framework](https://expressjs.com/). We use [Webpack](https://webpack.github.io/) for packaging and optimizing the source code.
 
@@ -195,7 +196,8 @@ Tracker](https://pivotaltracker.com), Discord, Slack. To control the source code
 * *Client Side: The client side uses HTML5, CSS3, Javascript with React / Redux. To preprocess CSS we use [LESS](http://lesscss.org/).*
 * *Server Side: The Server Side is implemented in Javascript with the use of Node.js.*
 
-# Blind Croupier Platform
+# Blind Croupier Platform <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
+
 The release of the platform is split into two stages. The features and functionality are described in table.
 
 |  Platform features | Basic platform  | Advanced platform  |
@@ -238,7 +240,7 @@ Mobile casinos actually represent a brand new craze of online casino industry (R
 
 The main reason preventing us from delivering our products at a global level is Ethereum's lack of recognition outside the blockchain community. There needs to be a way to deposit funds more conveniently. To achieve this one must acquire a gambling license. We are going to get one and introduce the sale of BlindChips online by using traditional payment methods: credit cards and payment systems. This has nothing to do with gameplay fairness and transparency. For the casino owners this means there is no need to get a gambling license because all the payments are processed by Blind Croupier.
 
-# The Blind Jackpot Fund
+# The Blind Jackpot Fund <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
 
 Any casino, using Blind Croupier software can choose a set of games to connect to the BlindJackpot fund. A percentage of bets placed will be automatically put into it. The percent transferred is 1/5 of the house edge of the specific game.
 
@@ -279,19 +281,20 @@ The chance of winning the jackpot depends on the number of transactions to the F
 
 A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
 
-# iGaming Market
+# iGaming Market <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
 
 <img align="right" src="https://user-images.githubusercontent.com/30338333/28489539-d48dc560-6ef7-11e7-87f8-f159419e45e9.png" width="470">
 Online gaming, or gambling, is the wagering of something of value, usually money, on the outcome of an event or game using the internet. Online gaming includes such activities as poker, casinos (where people can play traditional casino games, like roulette or blackjack, but online), sports betting, bingo and lotteries. Of these, casino games and sports betting make up the largest share of the market. The market volume of online gaming was forecasted to reach 51.96 billion U.S. dollars in 2018, more than doubling since 2009. 
 
 
 
-# House Edge or Casino's Revenue
+# House Edge or Casino's Revenue <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
+
 A casino's revenue is formed from the house edge. The house edge is defined as the ratio of the average loss to the initial bet. The house edge is not the ratio of money lost to total money wagered. We will develop games with different house edges. These include games with minimal house advantages requiring skills to play: video poker, the house edge, given a player sticks to the best strategy possible, is 0.46%, for blackjack — 0.28% and the most popular games, in which success depends heavily on a player's luck: For roulette the house edge is 2.7%, for videoslots — 1-10%.
 
 > **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%. In theory after 10 spins, betting 1 unit per spin, the average house profit will be 10 x 1 x 2.76% = 0.27 units. Of course, the casino may not win exactly 0.27 units; this figure is the average casino profit from each player if it had millions of players each betting for 10 spins at 1 unit per spin.
 
-# How Blind Croupier earn money?
+# How Blind Croupier earn money? <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
 
 Basically, Blind Croupier uses a standard revenue model, which consists of fixed fees and variable charges. This model minimises the initial software investment for casino's. We believe that a casino should invest mainly in marketing and bankrolling.
 
