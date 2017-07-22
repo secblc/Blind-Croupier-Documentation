@@ -282,7 +282,7 @@ The chance of winning the jackpot depends on the number of transactions to the F
 
 A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
 
-# iGaming Market <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
+# iGaming Market
 
 <img align="right" src="https://user-images.githubusercontent.com/30338333/28489539-d48dc560-6ef7-11e7-87f8-f159419e45e9.png" width="470">
 Online gaming, or gambling, is the wagering of something of value, usually money, on the outcome of an event or game using the internet. Online gaming includes such activities as poker, casinos (where people can play traditional casino games, like roulette or blackjack, but online), sports betting, bingo and lotteries. Of these, casino games and sports betting make up the largest share of the market. The market volume of online gaming was forecasted to reach 51.96 billion U.S. dollars in 2018, more than doubling since 2009. 
