@@ -21,7 +21,7 @@ We have already done a tremendous job, starting from a general concept and endin
 
 This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
 
-# Продажа токенов
+# Продажа токенов <img align="right" src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="70">
 303,000,000BCT ( «Blind Croupier Tokens»)стандарта ERC20, будет выставлено на продажу на протяжении 303 раздельных периодов (1,000,000BCT на период) продолжительность каждого 24 часа или пока все доступные для периода токены не будут выкуплены, все не проданые в периоде токены сжигаются сразу же после окончания периода. Продажа токенов начнется с 13 августа, 2017 года и закончится по окончанию 303 периода. Пожалуйста, внимательно ознакомьтесь с ниже приведеными условиями распределения токенов, прежде чем принять свое участие.
 
 ## Распределение токенов
@@ -78,7 +78,7 @@ BlindChips - Games in all the connected casinos will be played with special game
 
  * *Май-Июль 2018:} Презентация продвинутой игровой платформы, с дополнительным набором игр. Запуск маркетинговой кампании.*
 
-# The retrospective
+# The retrospective <img align="right" src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="70">
 
 It all began in [1994](http://www.rightcasino.com/news/history-of-online-casinos/), when Microgaming company presented the first online gambling platform, allowing to build a full-scale casino. The same year Antigua and Barbuda's government passed  ["Free Trade and Processing Zone"](http://laws.gov.ag/new/detail_page.php?page=content/year.php), describing steps required to obtain an online casino license. This act served as the foundation of the industry's growth. In 1997 there were about 200 online casinos around, compared to 15 in 1996.
 
@@ -96,7 +96,7 @@ The Bitcoin platforms also gave a boost to casinos using the currency because of
 
 But Bitcoin casinos were still unable to solve the main gambling problem: a player can never be sure a casino is playing fair.
 
-# The Problems Solved By the Algorithm
+# The Problems Solved By the Algorithm <img align="right" src="https://user-images.githubusercontent.com/30338333/28461757-c812a592-6e4a-11e7-861b-2360ccfc11d9.png" width="70">
 
 The absence of fairness or transparency checking facilities is the main problem for a casino. A player has to rely on the good will of the casino owners and third party recommendations. He can't possibly check the source code and what is mostly important, whether a server generates unbiased random data. This is the case because the information is kept private and available only for the casino owners. The closed system is what discourages gamblers from using online casinos.
 
