@@ -60,7 +60,7 @@ TOP-1 участник вложивший наибольшую сумму ETH 
 
 * *С BlindChips вы можете делать ставки и получать выигрыши, в любом подключеном к программному обеспечению от Blind Croupier казино*
 
-**Например:** Алиса сдала в аренду 80BCT(80%), а Боб 20BCT(20%) другие держатели токенов воздержались от участия. Оба они выбрали период аренды 1,000,000BlindChips (колличество сделаных ставок) и получат бонус +5% за продолжительный период. Через  3 месяца цель была достигнута, и общими усилиями было сгенерировано 10,000BlindChips. Алиса получила 8,000+400BlindChips, а Боб 2,000B+100BlindChips соответственно.
+> **Например:** Алиса сдала в аренду 80BCT(80%), а Боб 20BCT(20%) другие держатели токенов воздержались от участия. Оба они выбрали период аренды 1,000,000BlindChips (колличество сделаных ставок) и получат бонус +5% за продолжительный период. Через  3 месяца цель была достигнута, и общими усилиями было сгенерировано 10,000BlindChips. Алиса получила 8,000+400BlindChips, а Боб 2,000B+100BlindChips соответственно.
 
 ## Blind Chips
 BlindChips - Games in all the connected casinos will be played with special game credits, called BlindChips. These behave mostly like any other standard Ethereum tokens. They are stored in the buyer's Ethereum wallet and can be freely bought or sold. You can buy and sell BlindChips right on the casino's site. The main purpose of BlindChips is faster stake execution. Their main feature is the exchange algorithm. A Player can stake swiftly, by submitting the set of private keys to the Croupier. 
