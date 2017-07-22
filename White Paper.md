@@ -251,14 +251,14 @@ The chance of winning the jackpot depends on the number of transactions to the F
 
 Процент выплат из призового фонда построен таким образом, что там всегда присутствует аккамуляция, то есть призовой фонд не истощается, а большая часть из его средств переходит в новый цикл.
 
-> **Пример** Для наглядного подсчета предположим, что призовой фонд не пополняется от новых ставок и его баланс для всего цикла равен 1,000$. Для выплат Wild Jackpot понадобится 73.9$, для Miracle Jack Pot 38.2$ [одна выплата за этот цикл==>следующий цикл две выплаты], для Mega Jackpot 248.6$ Тогда в новый цикл перейдет 639.9$ и так далее. **Все подсчеты осуществлены без учета пополнения фонда новыми отчислениями от ставок.**
-
 * **Mega Jackpot** is the largest one.The winning amount is 28% of the Fund's size. The payout interval is 28 days. After Mega Jackpot payout the rest of the money is moved to the next cycle.
 **All the "tickets" are destroyed before the new cycle beginning.** 
 	
 * **Miracle Jackpot** is the second largest of the regular payouts. It's 4% of the Fund's size. The payout interval is 16 days. The winning "ticket" is excluded from the further payout cycles.
 
 * **Wild Jackpot** is the daily payout of 0.3% of the Fund's size. **Wild Jackpot не разыгрывается по дням когда идут розыгрыши других фондов**
+
+> **Пример** Для наглядного подсчета предположим, что призовой фонд не пополняется от новых ставок и его баланс для всего цикла равен 1,000$. Для выплат Wild Jackpot понадобится 73.9$, для Miracle Jack Pot 38.2$ [одна выплата за этот цикл==>следующий цикл две выплаты], для Mega Jackpot 248.6$ Тогда в новый цикл перейдет 639.9$ и так далее. **Все подсчеты осуществлены без учета пополнения фонда новыми отчислениями от ставок.**
 
 
 *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.*
