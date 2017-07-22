@@ -229,6 +229,10 @@ The release of the platform is split into two stages. The features and functiona
 
 *  **Anti-Fraud System.** Our algorithms make Player fraudery and Croupier cheating impossible even in theory. All money transfers are controlled by the smart contract, immune to external control.
 
+## Mobile Casino 
+
+Mobile casinos actually represent a brand new craze of online casino industry (Reached €13.5Billions [H2 Gambling Capital report](http://www.igamingbusiness.com/news/igaming-dashboard-june-2017)). Internet expansion in Smartphone helped greatly the world of gambling providing a wide array of online mobile casinos. Online mobile casinos offer the same excitement and thrill like you get in real casino. Besides, some of the reputed mobile casinos. We will, provide gamblers with high quality graphics and most powerful software to offer a realistic gambling experience. With all these advantages, there is no doubt that online mobile casino is here to stay. 
+
 
 ## White Label Casino and Payment Aggregation
 
@@ -253,7 +257,7 @@ The chance of winning the jackpot depends on the number of transactions to the F
 * **Wild Jackpot** is the daily payout of 0.3% of the Fund's size.
 
 
-* *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.
+*Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.*
 
 
 ## BlindJackpot Main Features
@@ -275,9 +279,6 @@ A winner is determined randomly using a specially designed blockchain-based algo
 
 <img align="right" src="https://user-images.githubusercontent.com/30338333/28489539-d48dc560-6ef7-11e7-87f8-f159419e45e9.png" width="470">
 Online gaming, or gambling, is the wagering of something of value, usually money, on the outcome of an event or game using the internet. Online gaming includes such activities as poker, casinos (where people can play traditional casino games, like roulette or blackjack, but online), sports betting, bingo and lotteries. Of these, casino games and sports betting make up the largest share of the market. The market volume of online gaming was forecasted to reach 51.96 billion U.S. dollars in 2018, more than doubling since 2009. 
-
-
-
 
 # House Edge or How Casino's earn money?
 A casino's revenue is formed from the house edge, (assured percentage return to the venue over time). We will develop games with different house edges. These include games with minimal house advantages requiring skills to play: for video poker, the house edge, given a player sticks to the best strategy possible, is 0.46%, for blackjack — 0.28% and the most popular games, in which success depends heavily on a player's luck: For roulette the house edge is 2.7%, for videoslots — 1-10%.
