@@ -283,4 +283,19 @@ A casino's revenue is formed from the house edge, (assured percentage return to 
 
 # How Blind Croupier earn money?
 
+Blind Croupier's Revenue Flow 
 
+Basically, Blind Croupier uses a standard revenue model, which consists of fixed fees and variable charges. This model minimises the initial software investment for casino's. We believe that a casino should invest mainly in marketing and bankrolling.
+
+For Blind Croupier this model guarantees monthly revenue flow, motivating us to improve our products and to release new ones. We look forward to providing first-class support and helping our partner casinos — we are interested in their success like no one else! 
+
+## Royalties
+The basic charge for the platform and games is 13% of Gross Gaming Revenue (GGR = Stakes - Wins). The royalty payout is performed automatically from the casino's bankroll to the Royalty Fund by the smart contract. The charge for the third party games may be increased.
+
+## Fees
+
+Usage fees are fixed regular payments for platform services, support and server maintenance. The average annual fee is approx. 10,000 $. The basic to advanced platform transition is free of charge. The fee, however, depends on the platform version being used.
+
+## Custom Services
+
+Our partners can use a template platform design or order a unique one. Besides, partners can order unique games, which will be developed exclusively for their project, thus giving them marketing advantages.
