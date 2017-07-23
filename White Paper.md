@@ -227,9 +227,9 @@ Usage fees are fixed regular payments for platform services, support and server 
 Our partners can use a template platform design or order a unique one. Besides, partners can order unique games, which will be developed exclusively for their project, thus giving them marketing advantages.
 
 
-# Operators start
+# Turnkey Solution For Operators Casino 
 
-Решения от Blind Croupier расчитаны под запуск множества казино под нашим программным обеспечением. Мы интегрируем платформу и все доступные игры, 
+Решения от Blind Croupier расчитаны под запуск не одного казино, а множества казино которые будут работать под нашим программным обеспечением. Операторам казино мы интегрируем совеременную платформу вместе со всеми доступными играми, предоставим возможность оперирования платежей под нашей игорной лицензией и все это в **кратчайшие сроки** *[ведь все уже готово].* От собственников казино потребуется минимальное колличество денежных затрат и минимальное участие в запуске проекта. Для запуска останется только сделать дизайн казино и разработать маркетинговую стратегию (с чем Blind Croupier с радостью поможет) и уже можно принимать первых гостей в собственном казино нового поколения. 
 
 
 # Blind Croupier Platform
@@ -256,6 +256,8 @@ The release of the platform is split into two stages. The features and functiona
 
 * **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy BlindChips, using many different cryptocurrencies.
 
+* **White Label** White Label is a complete turnkey project of online casino ready for a successful release, requiring only a brand new name and design, selected according to your personal preferences.
+
 * **Analytics.** The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.
 
 * **Bonus Program**. Set up your bonus program to motivate your players even more. Add free spins and bonus rewards. We are going to develop new bonus types and bonus programs and keep you informed.
@@ -268,16 +270,17 @@ The release of the platform is split into two stages. The features and functiona
 
 *  **Anti-Fraud System.** Our algorithms make Player fraudery and Croupier cheating impossible even in theory. All money transfers are controlled by the smart contract, immune to external control.
 
+
 ## Mobile Casino 
 
 Mobile casinos actually represent a brand new craze of online casino industry (Reached €13.5Billions [H2 Gambling Capital report](http://www.igamingbusiness.com/news/igaming-dashboard-june-2017)). Internet expansion in Smartphone helped greatly the world of gambling providing a wide array of online mobile casinos. Online mobile casinos offer the same excitement and thrill like you get in real casino. Besides, some of the reputed mobile casinos. Blind Croupier will, provide gamblers with high quality graphics and most powerful software to offer a realistic gambling experience. With all these advantages, there is no doubt that online mobile casino is here to stay. 
 
 
-## White Label Casino and Payment Aggregation
+## Operation under BlindCroupier license 
 
 The main reason preventing us from delivering our products at a global level is Ethereum's lack of recognition outside the blockchain community. There needs to be a way to deposit funds more conveniently. To achieve this one must acquire a gambling license. We are going to get one and introduce the sale of BlindChips online by using traditional payment methods: credit cards and payment systems. This has nothing to do with gameplay fairness and transparency. For the casino owners this means there is no need to get a gambling license because all the payments are processed by Blind Croupier.
 
-# The Blind Jackpot Fund <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="65">
+# The Blind Jackpot Fund 
 
 Any casino, using Blind Croupier software can choose a set of games to connect to the BlindJackpot fund. A percentage of bets placed will be automatically put into it. The percent transferred is 1/5 of the house edge of the specific game.
 
