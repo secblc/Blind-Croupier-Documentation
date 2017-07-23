@@ -256,7 +256,7 @@ The release of the platform is split into two stages. The features and functiona
 
 * **Cryptocurrencies Exchange** To begin playing with a casino, a player needs to connect his existing wallet or create a new Ethereum wallet. This is done online at the casino's site. After doing this, he is then able to buy BlindChips, using many different cryptocurrencies.
 
-* **White Label** White Label is a complete turnkey project of online casino ready for a successful release, requiring only a brand new name and design, selected according to your personal preferences.
+* **White Label** is a complete turnkey project of online casino ready for a successful release, requiring only a brand new name and design, selected according to your personal preferences.
 
 * **Analytics.** The platform includes a dashboard, showing detailed revenues, expenses and stakes. There is also a tool to calculate the required bankroll amount and the maximum allowed stake (depending on the bankroll), a revenue prognostic tool and other helpful realtime information displays.
 
