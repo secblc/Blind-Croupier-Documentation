@@ -197,6 +197,41 @@ Tracker](https://pivotaltracker.com), Discord, Slack. To control the source code
 * *Client Side: The client side uses HTML5, CSS3, Javascript with React / Redux. To preprocess CSS we use [LESS](http://lesscss.org/).*
 * *Server Side: The Server Side is implemented in Javascript with the use of Node.js.*
 
+# iGaming Market
+
+<img align="right" src="https://user-images.githubusercontent.com/30338333/28489539-d48dc560-6ef7-11e7-87f8-f159419e45e9.png" width="470">
+Online gaming, or gambling, is the wagering of something of value, usually money, on the outcome of an event or game using the internet. Online gaming includes such activities as poker, casinos (where people can play traditional casino games, like roulette or blackjack, but online), sports betting, bingo and lotteries. Of these, casino games and sports betting make up the largest share of the market. The market volume of online gaming was forecasted to reach 51.96 billion U.S. dollars in 2018, more than doubling since 2009. 
+
+# House Edge or Casino's Revenue
+
+A casino's revenue is formed from the house edge. The house edge is defined as the ratio of the average loss to the initial bet. The house edge is not the ratio of money lost to total money wagered. We will develop games with different house edges. These include games with minimal house advantages requiring skills to play: video poker, the house edge, given a player sticks to the best strategy possible, is 0.46%, for blackjack — 0.28% and the most popular games, in which success depends heavily on a player's luck: For roulette the house edge is 2.7%, for videoslots — 1-10%.
+
+> **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%. In theory after 10 spins, betting 1 unit per spin, the average house profit will be 10 x 1 x 2.76% = 0.27 units. Of course, the casino may not win exactly 0.27 units; this figure is the average casino profit from each player if it had millions of players each betting for 10 spins at 1 unit per spin.
+
+
+# How Blind Croupier earn money?
+
+Basically, Blind Croupier uses a standard revenue model, which consists of fixed fees and variable charges. This model minimises the initial software investment for casino's. We believe that a casino should invest mainly in marketing and bankrolling.
+
+For Blind Croupier this model guarantees monthly revenue flow, motivating us to improve our products and to release new ones. We look forward to providing first-class support and helping our partner casinos — we are interested in their success like no one else! 
+
+## Royalties
+The basic charge for the platform and games is 13% of Gross Gaming Revenue (GGR = Stakes - Wins). The royalty payout is performed automatically from the casino's bankroll to the Royalty Fund by the smart contract. The charge for the third party games may be increased.
+
+## Fees
+
+Usage fees are fixed regular payments for platform services, support and server maintenance. The average annual fee is approx. 10,000 $. The basic to advanced platform transition is free of charge. The fee, however, depends on the platform version being used.
+
+## Custom Services
+
+Our partners can use a template platform design or order a unique one. Besides, partners can order unique games, which will be developed exclusively for their project, thus giving them marketing advantages.
+
+
+# Operators start
+
+Решения от Blind Croupier расчитаны под запуск множества казино под нашим программным обеспечением. Мы интегрируем платформу и все доступные игры, 
+
+
 # Blind Croupier Platform
 
 The release of the platform is split into two stages. The features and functionality are described in table.
@@ -205,14 +240,15 @@ The release of the platform is split into two stages. The features and functiona
 |---|---|:-:|
 | Analytics  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 | Cryptocurrencies Exchange  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| White Label  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 | Basic Game  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 | Multilingual Support  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+| Operation under BlindCroupier license   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
 | Extended Game Set  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 | Bonus Program Management  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25"> | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 | CMS  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25"> |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
 | BlindJackpot Fund   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
 | Jackpot  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
-| Payment Aggregation   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
 | Mobile Casino  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 
 
@@ -282,35 +318,6 @@ The chance of winning the jackpot depends on the number of transactions to the F
 
 A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
 
-# iGaming Market
-
-<img align="right" src="https://user-images.githubusercontent.com/30338333/28489539-d48dc560-6ef7-11e7-87f8-f159419e45e9.png" width="470">
-Online gaming, or gambling, is the wagering of something of value, usually money, on the outcome of an event or game using the internet. Online gaming includes such activities as poker, casinos (where people can play traditional casino games, like roulette or blackjack, but online), sports betting, bingo and lotteries. Of these, casino games and sports betting make up the largest share of the market. The market volume of online gaming was forecasted to reach 51.96 billion U.S. dollars in 2018, more than doubling since 2009. 
-
-
-
-# House Edge or Casino's Revenue
-
-A casino's revenue is formed from the house edge. The house edge is defined as the ratio of the average loss to the initial bet. The house edge is not the ratio of money lost to total money wagered. We will develop games with different house edges. These include games with minimal house advantages requiring skills to play: video poker, the house edge, given a player sticks to the best strategy possible, is 0.46%, for blackjack — 0.28% and the most popular games, in which success depends heavily on a player's luck: For roulette the house edge is 2.7%, for videoslots — 1-10%.
-
-> **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%. In theory after 10 spins, betting 1 unit per spin, the average house profit will be 10 x 1 x 2.76% = 0.27 units. Of course, the casino may not win exactly 0.27 units; this figure is the average casino profit from each player if it had millions of players each betting for 10 spins at 1 unit per spin.
-
-# How Blind Croupier earn money?
-
-Basically, Blind Croupier uses a standard revenue model, which consists of fixed fees and variable charges. This model minimises the initial software investment for casino's. We believe that a casino should invest mainly in marketing and bankrolling.
-
-For Blind Croupier this model guarantees monthly revenue flow, motivating us to improve our products and to release new ones. We look forward to providing first-class support and helping our partner casinos — we are interested in their success like no one else! 
-
-## Royalties
-The basic charge for the platform and games is 13% of Gross Gaming Revenue (GGR = Stakes - Wins). The royalty payout is performed automatically from the casino's bankroll to the Royalty Fund by the smart contract. The charge for the third party games may be increased.
-
-## Fees
-
-Usage fees are fixed regular payments for platform services, support and server maintenance. The average annual fee is approx. 10,000 $. The basic to advanced platform transition is free of charge. The fee, however, depends on the platform version being used.
-
-## Custom Services
-
-Our partners can use a template platform design or order a unique one. Besides, partners can order unique games, which will be developed exclusively for their project, thus giving them marketing advantages.
 
 # The Marketing Strategy
 
