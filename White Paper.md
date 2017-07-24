@@ -34,6 +34,10 @@ TOP-1 участник вложивший наибольшую сумму ETH 
 
 
 ## Распределение токенов
+
+**Эмиссия:** Всего выпущено 500,000,000BCT. Повторной эмиссии не будет.
+Все не проданные токены, если такие имеются, сжигаются сразу же после окончания периода.
+
 **Стоимость токена:** Начальная стоимость 1BCT=0.1$.
 В новом периоде цена увеличивается на 0.7% от цены предыдущего периода(или A*1.007).
 **Если в предыдущем периоде сожжено 20% или более токенов тогда цена в новом периоде не увеличивается.**
@@ -45,9 +49,6 @@ TOP-1 участник вложивший наибольшую сумму ETH 
 | 2-70 | -  | -  | -  |  - |
 | 70 | 0.140$  | 1,000,000BCT  | 800,000,000BCT  | 20% |
 | 71  | **0.140$**  | 1,000,000BCT  | 1,000,000BCT  | 0%  |
-
-**Эмиссия:** Всего выпущено 500,000,000BCT. Повторной эмиссии не будет.
-Все не проданные токены, если такие имеются, сжигаются сразу же после окончания периода.
  
  **420,000,000BCT:** Предложенно для продажи, всего 411 раздельных периодов для Pheriod 1 предложенно 10,000,000BCT, Для каждого последующего периода доступно 1,000,000BCT. Распределение токенов в Pheriod 1 будет проходить в течении 161 часа или пока все токены не будут выкуплены, для каждого нового периода доступно 23 часа или пока все доступные для периода токены не будут выкуплены, все не проданые в периоде токены сжигаются сразу же после окончания периода. Продажа токенов начнется **с 13 августа, 2017 года** и закончится по окончанию 411 периода. Во время Pheriod 1-25 проводится аукцион привилегий.
 
@@ -235,7 +236,33 @@ A casino's revenue is formed from the house edge. The house edge is defined as t
 > **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%. In theory after 10 spins, betting 1 unit per spin, the average house profit will be 10 x 1 x 2.76% = 0.27 units. Of course, the casino may not win exactly 0.27 units; this figure is the average casino profit from each player if it had millions of players each betting for 10 spins at 1 unit per spin.
 
 
-# How Blind Croupier earn money?
+# Blind Croupier Business model
+
+
+## The Marketing Strategy
+
+Blind Croupier, we believe, is going to be a quality mark in the online gambling world. It is important for those casinos working with our software for Blind Croupier to be associated with fine gameplay, fairness and large wins (which is, of course, true). Our strategy is to provide higher conversion rates for those casinos using our solutions. This will increase both our revenues accordingly. We intend to acquire our first cliens during the crowdsale (See our Auction Privileges).  First stage will be mainly used for the continuous delivery of our products. We are not going to invest in a marketing campaign while it's still inefficient. However, the marketing campaign will be planned thoroughly and will be started before the release of the final product set. We are going to hire the best specialists for this purpose.
+
+The basic platform and the basic game set are to be presented to the blockchain community. The advanced platform with advanced games are to be presented at the main online gambling exhibitions. During this stage we are going to showcase all the features of our solutions. We will start following a marketing plan as soon as this becomes efficient. 
+
+## Motivation and Mission
+
+To enter a new era of transparent, decentralized casinos one important part is missing — a software vendor. As stated repeatedly in this document, the industry started after the first online casino platform was introduced. Its further growth was closely connected to the development of these platforms. These factors are the main motivation for our team.
+
+Our mission is to deliver all the tools necessary for the industry to shift to new standards of decentralized, fair and transparent online gambling. Our task is to free casino owners from ratings agencies services. Casinos, using Blind Croupier's software, are to be associated with indisputable fairness and large wins. This will give a feeling of excitement for players all over the world.
+
+## Premises
+
+Before starting to develop our platform, we looked into building an online casino utilising a smart contract and BlindCroupier's algorithms. While analysing, we found out 3 major spending items:
+
+* **Software Development.** This requires focus and large investments. The return period for the investiment spent on software development is quite long, not to mention lots of games and a constant need of developing new ones for the casino to be competitive. A rule of thumb is that there is a separate industry working to deliver software for the casinos. 
+
+* **Player Attraction and Retention.** This is a casino's main task, which includes manipulating a high volume of traffic and competent marketing. To fulfill its main purpose a casino needs major investment. Despite all this, if the software quality doesn't meet market requirements, a marketing campaign is going to be inefficient.
+
+* **Bankroll investment.** Securing players' stakes is required for a casino. It's a direct investment, the more stakes there are, the higher its bankroll must be. At this point we must remind you that \projectname's platform is going to adjust maximum stakes depending on the casino's bankroll.
+
+*As each of these tasks needs large investments, we decided to focus on delivering quality solutions for other professionals, who, in turn, will use their resources to attract players and secure their stakes. Together we can bring new horizons to online gambling.*
+
 
 Basically, Blind Croupier uses a standard revenue model, which consists of fixed fees and variable charges. This model minimises the initial software investment for casino's. We believe that a casino should invest mainly in marketing and bankrolling.
 
@@ -348,26 +375,3 @@ The chance of winning the jackpot depends on the number of transactions to the F
 A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
 
 
-# The Marketing Strategy
-
-Blind Croupier, we believe, is going to be a quality mark in the online gambling world. It is important for those casinos working with our software for Blind Croupier to be associated with fine gameplay, fairness and large wins (which is, of course, true). Our strategy is to provide higher conversion rates for those casinos using our solutions. This will increase both our revenues accordingly. We intend to acquire our first cliens during the crowdsale (See our Auction Privileges).  First stage will be mainly used for the continuous delivery of our products. We are not going to invest in a marketing campaign while it's still inefficient. However, the marketing campaign will be planned thoroughly and will be started before the release of the final product set. We are going to hire the best specialists for this purpose.
-
-The basic platform and the basic game set are to be presented to the blockchain community. The advanced platform with advanced games are to be presented at the main online gambling exhibitions. During this stage we are going to showcase all the features of our solutions. We will start following a marketing plan as soon as this becomes efficient. 
-
-## Motivation and Mission
-
-To enter a new era of transparent, decentralized casinos one important part is missing — a software vendor. As stated repeatedly in this document, the industry started after the first online casino platform was introduced. Its further growth was closely connected to the development of these platforms. These factors are the main motivation for our team.
-
-Our mission is to deliver all the tools necessary for the industry to shift to new standards of decentralized, fair and transparent online gambling. Our task is to free casino owners from ratings agencies services. Casinos, using Blind Croupier's software, are to be associated with indisputable fairness and large wins. This will give a feeling of excitement for players all over the world.
-
-## Premises
-
-Before starting to develop our platform, we looked into building an online casino utilising a smart contract and BlindCroupier's algorithms. While analysing, we found out 3 major spending items:
-
-* **Software Development.** This requires focus and large investments. The return period for the investiment spent on software development is quite long, not to mention lots of games and a constant need of developing new ones for the casino to be competitive. A rule of thumb is that there is a separate industry working to deliver software for the casinos. 
-
-* **Player Attraction and Retention.** This is a casino's main task, which includes manipulating a high volume of traffic and competent marketing. To fulfill its main purpose a casino needs major investment. Despite all this, if the software quality doesn't meet market requirements, a marketing campaign is going to be inefficient.
-
-* **Bankroll investment.** Securing players' stakes is required for a casino. It's a direct investment, the more stakes there are, the higher its bankroll must be. At this point we must remind you that \projectname's platform is going to adjust maximum stakes depending on the casino's bankroll.
-
-*As each of these tasks needs large investments, we decided to focus on delivering quality solutions for other professionals, who, in turn, will use their resources to attract players and secure their stakes. Together we can bring new horizons to online gambling.*
