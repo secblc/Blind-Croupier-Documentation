@@ -137,6 +137,51 @@ The Bitcoin platforms also gave a boost to casinos using the currency because of
 
 But Bitcoin casinos were still unable to solve the main gambling problem: a player can never be sure a casino is playing fair.
 
+# Algorithms and Video Poker Implementation
+
+Let's look at one of the possible Player-Croupier-Bank algorithms, already implemented in the beta version of the Video Poker game from Blind Croupier. Please note that the same idea can be used to develop and implement an algorithm for any possible casino game with 2 or more participants.
+
+Our algorithms are specialised for building casinos for 3 parties: the Player (playing through the client-side Javascript), the Croupier (an automatic server, belonging to the casino) and the Bank (a Solidity smart-contract, hosted in the Ethereum blockchain). The Player and the Croupier have no mutual trust in each other and trust the Bank unconditionally. The Bank receives the Player's and the Croupier's request, processes them and moves the funds (staking, winning, etc). In case someone (Player or Croupier) tries to cheat or refuses to oblige, the second party complains to he Bank (this is done automatically) and the Bank makes the final judgement and fines the guilty side if necessary. 
+
+The client-side Javascript Player code is open-sourced and open for public inspection. Players may want to modify it, but this would be useless in terms of increasing the chances of winning. This can, on the contrary, degrade his chances. The Bank code is open-sourced as well. Moreover, the Bank acts independently of the Player's or the Croupier's will (and anyone's will at all), because it's a decentralized smart contract. The server-side Croupier code is hidden. **No server-side Croupier code modification can possibly give the Croupier any advantage over the Player**
+
+## Video Poker Game Rules
+
+A video poker machine <img align="right" src="https://user-images.githubusercontent.com/30338333/28469012-74600e9a-6e67-11e7-9da0-67be5ffa5a7f.png" width="500"> is usually visually similar to a slot machine. 
+On the top there are wnning combinations and the payouts table. In the centre there is a screen showing the player's hand.
+On the bottom side there are 3 fields, indicating the player's credit, the last game win and the current bet. By using the "Bet One" button, a player increases the current bet by one coin.
+
+Having placed a bet, the player pushes the "Deal" button and receives five cards from the 52-card deck. By touching a card, the player can put it on hold. After that, the player pushes the "DRAW" button  and the machine changes the free cards for him. In case there is a winning combination, shown in the top table, the appropriate win is deposited to the player's account. The combinations correspond to the standard poker combinations, the lower the chances, the higher the payouts.
+
+| Combination  | LVL1  | LVL2  | LVL3  | LVL4  | LVL5  |
+|---|---|:-:|---|:-:|---|
+| Flush Royal  | 250  | 500  |  750 |  1000 |  4000 |
+| Straight Flush  | 50  | 100 | 150  | 200  |  250 |
+| Four of Kind  | 25  | 50  | 75  | 100  |  125 |
+|  Full House | 9  |  18 |  27 | 36  | 45  |
+|  Flush |  6 |  12 | 18  |  24 | 30  |
+|  Straight | 4  | 8  | 12  | 16  | 20  |
+| Three Of Kind  | 3  |  6 |  9 | 12  | 15  |
+| Two Pairs  |  2 | 4  | 6  |  8 |  10 |
+| Jacks or Better  |  1 | 2  |  3 |  4 | 5  |
+| **PAYOUTS** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
+
+# Alghoritm Implementation
+
+The Player and the Croupier first generate a key pair of a private and a public key and submit the public key to the Bank. This operation uses 1 blockchain transaction, but must be completed only once. After it is done, all commands issued by any side (Player or Croupier) are signed by the private key of the corresponding side. The signature can then be validated by any party.
+
+First of all, Player submits the signed bet command (the amount of chips he is willing to put at stake, signed by the private key) to Croupier. Croupier validates the command and begins the game.
+
+Four random seeds are used in the algorithm (2 Croupier's and 2 Player's). They are derived from the signature of the fixed data set (a Player's address, a Croupier's address and game id), so only the owner of the private key can know the seed a priori. However, when a seed is published, any party can validate that the seed is generated correctly (using the normal signature validation procedure).
+
+The first two seeds (Player 1 and Croupier 1) are mixed and used to shuffle the deck. After that operation, the first five cards are drawn by Player. 
+
+When the five cards are drawn, Player submits the signed replacement order (the information about cards he is willing to replace, signed by the private key) to Croupier.
+
+Two remaining random seeds (Player 2 and Croupier 2) are then mixed and used to shuffle the remainder of the deck. When this operation is completed, all parties agree on the game result and Croupier submits all the information (4 seeds, bet and replacement commands) to the Bank, which checks all signatures, calculates the game outcome and pays Player his win.
+
+If Cropuier fails to submit the information, Player kindly waits for the time required for the transactions to complete and submits the information himself. The result is the same - the Bank calculates the game result and pays Player his win.
+
 # The Problems Solved By the Algorithm
 
 The absence of fairness or transparency checking facilities is the main problem for a casino. A player has to rely on the good will of the casino owners and third party recommendations. He can't possibly check the source code and what is mostly important, whether a server generates unbiased random data. This is the case because the information is kept private and available only for the casino owners. The closed system is what discourages gamblers from using online casinos.
@@ -183,50 +228,6 @@ After both seeds are published (1 Croupier seed and 1 Player seed), we mix them 
 
 <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **Our solution:** The Croupier's bankroll is stored in the Bank, which is an Ethereum smart contract. All the funds of a smart contract are public and can be validated by anyone.
 
-# Algorithms and Video Poker Implementation
-
-Let's look at one of the possible Player-Croupier-Bank algorithms, already implemented in the beta version of the Video Poker game from Blind Croupier. Please note that the same idea can be used to develop and implement an algorithm for any possible casino game with 2 or more participants.
-
-Our algorithms are specialised for building casinos for 3 parties: the Player (playing through the client-side Javascript), the Croupier (an automatic server, belonging to the casino) and the Bank (a Solidity smart-contract, hosted in the Ethereum blockchain). The Player and the Croupier have no mutual trust in each other and trust the Bank unconditionally. The Bank receives the Player's and the Croupier's request, processes them and moves the funds (staking, winning, etc). In case someone (Player or Croupier) tries to cheat or refuses to oblige, the second party complains to he Bank (this is done automatically) and the Bank makes the final judgement and fines the guilty side if necessary. 
-
-The client-side Javascript Player code is open-sourced and open for public inspection. Players may want to modify it, but this would be useless in terms of increasing the chances of winning. This can, on the contrary, degrade his chances. The Bank code is open-sourced as well. Moreover, the Bank acts independently of the Player's or the Croupier's will (and anyone's will at all), because it's a decentralized smart contract. The server-side Croupier code is hidden. **No server-side Croupier code modification can possibly give the Croupier any advantage over the Player**
-
-## Video Poker Game Rules
-
-A video poker machine <img align="right" src="https://user-images.githubusercontent.com/30338333/28469012-74600e9a-6e67-11e7-9da0-67be5ffa5a7f.png" width="500"> is usually visually similar to a slot machine. 
-On the top there are wnning combinations and the payouts table. In the centre there is a screen showing the player's hand.
-On the bottom side there are 3 fields, indicating the player's credit, the last game win and the current bet. By using the "Bet One" button, a player increases the current bet by one coin.
-
-Having placed a bet, the player pushes the "Deal" button and receives five cards from the 52-card deck. By touching a card, the player can put it on hold. After that, the player pushes the "DRAW" button  and the machine changes the free cards for him. In case there is a winning combination, shown in the top table, the appropriate win is deposited to the player's account. The combinations correspond to the standard poker combinations, the lower the chances, the higher the payouts.
-
-| Combination  | LVL1  | LVL2  | LVL3  | LVL4  | LVL5  |
-|---|---|:-:|---|:-:|---|
-| Flush Royal  | 250  | 500  |  750 |  1000 |  4000 |
-| Straight Flush  | 50  | 100 | 150  | 200  |  250 |
-| Four of Kind  | 25  | 50  | 75  | 100  |  125 |
-|  Full House | 9  |  18 |  27 | 36  | 45  |
-|  Flush |  6 |  12 | 18  |  24 | 30  |
-|  Straight | 4  | 8  | 12  | 16  | 20  |
-| Three Of Kind  | 3  |  6 |  9 | 12  | 15  |
-| Two Pairs  |  2 | 4  | 6  |  8 |  10 |
-| Jacks or Better  |  1 | 2  |  3 |  4 | 5  |
-| **PAYOUTS** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
-
-# Alghoritm Implementation
-
-The Player and the Croupier first generate a key pair of a private and a public key and submit the public key to the Bank. This operation uses 1 blockchain transaction, but must be completed only once. After it is done, all commands issued by any side (Player or Croupier) are signed by the private key of the corresponding side. The signature can then be validated by any party.
-
-First of all, Player submits the signed bet command (the amount of chips he is willing to put at stake, signed by the private key) to Croupier. Croupier validates the command and begins the game.
-
-Four random seeds are used in the algorithm (2 Croupier's and 2 Player's). They are derived from the signature of the fixed data set (a Player's address, a Croupier's address and game id), so only the owner of the private key can know the seed a priori. However, when a seed is published, any party can validate that the seed is generated correctly (using the normal signature validation procedure).
-
-The first two seeds (Player 1 and Croupier 1) are mixed and used to shuffle the deck. After that operation, the first five cards are drawn by Player. 
-
-When the five cards are drawn, Player submits the signed replacement order (the information about cards he is willing to replace, signed by the private key) to Croupier.
-
-Two remaining random seeds (Player 2 and Croupier 2) are then mixed and used to shuffle the remainder of the deck. When this operation is completed, all parties agree on the game result and Croupier submits all the information (4 seeds, bet and replacement commands) to the Bank, which checks all signatures, calculates the game outcome and pays Player his win.
-
-If Cropuier fails to submit the information, Player kindly waits for the time required for the transactions to complete and submits the information himself. The result is the same - the Bank calculates the game result and pays Player his win.
 
 # Technologies and Methodologies
 
