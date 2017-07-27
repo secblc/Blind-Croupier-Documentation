@@ -14,19 +14,43 @@ Blind Croupier is a **gambling software development company** [Business to busin
   * [The Privilege Auction](#the-privilege-auction)
   * [Token Distribution](#the-privilege-auction)
   * [About Token Crowdsale Model](#about-token-crowdsale-model)
-  * [Put Your Tokens To Work](#put-your-tokens-to-work)
-  * [Blind Chips](#blind-chips)
-  * [Raised Funds Distribution](#raised-funds-distribution)
+- [Put Your Tokens To Work](#put-your-tokens-to-work)
+- [Blind Chips](#blind-chips)
+- [Raised Funds Distribution](#raised-funds-distribution)
 - [Roadmap](#win-token-sale)
   * [Stage 1: Minimal Viable Product (MVP)](#stage-1-spring-summer-2017---minimal-viable-product-mvp)
   * [Stage 2: Development and Legal](#stage-2-fall-2017---development-and-legal) 
   * [Stage 3: Testing and Presentation](#stage-3-winter-2017-2018-testing-and-presentation)
   * [Stage 1: Advanced Platform and Blind Jackpot Fund](#stage-4-spring-summer-2018-advanced-platform-and-blind-jackpot-fund)
-    
- 
-	    
+- [The retrospective](#the-retrospective)
+- [Algorithms and Video Poker Implementation](#algorithms-and-video-poker-implementation)
+ * [Video Poker Game Rules](#video-poker-game-rules)
+ * [Alghoritm Implementation](#alghoritm-implementation)
+- [The Problems Solved By the Algorithm](#the-problems-solved-by-the-algorithm)
+ * [Pseudo-Random Number Generation (PRNG)](#pseudo-random-number-generation-prng)
+ * [Gaming Speed and Slow Staking](#gaming-speed-and-slow-staking)
+ * [Fairness check](#fairness-check)
+ * [Third Party Random Sources](#third-party-random-sources)
+ * [The Jackpot Validation](#the-jackpot-validation)
+- [Technologies and Methodologies](#technologies-and-methodologies)
+- [iGaming Market](#igaming-market)
+- [House Edge or Casino's Revenue](#house-edge-or-casinos-revenue)
+- [Blind Croupier Business model](#blind-croupier-business-model)
+  * [Royalties](#Royalties)
+  * [Fees](#Fees)
+  * [Custom Services](#custom-services)
+  * [The Marketing Strategy](#the-marketing-strategy)
+  * [Motivation and Mission](#motivation-and-mission)
+  * [Premises](#Premises)
+- [Turnkey Solution For Operators Casino](#turnkey-solution-for-operators-casino)
+- [Blind Croupier Platform](#blind-croupier-platform) Description
+  * [Description](#Description)
+  * [Mobile Casino](#mobile-casino)
+  * [Operation under BlindCroupier license](#operation-under-blindcroupier-license)
+- [The Blind Jackpot Fund](#the-blind-jackpot-fund)
+  * [BlindJackpot Main Features](#blindjackpot-main-features)
+  * [Jackpot Winner Determining Algorithm](#jackpot-winner-determining-algorithm)
   
- 
 
 
 # Introduction
@@ -82,7 +106,7 @@ In each new period, the price is increased by 0.7% from the price in the previou
 
 **4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
 
-## About Token Crowdsale Model
+# About Token Crowdsale Model
 
 The aforementioned crowdsale model was developed to solve investors' problems which are, by our opinion and [blockchain community opinion](http://vitalik.ca/general/2017/06/09/sales.html), are most relevant.
 
