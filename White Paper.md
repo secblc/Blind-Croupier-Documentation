@@ -17,24 +17,13 @@ Blind Croupier is a **gambling software development company** [Business to busin
   * [Put Your Tokens To Work](#put-your-tokens-to-work)
   * [Blind Chips](#blind-chips)
   * [Raised Funds Distribution](#raised-funds-distribution)
-  - [Roadmap](#win-token-sale)
-    +[Stage 1:Minimal Viable Product (MVP)](#stage-1-spring-summer-2017---minimal-viable-product-mvp)
-    +[Stage 2:Development and Legal](#stage-2-fall-2017---development-and-legal)
-    +[Stage 3: Testing and Presentation](#stage-3-winter-2017-2018-testing-and-presentation)
-    +[Stage 1: Advanced Platform and Blind Jackpot Fund](#stage-4-spring-summer-2018-advanced-platform-and-blind-jackpot-fund)
+- [Roadmap](#win-token-sale)
+  * [Stage 1: Minimal Viable Product (MVP)](#stage-1-spring-summer-2017---minimal-viable-product-mvp)
+  * [Stage 2: Development and Legal](#stage-2-fall-2017---development-and-legal) 
+  * [Stage 3: Testing and Presentation](#stage-3-winter-2017-2018-testing-and-presentation)
+  * [Stage 1: Advanced Platform and Blind Jackpot Fund](#stage-4-spring-summer-2018-advanced-platform-and-blind-jackpot-fund)
     
-    
-
-- [Introduction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#introduction)
-- [WIN Token Sale](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
-* [The Privilege Auction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
-* [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-* [About Token Crowdsale Model](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-  * [Put Your Tokens To Work](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-   * [Blind Chips](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-   * [Raised Funds Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-    * [Roadmap](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-     + [Stage 1: Spring-Summer 2017 - Minimal Viable Product (MVP)](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+ 
 	    
   
  
