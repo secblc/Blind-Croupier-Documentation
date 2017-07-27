@@ -9,7 +9,7 @@ Blind Croupier is a **gambling software development company** [Business to busin
 
 **Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), independent of a casino's will.
 
-* [Introduction](thttps://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#token-distribution)
+* [Introduction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#token-distribution)
 
 # Introduction
 
