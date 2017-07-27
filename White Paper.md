@@ -9,6 +9,15 @@ Blind Croupier is a **gambling software development company** [Business to busin
 
 **Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), independent of a casino's will.
 
+- [Introduction](#introduction)
+- [WIN Token Sale](#win-token-sale)
+  * [The Privilege Auction](#the-privilege-auction)
+  * [Token Distribution](#the-privilege-auction)
+  * [About Token Crowdsale Model](#about-token-crowdsale-model
+  * [Put Your Tokens To Work](#put-your-tokens-to-work)
+  * [Blind Chips](#blind-chips)
+  * [Raised Funds Distribution](#raised-funds-distribution)
+
 - [Introduction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#introduction)
 - [WIN Token Sale](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
 * [The Privilege Auction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
@@ -77,7 +86,7 @@ In each new period, the price is increased by 0.7% from the price in the previou
 
 **4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
 
-# About Token Crowdsale Model
+## About Token Crowdsale Model
 
 The aforementioned crowdsale model was developed to solve investors' problems which are, by our opinion and [blockchain community opinion](http://vitalik.ca/general/2017/06/09/sales.html), are most relevant.
 
