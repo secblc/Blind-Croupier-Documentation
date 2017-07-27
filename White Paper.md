@@ -342,8 +342,7 @@ Before starting to develop our platform, we looked into building an online casin
 
 # Turnkey Solution For Operators Casino 
 
-Решения от Blind Croupier расчитаны под запуск не одного казино, а множества казино которые будут работать под нашим программным обеспечением. Операторам казино мы интегрируем совеременную платформу вместе со всеми доступными играми, предоставим возможность оперирования платежей под нашей игорной лицензией и все это в **кратчайшие сроки** *[ведь все уже готово].* От собственников казино потребуется минимальное колличество денежных затрат и минимальное участие в запуске проекта. Для старта останется только сделать дизайн казино и разработать маркетинговую стратегию (с чем Blind Croupier с радостью поможет) и ура уже можно принимать первых гостей в собственном казино нового поколения. 
-
+Blind Croupier solutions are not for a single casino, but for many casinos working together with the same software. To the casino operators, we guarantee a modern platform, all available games, and the ability to process transactions using our gambling license as soon as possible (everything is already done). We require minimum investment from a casino owners and little effort to launch a project. To begin, they will only need to develop a casino's design and a marketing plan (which is what Blind Croupier would help with) - and that's it, they can serve the clients in their own new generation casino.
 
 # Blind Croupier Platform
 
@@ -404,7 +403,7 @@ The chance of winning the jackpot depends on the number of transactions to the F
 
 ## The Blind Jackpot Fund is divided into three prize funds:
 
-Процент выплат из призового фонда построен таким образом, что там всегда присутствует аккамуляция, то есть призовой фонд не истощается, а большая часть из его средств переходит в новый цикл.
+The prize fund is built in a way that money are always accumulated, so the fund doesn't deplete but rather move from cycle to cycle.
 
 * **Mega Jackpot** is the largest one.The winning amount is 13% of the Fund's size. The payout interval is 28 days. After Mega Jackpot payout the rest of the money is moved to the next cycle.
 **All the "tickets" are destroyed before the new cycle beginning.** 
@@ -413,7 +412,7 @@ The chance of winning the jackpot depends on the number of transactions to the F
 
 * **Wild Jackpot** is the daily payout of 0.3% of the Fund's size. **Wild Jackpot не разыгрывается по дням когда идут розыгрыши других фондов**
 
-> **Пример** Для наглядного подсчета предположим, что призовой фонд не пополняется от новых ставок и его баланс для всего цикла равен 1,000$. Для выплат Wild Jackpot понадобится 74$(ежедневные выплаты), для Miracle Jack Pot 38$ [одна выплата за этот цикл==>следующий цикл две выплаты], для Mega Jackpot 117$ Тогда в новый цикл перейдет 771$ и так далее.
+> **E.g.** To make things clear, let's suggest that the prize fund is not replenished by the new bets and its balance during the whole cycle is $1,000. To pay Wild Jackpot, $74 are needed (daily payouts), to pay Miracle Jackpot - $38 (one payout for the current cycle, two payouts during the next cycle), for the Mega Jackpot - $117. So, $771 is moved to the next cycle and so on.
 
 *Blind Croupier reserves the right to make any changes during the system's beta-testing period exclusively to improve its functionality. Changes may include: the distribution of the prize fund, the transferred bet percentage and other changes needed for the quality and fair system operation.*
 
