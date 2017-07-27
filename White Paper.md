@@ -31,16 +31,16 @@ Top 5 Investors (considering ETH spent by the end of Period 25) receive free pla
 
 The top Investor (considering ETH spend by the end of Period 25) will (in addition to the above bonuses) receive a unique Videopoker installation. We will offer this installation to no other customers until the platform is released. This is a great opportunity be first to to enter the transparent online gambling market. Videopoker is platform for MainNet release in September 2017 (beta is available right now).
 
-* *If the winner fails to contact us for verification and getting the award within 14 days from the end of Period 25, the bonus will be offered to the next Investor in the Top table until we are able to verify him. We reseve the right of the winner to give/sell the privileges gained to the third parties, but not earlier than the verification occurs. *
+*If the winner fails to contact us for verification and getting the award within 14 days from the end of Period 25, the bonus will be offered to the next Investor in the Top table until we are able to verify him. We reseve the right of the winner to give/sell the privileges gained to the third parties, but not earlier than the verification occurs.*
 
 ## Token Distribution
 
-**Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emitssion. 
-*All unsold tokens (if any) are destroyed at the end of the period *
+**Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. 
+*All unsold tokens (if any) are destroyed at the end of the period*
 
-**Token Price:**Starting price *(Period 1)* 1 WIN = $0.1.
+**Token Price:** Starting price *(Period 1)* 1 WIN = $0.1.
 In each new period, the price is increased by 0.7% from the price in the previous period. 
-* If 20% of more of tokens were destoyed in the period, then the price is maintained at the same level **
+*If 20% of more of tokens were destoyed in the period, then the price is maintained at the same level*
 
 | Period  | Price | Offer | Demand  | Tokens Burnt % |
 |---|:-:|---|---|---|
@@ -82,13 +82,13 @@ The aforementioned crowdsale model was developed to solve investors' problems wh
 
 You can rent your tokens to the smart contract right on our site to generate BlindChips (gambling chips used in connected casinos). As a reward you are getting part of the generatedb BlindChips. The amount of BlindChips generated depends heavily on the amount of BlindChips put on stake in our casinos (number of bets made) and WIN holders concern of the system. The more BlindChips are used during your tokens are rented, the greater bonus your get.
 
-* *You rent tokens not for a time period, but rather to generate a certain amount of BlindChips. *
+* *You rent tokens not for a time period, but rather to generate a certain amount of BlindChips.*
 
-* *The greater your share is and the longer rent is, the more BlindChips you get. The total amount of BlindChips sent to the token owners depends on the market situation and the token holders concern level. *
+* *The greater your share is and the longer rent is, the more BlindChips you get. The total amount of BlindChips sent to the token owners depends on the market situation and the token holders concern level.*
 
-* *Using BlindChips, you can place bets, get wins and exchange them in any Blind Croupier-enabled casino. *
+* *Using BlindChips, you can place bets, get wins and exchange them in any Blind Croupier-enabled casino.*
 
->> **E.g.:** Alice rents 80 WIN (80%) and Bob rents 20 WIN (20%). Other token holders do not participate. They both choose 0 - 1,000,000 BlindChips interval (the number of bets placed since the tokens have been rented). They both get 5% bonus for renting for a wide interval. In 3 months the goal is achieved and 1,000,000 BlindChips were placed as bets. From that amount the smart contract takes 10,000 BlindChips to pay the rent. Alice gets 8,000 + 400 BlindChips and Bob gets 2,000 + 100 Blind Chips.
+> **E.g.:** Alice rents 80 WIN (80%) and Bob rents 20 WIN (20%). Other token holders do not participate. They both choose 0 - 1,000,000 BlindChips interval (the number of bets placed since the tokens have been rented). They both get 5% bonus for renting for a wide interval. In 3 months the goal is achieved and 1,000,000 BlindChips were placed as bets. From that amount the smart contract takes 10,000 BlindChips to pay the rent. Alice gets 8,000 + 400 BlindChips and Bob gets 2,000 + 100 Blind Chips.
 
 ## Blind Chips
 
