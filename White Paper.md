@@ -9,23 +9,16 @@ Blind Croupier is a **gambling software development company** [Business to busin
 
 **Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), independent of a casino's will.
 
-* [Introduction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#introduction)
-* [WIN Token Sale](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
-- [The Privilege Auction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
-
-  - [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-  * [About Token Crowdsale Model](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+- [Introduction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#introduction)
+- [WIN Token Sale](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
+* [The Privilege Auction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
+* [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+* [About Token Crowdsale Model](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
   * [Put Your Tokens To Work](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
    * [Blind Chips](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
    * [Raised Funds Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
     * [Roadmap](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
      + [Stage 1: Spring-Summer 2017 - Minimal Viable Product (MVP)](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-       * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-        * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-	 * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-	  * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-	   * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
-	    * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
 	    
   
  
