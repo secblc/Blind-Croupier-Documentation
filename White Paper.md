@@ -21,27 +21,28 @@ We have already done a tremendous job, starting from a general concept and endin
 
 This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
 
-# Продажа токенов WIN
+# WIN Token Sale
 
-WIN это главный токен Blind Croupier стандарта ERC20. Всего будет выпущено 500,000,000WIN. з них 423,000,000WIN, выставлено на продажу, которая пройдет в течении множества раздельных периодов. Продажа токенов начнется **с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ** и закончится по окончанию 413 периода. Пожалуйста, внимательно ознакомьтесь с настоящим документом, прежде чем принять свое участие в распределение токенов.
+WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win Tokens is 500,000,000 WIN, of which 423,000,000 WIN are to be sold during the crowdsale, divided into many periods. The crowdsale begins **с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ** and ends after 413 periods. Please read this document carefully before making any decisions about buying tokens.
 
-## Аукцион привилегий
-TOP-5 Участников вложивших наибольшую сумму ETH по завершению Pheriod 25 - получат бесплатное пользование платформой на 12 месяцев (сразу же с момента ее выпуска), а так же льготную ставку на роялти платежи 7% вместо 13% - сроком на 12 месяцев. Переводите средства только с одного Ethereum кошелька для участия в аукционе.
+## The Privilege Auction
 
-TOP-1 участник вложивший наибольшую сумму ETH по завершению Pheriod 25 в дополнении получит уникальную установку видеопокера, мы не будем делать такую установку ни кому другму, до самого выпуска платформы. Установка включает все выше описанными привилегии. Это отличная возможность выйти на рынок прозрачного интернет-гейминга в первых рядах. Видеопокер будет готов к запуску на Main net в сентябре 2017 года, а бета доступна уже сейчас.
+Top 5 Investors (considering ETH spent by the end of Period 25) receive free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, invest from the single Ethereum wallet.
 
-* *Если победитель не свяжется с нами для прохождения верификации и получения награды в течении 14 дней с момента окончания Pheriod 25 награда будет передана ниже стоящему участнику в таблице лидеров, до тех пор пока победитель не будет идентифицирован. Мы оставляем за победителем право передать/продать привилегии друим лицам но только после верификации кошелька победителя.*
+The top Investor (considering ETH spend by the end of Period 25) will (in addition to the above bonuses) receive a unique Videopoker installation. We will offer this installation to no other customers until the platform is released. This is a great opportunity be first to to enter the transparent online gambling market. Videopoker is platform for MainNet release in September 2017 (beta is available right now).
 
-## Распределение токенов
+* *If the winner fails to contact us for verification and getting the award within 14 days from the end of Period 25, the bonus will be offered to the next Investor in the Top table until we are able to verify him. We reseve the right of the winner to give/sell the privileges gained to the third parties, but not earlier than the verification occurs. *
 
-**Эмиссия:** Всего выпущено 500,000,000WIN. Повторной эмиссии не будет.
-*Все не проданые токены, если такие имеются, сжигаются сразу же после окончания периода.*
+## Token Distribution
 
-**Стоимость токена:** Начальная стоимость *(Pheriod 1)* 1WIN=0.1$.
-В новом периоде цена увеличивается на 0.7% от цены предыдущего периода.
-*Если в предыдущем периоде сожжено 20% или более токенов тогда цена в новом периоде не увеличивается.*
+**Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emitssion. 
+*All unsold tokens (if any) are destroyed at the end of the period *
 
-| Pheriod  | Цена | Предложение | Спрос  | Сожжено токенов % |
+**Token Price:**Starting price *(Period 1)* 1 WIN = $0.1.
+In each new period, the price is increased by 0.7% from the price in the previous period. 
+* If 20% of more of tokens were destoyed in the period, then the price is maintained at the same level **
+
+| Period  | Price | Offer | Demand  | Tokens Burnt % |
 |---|:-:|---|---|---|
 | 1  | 0.1$  | 10,000,000WIN | 10,000,000WIN  | 0%  |
 | 2 |  0.1007 | 1,000,000WIN | 1,000,000WIN  | 0%  |
@@ -49,76 +50,79 @@ TOP-1 участник вложивший наибольшую сумму ETH 
 | 70 | 0.140$  | 1,000,000WIN | 800,000,000WIN  | **20%** |
 | 71  | **0.140$**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
 
-**10,000,000WIN:**  Выставлено на продажу, для Pheriod 0, период длится 161час или пока все токены не будут проданы, после чего начнется следующий период. Не проданые токены сжигаются сразу же после завершения периода.
+**10,000,000WIN:** Offered for crowdsale for Period 0. The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
+
+ **413,000,000WIN:**  Split for periods 1-413. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destoyed at the end of the period.
  
- **413,000,000WIN:**  Разделено для продажи Pheriod 1-413 для каждого периода доуступно 1,000,000WIN в течении 23 часов или пока все доступные для периода токены не будут проданы. Не проданые токены сжигаются сразу же после завершения периода.
+**65,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. The are put on hold to the special smart contract and will be unlocked after 12 months.
 
-**65,000,000WIN:** Резервируются BlindCroupier, чтобы поощрить участников проекта за
-проделанную работу и в качестве долгосрочного резерва необходимого для дальнейшего развития платформы. Токены будут заморожены умным контрактом и будут доступны для снятия владельцами через 12 месяцев.
+**7,000,000WIN:** This tokens will be transfered to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
 
-**7,000,000WIN:** Эти токены будут направлены на баланс маркет мейкера. Маркет мейкер это дилер/робот/брокер который будет хранить на своем счете токены WIN, и организовывать их продажу, поддерживая высокую ликвидность токенов на рынке, путем обеспечения быстрой покупки и продажи токенов на бирже.
+**6,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transfered to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.
 
-**6,000,000WIN:** Резервируются для проведения «баунти» кампании. Токены распределяются по окончанию каждого периода и начисляются на баланс участников каждые 7 дней. Детали об участии в кампании читайте в соответствующем разделе на сайте.
+**4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
 
-**4,000,000WIN:** Резервируется для настоящих и будущих консульстантов Blind Croupier.
+# About Token Crowdsale Model
 
+The aforementioned crowdsale model was developed to solve investors' problems which are, by our opinion and [blockchain community opinion](http://vitalik.ca/general/2017/06/09/sales.html), are most relevant.
 
-# Поговорим о модели продажи токенов
+1. Step-by-step investment and participation. - We look at this as at a great opportunity for an investor to look closer to the project, to assess how the given promises are fulfilled and divided the investment into stages. An investor, decided to take part in the crowdsale will most probably be given a chance to do so. For us it is an opportunity to showcase our products during the ICO and let the market vote for our project, final emission and the token price.
 
-Выше описаннная модель продажи токенов была разработана нами исходя из потребностей инвесторов, которые по нашему мнению и [представителей блокчейн сообщества](http://vitalik.ca/general/2017/06/09/sales.html), считаются наиболее актуальными. 
+> It's worth mentioning, however, that if an extreme interest rises among the investors, new periods will finish and start without delays, which can, theoretically, lead to the fast end of period 413. But the price will also rise in this case, requiring further roadmap advancement and/or token destruction.
 
-1. Постепенное финансирование и возможность участия - Мы видим в этом отличную возможность для инвестора приглядеться к проекту, посмотреть как исполняются данные командой обещания, и разделить свои капиталовложения в Blind Croupier на несколько этапов. Инвестор решивший принять участие в размещении в большинстве случаев получит такую возможность. Для себя в этом мы видим отличную возможность продемонстрировать работу своих продуктов еще во время проведения ICO и дать рынку проголосовать монетой за наш проект, конечную эмиссию и дальнейшую цену токена.
->Однако стоит заметить, что в случае возникновения черезвычайно высокого интереса среди инвесторов к проету, новые периоды будут закрываться и начинаться без замедлений, что теоритически может привести к быстрому завершению Pheriod 413. Но с ростом интереса к проету будет расти и цена, которая на наш взгляд в определенный момент будет требовать обоснования в виде продвижения по дорожной карте и/или уничтожения токенов.
+2. The low share boundary. - An investor knows the total amount of tokens and their distribution. The only unknown figure is the amount of tokens issued to the market. But in the case we decrease the emission after the investment, the investor's share will grow.
 
-2. Минимальная оценка доли - инвестор заранее знает общее колличество токенов и как они будут распределены, единственное что не известно ни кому, это сколько токенов поступит в оборот. Но если после вклада инвестора, мы уменьшим эмиссию значит и доля инвестора станет только выше и благоприятно повлияет на сделанную им инвестицию в целом.
+3. Limited emission - 500'000'000 WIN is a maximum emission limited by the smart contract. The total amount of tokens can only decrease.
 
-3. Ограниченная эмиссия - 500,000,000WIN это максимальная эмиссия ограниченая умным контрактом, общее колличество токенов может только уменьшаться.
+4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case 50% of the tokens, offered for the crowdsale, are destroyed, Blind Croupier team will own 28% of the total emission. Also, part of the tokens will be send the market maker, which is to support the stable token market price.
 
-4. Отсутствие центрального механизма -  в руках команды Blind Croupier не должно остаться достаточного колличества токенов для манипулирования ценой. Даже если будет уничтоженно 50% от выставленных на продажу токенов в руках Blind Croupier окажется 28% от общей эмиссии. Но даже в подобных случаях, часть от токенов обязательно будет отправлена на счет маркет мейкера, который будет обеспечивать стабильную цену токена на рынке.
+5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
-5. Рыночная эффективность - гибкость предложенной модели основана на росте цены токена в новых периодах, до тех пор пока она устраивает инвесторов. Если спрос уменьшается то предложение тоже уменьшается, все это происходит до тех пор не возникнет необходимого баланса между спросом и предложением.
+# Put Your Tokens To Work
 
-# Сдавайте токены в аренду
-Вы можете сдать свои токены в аренду смарт-контракту прямо через интерфейс нашего сайта для генерации BlindChips (это игровые фишки/ключи используемые для игры в подключеных к нам казино). В награду за это вы получите часть от сгенерированных BlindChips. Колличество BlindChips которые вы сможете получить будет на прямую зависить от общего колличества погашеных фишек в подключенных к нам казино(колличество сделанных ставок) и интереса среди других держателей WIN к системе. Чем больше будет погашенно BlindChips за время нахождения ваших токенов на умном контракте, тем больше бонус вы получите.
+You can rent your tokens to the smart contract right on our site to generate BlindChips (gambling chips used in connected casinos). As a reward you are getting part of the generatedb BlindChips. The amount of BlindChips generated depends heavily on the amount of BlindChips put on stake in our casinos (number of bets made) and WIN holders concern of the system. The more BlindChips are used during your tokens are rented, the greater bonus your get.
 
-* *Вы сдаете токены не на временной промежуток, а на период погашения заранее утвержденного колличества BlindChips.*
+* *You rent tokens not for a time period, but rather to generate a certain amount of BlindChips. *
 
-* *Чем больше ваша доля и интервал аренды, тем больше BlindChips вы получаете. Общее колличество BlindChips которые отправляются на оплату аренды, зависит от ситуации на рынке и интереса держателей токенов к системе*
+* *The greater your share is and the longer rent is, the more BlindChips you get. The total amount of BlindChips sent to the token owners depends on the market situation and the token holders concern level. *
 
-* *С BlindChips вы можете делать ставки и получать выигрыши, производить их обмен - в любом подключеном к программному обеспечению от Blind Croupier казино*
+* *Using BlindChips, you can place bets, get wins and exchange them in any Blind Croupier-enabled casino. *
 
-> **Например:** Алиса сдала в аренду 80WIN(80%), а Боб 20WIN(20%) другие держатели токенов воздержались от участия. Оба они выбрали  интервал 0 - 1,000,000BlindChips (колличество сделаных ставок с момент внесения токенов в аренду) и получат бонус +5% за аренду на широкий интервал. Через  3 месяца цель была достигнута, и было погашено 1,000,000BlindChips. Из них на оплату аренды смарт контрактом было выделено 10,000,000WIN. Алиса получила 8,000+400BlindChips, а Боб 2,000B+100BlindChips соответственно.
+>> **E.g.:** Alice rents 80 WIN (80%) and Bob rents 20 WIN (20%). Other token holders do not participate. They both choose 0 - 1,000,000 BlindChips interval (the number of bets placed since the tokens have been rented). They both get 5% bonus for renting for a wide interval. In 3 months the goal is achieved and 1,000,000 BlindChips were placed as bets. From that amount the smart contract takes 10,000 BlindChips to pay the rent. Alice gets 8,000 + 400 BlindChips and Bob gets 2,000 + 100 Blind Chips.
 
 ## Blind Chips
+
 BlindChips - Games in all the connected casinos will be played with special game credits, called BlindChips. These behave mostly like any other standard Ethereum tokens. They are stored in the buyer's Ethereum wallet and can be freely bought or sold. You can buy and sell BlindChips right on the casino's site. The main purpose of BlindChips is faster stake execution. Their main feature is the exchange algorithm. A Player can stake swiftly, by transmitting a signed bet order to the Croupier.
 
 
-## Распределение полученных средств
-Предоставленная информация служит сугубо информационным целям. Blind Croupier оставляет за собой полное право перераспределить средства в других соотношениях, в зависимости от размера полученного финансирования, а так же настоящей ситуации на рынке и любых иных обстаятельствах. Blind Croupier не гарантирует точности информации в распределении средств, которая предоставляется без явных или подразумеваемых гарантий и заявлений.
+## Raised Funds Distribution
 
-* 40% от полученных средств будет направлено на разработку игр и платформы.
-* 30% резервируется на маркетинговые расходы.
-* 10% резервируется на юридические расходы.
-* 20% операционные расходы.
+The futher is for reference only. Blind Croupier reserves the right to change funds distribution scheme, depending on the amount of funds raised, market situation and other circumstances. Blind Croupier is not obliged to provide accurate information about funds distribution, which, in turn, is supplied without any guarantee and obligations.
 
-# Roadmap (Дорожная карта)
+* 40% game and platform development
+* 30% marketing
+* 10% legal expences
+* 20% operating expenses
 
-В этом документе обозначен общий план разработки, который будет обновляться по мере прогресса в работе. Всё содержимое дорожной карты может измениться в любое время. Предоставленная информация служит сугубо информационным целям.  Blind Croupier не гарантирует точности информации в этой дорожной карте, которая предоставляется без явных или подразумеваемых гарантий и заявлений.
+# Roadmap
 
-### Этап 1: Весна-Лето 2017 - Минимально Жизнеспособный Продукт (MVP)
+This document supplies the general development plan, which is to be updated as the work progresses. All the roadmap content is the subject to change at any time. The information is for reference only. Blind Croupier doesn't guarantee the information provided in the Roadmap is accurate, which, in turn, is supplied without any guarantee and obligations.
 
-Этот этап сопровождался, разработка общей концепции программного обеспечения для казино нового поколения, отвечающая трем требованиям: быстрая обработка ставок, прозрачность, честная генерация рандома. И создание минимально жизнеспособного продукта. Цель была успешно достигнута, демонстрацию работы алгоритмов можно увидеть в бета версии видеопокера.
+### Stage 1: Spring-Summer 2017 - Minimal Viable Product (MVP)
 
-### Этап 2: Осень 2017 - Разработка и легализация
+This stage was devoted to developing the general software concept for a new generation casino with three main requirements: quick bet placement, transparency, fair random generation, and creating an MVP. The goal was achieved, you can see the algorithms at work in the Videopoker beta version.
 
-В первую очередь мы намереваемся подготовить к запуску видеопокера на main net и провести его интеграцию победителю аукциона привилегий. Этой же осенью будет вестись разработка базовой платформы и базового набора игр к ней *(баккарат, рулетка, кости, блэкджэк).* Паралельно с этим мы будем заняты легализаций компании, получением лицензии на игорную деятельность. Расширением штата для повышения качества и скорости разработки наших продуктов. Так же будет начата разработка маркетинговой кампании.
+### Stage 2: Fall 2017 - Development and Legal
 
-### Этап 3: Зима 2017-2018: Тестирование и Презентация
+First of all we are going to launch Videopoker to main net and install it to the privilage auction winner. This fall the platform will be developed along with the set of basic games *(baccarate, roulette, dice, blackjack)*. At the same time we will register a company and get a gambling license. We will expand our team to improve the product quality and development speeds. We will start developing the marketing campaign.
 
-Зимой 2017 года мы планируем подготовить платформу и игры к открытому бета-тесту, за найденые уязвимости участникам тестирования причетаются награды. После чего произойдет презентация и интеграция платформы вместе с играми для 5 победителей аукциона привелегий. Этой же зимой мы планируем получить лицензию на ведение игорной деятельности, после чего казино работюащие под нашим ПО, могут с легкостью использовать наш мерчант аккаунт для обработки платежей visa/master card  и многих других популярных способов оплаты сохраняя честность и прозрачность игры на блокчейне Ethereum.
+### Stage 3: Winter 2017-2018: Testing and Presentation
 
-### Этап 4: Весна-лето 2018: Продвинутая платформа и Фонд Blind Jackpot
-Разработка и тестирование: Фонда Blind JackPot, платформы с расширеным набором функций, первого набора видеослотов, полная оптимизация всех продуктов под мобильные устройства. После завершения тестирования мы планируем провести презентацию готового продукта на основных мероприятиях посвещенных индустрии интернет гейминга. Будет запущена ранее разработанная маркетинговая компания и запуск продукта на главный рынок.
+During Winter 2017, we are going to prepare the platform and the games for the open beta-testing. For the bugs and vulnerabilities found testers are going to get rewards. After that we are going to present the platform and install it along with the games for the 5 winners of the privilige auction. This winter we are going to get a gambling license, after that Blind Crouiper casinos will be able to use our merchant account to process visa/master card payments (and many other popular payment methods), without losing fairness and transparency of Ethereum blockchain gambling. 
+
+### Stage 4: Spring-Summer 2018: Advanced Platform and Blind Jackpot Fund
+
+Development and testing: The Blind Jackpot Fund, advanced platform, first videoslots set, and optimization of all products for the mobile devices. After the testing is finished, we are going to present the ready product at all main online gambling events. The marketing campaign is to be started and the product launched to the main market.
 
 # The retrospective
 
