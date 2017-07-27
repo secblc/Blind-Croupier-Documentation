@@ -13,9 +13,24 @@ Blind Croupier is a **gambling software development company** [Business to busin
 * [WIN Token Sale](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
 * [The Privilege Auction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
 
-- [Background](#Introduction)
-- [WIN Token Sale](#WIN Token Sale)
-  * [The Privilege Auction](#The-Privilege-Auction)
+- [Background](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#introduction)
+- [WIN Token Sale](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
+  * [The Privilege Auction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+  * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+  - [About Token Crowdsale Model](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+  - [Put Your Tokens To Work](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+   - [Blind Chips](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+   - [Raised Funds Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+    + [Roadmap](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+     + [Stage 1: Spring-Summer 2017 - Minimal Viable Product (MVP)](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+       * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+        * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+	 * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+	  * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+	   * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+	    * [Token Distribution](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#the-privilege-auction)
+	    
+  
  
 
 
@@ -100,12 +115,12 @@ You can rent your tokens to the smart contract right on our site to generate Bli
 
 > **E.g.:** Alice rents 80 WIN (80%) and Bob rents 20 WIN (20%). Other token holders do not participate. They both choose 0 - 1,000,000 BlindChips interval (the number of bets placed since the tokens have been rented). They both get 5% bonus for renting for a wide interval. In 3 months the goal is achieved and 1,000,000 BlindChips were placed as bets. From that amount the smart contract takes 10,000 BlindChips to pay the rent. Alice gets 8,000 + 400 BlindChips and Bob gets 2,000 + 100 Blind Chips.
 
-## Blind Chips
+# Blind Chips
 
 BlindChips - Games in all the connected casinos will be played with special game credits, called BlindChips. These behave mostly like any other standard Ethereum tokens. They are stored in the buyer's Ethereum wallet and can be freely bought or sold. You can buy and sell BlindChips right on the casino's site. The main purpose of BlindChips is faster stake execution. Their main feature is the exchange algorithm. A Player can stake swiftly, by transmitting a signed bet order to the Croupier.
 
 
-## Raised Funds Distribution
+# Raised Funds Distribution
 
 The futher is for reference only. Blind Croupier reserves the right to change funds distribution scheme, depending on the amount of funds raised, market situation and other circumstances. Blind Croupier is not obliged to provide accurate information about funds distribution, which, in turn, is supplied without any guarantee and obligations.
 
