@@ -14,8 +14,8 @@ Blind Croupier is a **gambling software development company** [Business to busin
 * [The Privilege Auction](https://github.com/Blind-Croupier/White-Paper/blob/master/White%20Paper.md#win-token-sale)
 
 - [Background](#Introduction)
-- [WIN Token Sale](#WIN-Token-Sale)
-  * [Support Millions of Users](#The-Privilege-Auction)
+- [WIN Token Sale](#WIN Token Sale)
+  * [The Privilege Auction](#The-Privilege-Auction)
  
 
 
