@@ -13,7 +13,7 @@ Blind Croupier is a **gambling software development company** [Business to busin
 - [WIN Token Sale](#win-token-sale)
   * [The Privilege Auction](#the-privilege-auction)
   * [Token Distribution](#the-privilege-auction)
-  * [About Token Crowdsale Model](#about-token-crowdsale-model)
+  * [About ICO Model](#about-ico-model)
 - [Put Your Tokens To Work](#put-your-tokens-to-work)
 - [Blind Chips](#blind-chips)
 - [Raised Funds Distribution](#raised-funds-distribution)
