@@ -80,7 +80,7 @@ The top Investor (considering ETH spend by the end of Period 25) will (in additi
 ## Token Distribution
 
 **Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. 
-*All unsold tokens (if any) are destroyed at the end of the period*
+*All unsold tokens (if any) are destroyed at the end of every period*
 
 **Token Price:** Starting price *(Period 1)* 1 WIN = $0.1.
 In each new period, the price is increased by 0.7% from the price in the previous period. 
