@@ -73,7 +73,7 @@ WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win To
 
 Top 5 Investors (considering ETH spent by the end of Period 25) receive free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, invest from the single Ethereum wallet.
 
-The top Investor (considering ETH spend by the end of Period 25) will (in addition to the above bonuses) receive a unique Videopoker installation. We will offer this installation to no other customers until the platform is released. This is a great opportunity be first to to enter the transparent online gambling market. Videopoker is platform for MainNet release in September 2017 (beta is available right now).
+The top Investor (considering ETH spend by the end of Period 25) will (in addition to the above bonuses) receive a unique Videopoker installation. We will offer this installation to no other customers until the platform is released. This is a great opportunity be first to to enter the transparent online gambling market. Videopoker is platform for MainNet release in September - October 2017 (beta is available right now).
 
 *If the winner fails to contact us for verification and getting the award within 14 days from the end of Period 25, the bonus will be offered to the next Investor in the Top table until we are able to verify him. We reseve the right of the winner to give/sell the privileges gained to the third parties, but not earlier than the verification occurs.*
 
