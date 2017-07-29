@@ -110,11 +110,11 @@ In each new period, the price is increased by 0.7% from the price in the previou
 
 The aforementioned ICO model was developed to solve investors' problems which are, by our opinion and [blockchain community opinion](http://vitalik.ca/general/2017/06/09/sales.html), are most relevant.
 
-1. Step-by-step investment and participation. - We look at this as at a great opportunity for an investor to look closer to the project, to assess how the given promises are fulfilled and divided the investment into stages. An investor, decided to take part in the ICO will most probably be given a chance to do so. For us it is an opportunity to showcase our products during the ICO and let the market vote for our project, final emission and the token price.
+1. Step-by-step investment - We look at this as at a great opportunity for an investor to look closer to the project, to assess how the given promises are fulfilled and divided the investment into stages. An investor, decided to take part in the ICO will most probably be given a chance to do so. For us it is an opportunity to showcase our products during the ICO and let the market vote for our project, final emission and the token price.
 
 > It's worth mentioning, however, that if an extreme interest rises among the investors, new periods will finish and start without delays, which can, theoretically, lead to the fast end of period 413. But the price will also rise in this case, requiring further roadmap advancement and/or token destruction.
 
-2. The low share boundary. - An investor knows the total amount of tokens and their distribution. The only unknown figure is the amount of tokens issued to the market. But in the case we decrease the emission after the investment, the investor's share will grow.
+2. The low share boundary - An investor knows the total amount of tokens and their distribution. The only unknown figure is the amount of tokens issued to the market. But in the case we decrease the emission after the investment, the investor's share will grow.
 
 3. Limited emission - 500'000'000 WIN is a maximum emission limited by the smart contract. The total amount of tokens can only decrease.
 
