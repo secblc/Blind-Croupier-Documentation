@@ -21,7 +21,7 @@ Blind Croupier is a **gambling software development company** [Business to busin
   * [Stage 1: Minimal Viable Product (MVP)](#stage-1-spring-summer-2017---minimal-viable-product-mvp)
   * [Stage 2: Development and Legal](#stage-2-fall-2017---development-and-legal) 
   * [Stage 3: Testing and Presentation](#stage-3-winter-2017-2018-testing-and-presentation)
-  * [Stage 1: Advanced Platform and Blind Jackpot Fund](#stage-4-spring-summer-2018-advanced-platform-and-blind-jackpot-fund)
+  * [Stage 4: Advanced Platform and Blind Jackpot Fund](#stage-4-spring-summer-2018-advanced-platform-and-blind-jackpot-fund)
 - [The retrospective](#the-retrospective)
 - [Algorithms and Video Poker Implementation](#algorithms-and-video-poker-implementation)
   * [Video Poker Game Rules](#video-poker-game-rules)
