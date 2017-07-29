@@ -94,7 +94,7 @@ In each new period, the price is increased by 0.7% from the price in the previou
 | 70 | 0.140$  | 1,000,000WIN | 800,000,000WIN  | **20%** |
 | 71  | **0.140$**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
 
-**10,000,000WIN:** Offered for crowdsale for Period 0. The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
+**10,000,000WIN:** Offered for token sale Period 0. The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
 
  **413,000,000WIN:**  Split for periods 1-413. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destoyed at the end of the period.
  
@@ -106,11 +106,11 @@ In each new period, the price is increased by 0.7% from the price in the previou
 
 **4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
 
-# About Token Crowdsale Model
+# About ICO Model
 
-The aforementioned crowdsale model was developed to solve investors' problems which are, by our opinion and [blockchain community opinion](http://vitalik.ca/general/2017/06/09/sales.html), are most relevant.
+The aforementioned ICO model was developed to solve investors' problems which are, by our opinion and [blockchain community opinion](http://vitalik.ca/general/2017/06/09/sales.html), are most relevant.
 
-1. Step-by-step investment and participation. - We look at this as at a great opportunity for an investor to look closer to the project, to assess how the given promises are fulfilled and divided the investment into stages. An investor, decided to take part in the crowdsale will most probably be given a chance to do so. For us it is an opportunity to showcase our products during the ICO and let the market vote for our project, final emission and the token price.
+1. Step-by-step investment and participation. - We look at this as at a great opportunity for an investor to look closer to the project, to assess how the given promises are fulfilled and divided the investment into stages. An investor, decided to take part in the ICO will most probably be given a chance to do so. For us it is an opportunity to showcase our products during the ICO and let the market vote for our project, final emission and the token price.
 
 > It's worth mentioning, however, that if an extreme interest rises among the investors, new periods will finish and start without delays, which can, theoretically, lead to the fast end of period 413. But the price will also rise in this case, requiring further roadmap advancement and/or token destruction.
 
@@ -118,7 +118,7 @@ The aforementioned crowdsale model was developed to solve investors' problems wh
 
 3. Limited emission - 500'000'000 WIN is a maximum emission limited by the smart contract. The total amount of tokens can only decrease.
 
-4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case 50% of the tokens, offered for the crowdsale, are destroyed, Blind Croupier team will own 28% of the total emission. Also, part of the tokens will be send the market maker, which is to support the stable token market price.
+4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case 50% of the tokens, offered for the ICO, are destroyed, Blind Croupier team will own 28% of the total emission. Also, part of the tokens will be send the market maker, which is to support the stable token market price.
 
 5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
