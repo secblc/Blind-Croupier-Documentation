@@ -434,3 +434,7 @@ The prize fund is built in a way that money are always accumulated, so the fund 
 ## Jackpot Winner Determining Algorithm
 
 A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
+
+# Заключение
+
+Программное обеспечение от Blind Croupier разработано на основе проверенных методов криптографии и технологии блокчейн, с использованием наилучших методик и практик, и представляет собой абсолютно новый ранее недостижимый уровень в интернет-гейминге. Программное обеспечение является инструментом с помощью которого любой желающий сможет запустить собственное честное, прозрачное, децентрализованное казино нового поколения за несколько кликов. 
