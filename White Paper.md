@@ -139,7 +139,7 @@ You can rent your tokens to the smart contract right on our site to generate Bli
 
 # Blind Chips
 
-BlindChips - Games in all the connected casinos will be played with special game credits, called BlindChips. These behave mostly like any other standard Ethereum tokens. They are stored in the buyer's Ethereum wallet and can be freely bought or sold. You can buy and sell BlindChips right on the casino's site. The main purpose of BlindChips is faster stake execution. Their main feature is the exchange algorithm. A Player can stake swiftly, by transmitting a signed bet order to the Croupier.
+BlindChips - Games in all the connected casinos will be played with special game credits, called BlindChips. These behave mostly like any other standard Ethereum tokens. They are stored in the buyer's Ethereum wallet and can be freely bought or sold. You can buy and sell BlindChips right on the casino's site. The main purpose of BlindChips is faster stake execution. Their main feature is the exchange algorithm. A Player can stake swiftly, by transmitting a signed bet order to the Croupier. **The value of 1 BlindChips is equal to $1 in fees.**
 
 
 # Raised Funds Distribution
