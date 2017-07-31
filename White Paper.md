@@ -68,7 +68,7 @@ This document shows how our products can solve the existing industry problems, w
 
 # Token WIN
 
-WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win Tokens is 500,000,000 WIN, of which 423,000,000 WIN are to be sold during the Token Distribution, divided into several periods. The Token Distribution begins с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ and ends after 413 periods. Please read this document carefully before making any decisions about buying tokens.
+WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win Tokens is 500,000,000 WIN, of which 423,000,000 WIN are to be sold during the Token Distribution, divided into several periods. The Token Distribution begins с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ and ends after 413 periods.
 
 Токен WIN - это внутреняя валюта проекта Blind Croupier. Все категории участников могут использовать WIN для продуктов и услуг, связанных с экосистемой Blind Croupier. Игроки могут использовать токен WIN для получения BlindChips(игровые фишки).Казино могут оплачивать роялти платежи, арендную плату, покупать BlindChips для пополнения банкрола, а также оплачивать другие услуги за токены WIN.
 
