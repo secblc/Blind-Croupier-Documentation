@@ -1,13 +1,14 @@
 # BLINDCROUPIER.io White Paper
 #### Jul 21, 2017 <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="95">
 
-Blind Croupier is a **gambling software development company** [Business to business], prodiving decentralized, fair and  transparent gambling solutions for casinos.
+Blind Croupier is a **gambling software development company** [Business to business], providing decentralized, fair and transparent gambling solutions for casinos.
 
 **Completely fair** — a casino can't possibly gain any advantages except for those defined by specific game rules, including the fair random generation for cards, dices, roulette and slots.
 
-**Absolutely transparent** — all the transactions, software source code, are open to the public and available for checking.
+**Absolutely transparent** —  all the transactions, software source code, are open to the public and available for revision.
 
-**Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), independent of a casino's will.
+**Decentralized** — this guarantees that a player, obeying the game rules, will certainly receive his award (paid to his Ethereum wallet), regardless of the casino’s reservations.
+
 
 - [Introduction](#introduction)
 - [WIN Token Sale](#win-token-sale)
