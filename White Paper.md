@@ -245,7 +245,7 @@ This is not good for the casino itself. Even if it plays fairly, there is no way
 
 <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **Our solution:** In the BlindCroupier's algorithm we use a very simple idea to generate random data. Each side has a private key, used to sign messages and commands. We use it to sign the fixed message, consisting of 4 parts: the Croupier's address, the Player's address, the game ID and the seed ID. The random seed is then acquired from this signature by a very simple manipulation. Until the seed is published it is only known to the owner of the private key. However, after the seed is published, any party can easily verify it by checking the signature against the public key of the seed owner. So, each random seed used in BlindCroupier's algorithm has two major traits:
 
-* *item The seed is determined and can't be changed by any side.*
+* *The seed is determined and can't be changed by any side.*
 * *The seed is revealed to the owner at the beginning of the game, and is available to public when the owner wishes to publish it.*
 
 After both seeds are published (1 Croupier seed and 1 Player seed), we mix them to get a truly random unbiased seed. All sides use it to independently calculate the game result.
