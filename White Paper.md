@@ -11,10 +11,10 @@ Blind Croupier is a **gambling software development company** [Business to bus
 
 
 - [Introduction](#introduction)
-- [WIN Token Sale](#win-token-sale)
+- [Token WIN](#token-win)
   * [The Privilege Auction](#the-privilege-auction)
   * [Token Distribution](#the-privilege-auction)
-  * [About ICO Model](#about-ico-model)
+  * [About Token Distribution Model](#about-token-distribution-model)
 - [Put Your Tokens To Work](#put-your-tokens-to-work)
 - [Blind Chips](#blind-chips)
 - [Raised Funds Distribution](#raised-funds-distribution)
@@ -66,9 +66,9 @@ We have already done a tremendous job, starting from the general concept and end
 
 This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
 
-# WIN Token Sale
+# Token WIN
 
-WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win Tokens is 500,000,000 WIN, of which 423,000,000 WIN are to be sold during the crowd sale, divided into several periods. The crowd sale begins с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ and ends after 413 periods. Please read this document carefully before making any decisions about buying tokens.
+WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win Tokens is 500,000,000 WIN, of which 423,000,000 WIN are to be sold during the Token Distribution, divided into several periods. The Token Distribution begins с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ and ends after 413 periods. Please read this document carefully before making any decisions about buying tokens.
 
 Токен WIN - это внутреняя валюта проекта Blind Croupier. Все категории участников могут использовать WIN для продуктов и услуг, связанных с экосистемой Blind Croupier. Игроки могут использовать токен WIN для получения BlindChips(игровые фишки).Казино могут оплачивать роялти платежи, арендную плату, покупать BlindChips для пополнения банкрола, а также оплачивать другие услуги за токены WIN.
 
@@ -97,7 +97,7 @@ In each new period, the price is increased by 0.7% from the price in the previou
 | 70 | 0.140$  | 1,000,000WIN | 800,000,000WIN  | **20%** |
 | 71  | **0.140$**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
 
-**10,000,000WIN:** Offered for token sale Period 0. The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
+**10,000,000WIN:** Offered for Token Distribution Period 0. The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
 
  **413,000,000WIN:**  Split for periods 1-413. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
  
@@ -109,11 +109,11 @@ In each new period, the price is increased by 0.7% from the price in the previou
 
 **4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
 
-# About ICO Model
+# About Token Distribution Model
 
-The aforementioned ICO model was developed to solve investors' problems which are, by our opinion and [blockchain community opinion](http://vitalik.ca/general/2017/06/09/sales.html), are most relevant.
+The aforementioned Token Distribution model was developed to solve investors' problems which are, by our opinion and [blockchain community opinion](http://vitalik.ca/general/2017/06/09/sales.html), are most relevant.
 
-1. Step-by-step investment - We look at this as at a great opportunity for an investor to look closer to the project, to assess how the given promises are fulfilled and divided the investment into stages. An investor, decided to take part in the ICO will most probably be given a chance to do so. For us it is an opportunity to showcase our products during the ICO and let the market vote for our project, final emission and the token price.
+1. Step-by-step investment - We look at this as at a great opportunity for an investor to look closer to the project, to assess how the given promises are fulfilled and divided the investment into stages. An investor, decided to take part in the Token Distribution will most probably be given a chance to do so. For us it is an opportunity to showcase our products during the Token Distribution and let the market vote for our project, final emission and the token price.
 
 > It's worth mentioning, however, that if an extreme interest rises among the investors, new periods will finish and start without delays, which can, theoretically, lead to the fast end of period 413. But the price will also rise in this case, requiring further roadmap advancement and/or token destruction.
 
@@ -121,7 +121,7 @@ The aforementioned ICO model was developed to solve investors' problems which ar
 
 3. Limited emission - 500'000'000 WIN is a maximum emission limited by the smart contract. The total amount of tokens can only decrease.
 
-4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case of 50% of the tokens, which are offered to the ICO, are destroyed, Blind Croupier team will own 28% of the total emission. Also, part of the tokens will be send the market maker, which is to support the stable token market price.
+4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case of 50% of the tokens, which are offered to the Token Distribution, are destroyed, Blind Croupier team will own 28% of the total emission. Also, part of the tokens will be send the market maker, which is to support the stable token market price.
 
 5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
@@ -321,7 +321,7 @@ Our partners can use a template platform design or order a unique one. Besides, 
 
 ## The Marketing Strategy
 
-BlindCroupier, we believe, is going to be a quality brand in the online gambling world. It is important for those casinos working with our software for Blind Croupier to be associated with fine gameplay, fairness and large wins (which is, of course, true). Our strategy is to provide higher conversion rates for those casinos using our solutions. This will increase both our revenues accordingly. We intend to acquire our first clients during the crowd sale (See our Auction Privileges). First stage will be mainly used for the continuous delivery of our products. We are not going to invest in a marketing campaign while it's still inefficient. However, the marketing campaign will be planned thoroughly and will be started before the release of the final product set. We are going to hire the best specialists for this purpose.
+BlindCroupier, we believe, is going to be a quality brand in the online gambling world. It is important for those casinos working with our software for Blind Croupier to be associated with fine gameplay, fairness and large wins (which is, of course, true). Our strategy is to provide higher conversion rates for those casinos using our solutions. This will increase both our revenues accordingly. We intend to acquire our first clients during the Token Distribution (See our Auction Privileges). First stage will be mainly used for the continuous delivery of our products. We are not going to invest in a marketing campaign while it's still inefficient. However, the marketing campaign will be planned thoroughly and will be started before the release of the final product set. We are going to hire the best specialists for this purpose.
 
 The basic platform and the basic game set are to be presented to the blockchain community. The advanced platform with advanced games are to be presented at the main online gambling exhibitions. During this stage we are going to showcase all the features of our solutions. We will start following a marketing plan as soon as this becomes efficient. 
 
