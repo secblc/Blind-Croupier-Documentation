@@ -101,11 +101,11 @@ In each new period, the price is increased by 0.7% from the price in the previou
 
 **15,000,000WIN** Offered for Token Distribution Period 0. The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
 
- **363,000,000WIN:**  Split for periods 1-363. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
+ **364,000,000WIN:**  Split for periods 1-363. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
  
 **100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. The are put on hold to the special smart contract and will be unlocked after 12 months.
 
-**7,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
+**6,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
 
 **6,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.
 
