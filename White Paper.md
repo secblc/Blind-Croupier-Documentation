@@ -68,7 +68,7 @@ This document shows how our products can solve the existing industry problems, w
 
 # Token WIN
 
-WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win Tokens is 500,000,000 WIN, of which 423,000,000 WIN are to be sold during the Token Distribution, divided into several periods. The Token Distribution begins с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ and ends after 413 periods.
+WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win Tokens is 500,000,000 WIN, of which 423,000,000 WIN are to be sold during the Token Distribution, divided into several periods. The Token Distribution begins с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ and ends after 363 periods.
 
 Токен WIN - это внутреняя валюта проекта Blind Croupier. Все категории участников могут использовать WIN для продуктов и услуг, связанных с экосистемой Blind Croupier. Игроки могут использовать токен WIN для получения BlindChips(игровые фишки).Казино могут оплачивать роялти платежи, арендную плату, покупать BlindChips для пополнения банкрола, а также оплачивать другие услуги за токены WIN.
 
@@ -97,11 +97,13 @@ In each new period, the price is increased by 0.7% from the price in the previou
 | 70 | 0.140$  | 1,000,000WIN | 800,000,000WIN  | **20%** |
 | 71  | **0.140$**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
 
-**10,000,000WIN:** Offered for Token Distribution Period 0. The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
+**5,000,000WIN:** Offered for Token Distribution Early Bird Period . The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
 
- **413,000,000WIN:**  Split for periods 1-413. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
+**15,000,000WIN** Offered for Token Distribution Period 0. The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
+
+ **363,000,000WIN:**  Split for periods 1-363. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
  
-**65,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. The are put on hold to the special smart contract and will be unlocked after 12 months.
+**100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. The are put on hold to the special smart contract and will be unlocked after 12 months.
 
 **7,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
 
@@ -115,13 +117,13 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 1. Step-by-step investment - We look at this as at a great opportunity for an investor to look closer to the project, to assess how the given promises are fulfilled and divided the investment into stages. An investor, decided to take part in the Token Distribution will most probably be given a chance to do so. For us it is an opportunity to showcase our products during the Token Distribution and let the market vote for our project, final emission and the token price.
 
-> It's worth mentioning, however, that if an extreme interest rises among the investors, new periods will finish and start without delays, which can, theoretically, lead to the fast end of period 413. But the price will also rise in this case, requiring further roadmap advancement and/or token destruction.
+> It's worth mentioning, however, that if an extreme interest rises among the investors, new periods will finish and start without delays, which can, theoretically, lead to the fast end of period 363. But the price will also rise in this case, requiring further roadmap advancement and/or token destruction.
 
 2. The low share boundary - An investor knows the total amount of tokens and their distribution. The only unknown figure is the amount of tokens issued to the market. But in the case we decrease the emission after the investment, the investor's share will grow.
 
 3. Limited emission - 500'000'000 WIN is a maximum emission limited by the smart contract. The total amount of tokens can only decrease.
 
-4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case of 50% of the tokens, which are offered to the Token Distribution, are destroyed, Blind Croupier team will own 28% of the total emission. Also, part of the tokens will be send the market maker, which is to support the stable token market price.
+4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case of 50% of the tokens, which are offered to the Token Distribution, are destroyed, Blind Croupier team will own 48% of the total emission. **в наши планы не входит удержание больше 35% токенов, в случае если мы получим токенов больше необходимого колличества** Also, part of the tokens will be send the market maker, which is to support the stable token market price.
 
 5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
