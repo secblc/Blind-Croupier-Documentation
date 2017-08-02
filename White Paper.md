@@ -75,7 +75,7 @@ This document shows how our products can solve the existing industry problems, w
 **Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. 
 *All unsold tokens (if any) are destroyed at the end of every period* 
 
-**Token Price:** Early Bird price: 0.07$ **(Period 0)**
+**Token Price:** Early Bird price: 0.07$ *(Period 0)*
 Starting price *(Period 1)* 1 WIN = $0.1.
 In each new period, the price is increased by 0.7% from the price in the previous period. 
 *If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level*
