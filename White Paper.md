@@ -16,7 +16,6 @@ Blind Croupier is a **gambling software development company** [Business to bus
   * [Token Distribution](#the-privilege-auction)
   * [About Token Distribution Model](#about-token-distribution-model)
 - [Put Your Tokens To Work](#put-your-tokens-to-work)
-- [Blind Chips](#blind-chips)
 - [Raised Funds Distribution](#raised-funds-distribution)
 - [Roadmap](#roadmap)
   * [Stage 1: Minimal Viable Product (MVP)](#stage-1-spring-summer-2017---minimal-viable-product-mvp)
@@ -25,6 +24,7 @@ Blind Croupier is a **gambling software development company** [Business to bus
   * [Stage 4: Advanced Platform and Blind Jackpot Fund](#stage-4-spring-summer-2018-advanced-platform-and-blind-jackpot-fund)
 - [Background](#Background)
 - [Algorithm and Video Poker Implementation](#algorithm-and-video-poker-implementation)
+  * [Blind Chips](#blind-chips)
   * [Video Poker Game Rules](#video-poker-game-rules)
   * [Alghoritm Implementation](#alghoritm-implementation)
 - [The Problems Solved By the Algorithm](#the-problems-solved-by-the-algorithm)
@@ -68,10 +68,7 @@ This document shows how our products can solve the existing industry problems, w
 
 # Token WIN
 
-WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win Tokens is 500,000,000 WIN, of which 423,000,000 WIN are to be sold during the Token Distribution, divided into several periods. The Token Distribution begins с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ and ends after 363 periods.
-
 Токен WIN - это внутреняя валюта проекта Blind Croupier. Все категории участников могут использовать WIN для оплаты продуктов и услуг, связанных с проектом Blind Croupier. Игроки могут использовать токен WIN для получения BlindChips(игровые фишки. Казино могут оплачивать роялти платежи, арендную плату, покупать BlindChips для пополнения банкрола, а также оплачивать другие услуги за токены WIN.
-
 
 ## Token Distribution
 
@@ -131,30 +128,26 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 # Следование Механизмам Дефляционной модели
 
-Дефляция - это изъятие из обращения избыточной денежной массы с целью увеличения их покупательной способности. Дефляционный механизм лежит в основе всей экономической модели Blind Croupier, начиная от первоначального распределения токенов, так и на протяжении всей дальнейшей жизни проекта. 
+Дефляция - это изъятие из обращения избыточной денежной массы с целью увеличения их покупательной способности. Дефляционный механизм лежит в основе всей экономической модели Blind Croupier, как во время первоначального распределения токенов, так и на протяжении всей дальнейшей жизни проекта. 
 
 Тем самым мы выстариваем зависимость стоимости токена WIN от экономических показателей Blind Croupier. Основной показатель экономической эффективности Blind Croupier это размер полученных роялти отчислений от использующих ПО казино, отчисления составляют 13% от GGR(GGR=ставки-выигрыши).
 
-Минимум 15% от полученной роялти прибыли будет использоваться для **постепенного** выкупа токенов WIN и их выводу из оборота. Чем лучше идут дела у проекта, тем больше средств будет выделено для вывода из оборота токенов, в случае если токен оказался определенно не дооценен, то соответственно больше токенов будет выведено из оборота. Если же оценка стоимости на рынке окажется сбалансированной - будет выведено не значительное колличество токенов(Чем выше цена токена, то соответственно и на выделенную сумму мы можем купить меньше токенов). 
+Минимум 15% от полученной роялти прибыли будет использоваться для **постепенного** выкупа токенов WIN и их выводу из оборота. Чем лучше идут дела у проекта, тем больше средств будет выделено для вывода из оборота токенов, в случае если токен оказался определенно не дооценен, то соответственно больше токенов будет выведено из оборота. Если же оценка стоимости на рынке окажется сбалансированной - будет выведено не значительное колличество токенов (Чем выше цена токена, то соответственно и на выделенную сумму мы можем купить меньше токенов). 
 
 >Пример: Ожидается, что размер рынка интернет-гейминга в 2018 году достигнет $52млрд, если подключенные к Blind Croupier казино смогут занять минимальные 0.5% от рынка, то их годовой оборот достигнет $260,000,000, GGR в среднем составит 5% или $13,000,000 из которых 13% будут отправлены для Blind Croupier в виде Роялти, что составит $1,690,000, из этой суммы Blind Croupier выделит минимум 15% для следования механизмам дефляционной модели или $253,500 в год. Давайте рассмотрим в ниже приведенной таблице, какое колличество токенов будет уничтоженно при данных условиях, в зависимости от их стоимости:
 
-| Выделено для поддержания дефляционной модели в год  | Цена токена на рынке  | Токенов уничтоженно в год |
+| Выделено в год  |Средняя цена токена на рынке  | Токенов уничтоженно в год |
 |---|---|---|
 | $253,500  | $1  |  253,500WIN  |
 | $253,500  | $0.5  | 507,000WIN  |
 | $253,500  | $0.25  | 1,014,000WIN |
-| $253,500  | $0.1  | 2,535,0000WIN  |
+| $253,500  | $0.1  | 2,535,000WIN  |
 
-Как видно из таблицы, когда цена токена снижается, дефляция ускоряется и стабилизирует рынок, соответственно когда стоимость токена WIN  достигнет стабильного уровня, который соответствует размеру будущей экономики Blind Croupier, дефляция будет замедлена. Дефляция в свою очередь постепенно увеличивает покупательную способность токена WIN, в зависимости от экономических показателей проекта Blind Croupier, не прибегая для этого к спекулятивным методам.  
+Как видно из таблицы, когда цена токена снижается, дефляция ускоряется и стабилизирует рынок, соответственно когда стоимость токена WIN  достигнет стабильного уровня, который соответствует размеру будущей экономики Blind Croupier, дефляция будет замедлена. Дефляция постепенно увеличивает покупательную способность токена WIN, в зависимости от экономических показателей проекта Blind Croupier, не прибегая для этого к спекулятивным методам.  
 
-# Маркет мейкер
+## Маркет мейкер
 
-Ограниченная эмиссия и постоянный вывод токенов из оборота на всей жизни проекта делает безопасным хранение токенов WIN в долгой перспективе. Однако это может повлечь за собой не способность токена быть быстро проданным по цене, близкой к рыночной или другими словами низкую ликвидность токена на рынке. Для предотвращения подобных ситуаций, как вы уже возможно заметили из раздела распределения токенов, на рынке будет присутствовать маркет-мейкер. Маркет-мейкер хранит на своем балансе токены и другую валюту и принимает активное участие в покупке и продаже токенов WIN по рыночным ценам. Другими словами, если вы захотите приобрести токен WIN на бирже вам не прийдется платить цену выше рыночной, чтобы это сделать, также как и не прийдетется выставлять предложение о продаже по цене ниже рыночной, маркет-мейкер купит/продаст токены по рыночной стоимости.
-
-# Blind Chips
-
-BlindChips - Games in all the connected casinos will be played with special game credits, called BlindChips. These behave mostly like any other standard Ethereum tokens. They are stored in the buyer's Ethereum wallet and can be freely bought or sold. You can buy and sell BlindChips right on the casino's site. The main purpose of BlindChips is faster stake execution. Their main feature is the exchange algorithm. A Player can stake swiftly, by transmitting a signed bet order to the Croupier. **The value of 1 BlindChips is equal to $1 in fees.**
+Ограниченная эмиссия и постоянный вывод токенов из оборота на всей жизни проекта делает безопасным хранение токенов WIN в долгоcрочной перспективе. Однако это может повлечь за собой не способность токена быть быстро проданным по цене, близкой к рыночной или другими словами низкую ликвидность токена на рынке. Для предотвращения подобных ситуаций, как вы уже возможно заметили из раздела [распределения токенов](#about-token-distribution-model), на рынке будет присутствовать маркет-мейкер. Маркет-мейкер хранит на своем балансе токены и другую валюту и принимает активное участие в покупке и продаже токенов WIN по рыночным ценам. Другими словами, если вы захотите приобрести токен WIN на бирже вам не прийдется платить цену выше рыночной чтобы это сделать, также как и не прийдетется выставлять предложение о продаже по цене ниже рыночной - маркет-мейкер купит/продаст токены по рыночной стоимости.
 
 
 # Raised Funds Distribution
@@ -211,6 +204,10 @@ Let's look at one of the possible Player-Croupier-Bank algorithms, already imple
 Our algorithms are specialized for building casinos for 3 parties: the Player (playing through the client-side JavaScript), the Croupier (an automatic server, belonging to the casino) and the Bank (a Solidity smart-contract, hosted in the Ethereum blockchain). The Player and the Croupier have no mutual trust in each other and trust the Bank unconditionally. The Bank receives the Player's and the Croupier's request, processes them and moves the funds (staking, winning, etc). In case someone (Player or Croupier) tries to cheat or refuses to oblige, the second party turn to the Bank (this is done automatically) and the Bank makes the final judgement and fines the guilty side if necessary.
 
 The client-side JavaScript Player code is open-sourced and open for public inspection. Players may want to modify it, but this would be useless in terms of increasing the chances of winning. This can, on the contrary, degrade his chances. The Bank code is open-sourced as well. Moreover, the Bank acts independently of the Player's or the Croupier's will (and anyone's will at all), because it's a decentralized smart contract. The server-side Croupier code is hidden. **No server-side Croupier code modification can possibly give the Croupier any advantage over the Player**
+
+## Blind Chips
+
+BlindChips - Games in all the connected casinos will be played with special game credits, called BlindChips. These behave mostly like any other standard Ethereum tokens. They are stored in the buyer's Ethereum wallet and can be freely bought or sold. You can buy and sell BlindChips right on the casino's site. The main purpose of BlindChips is faster stake execution. Their main feature is the exchange algorithm. A Player can stake swiftly, by transmitting a signed bet order to the Croupier. **The value of 1 BlindChips is equal to $1 in fees.**
 
 ## Video Poker Game Rules
 
