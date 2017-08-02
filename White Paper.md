@@ -70,22 +70,16 @@ This document shows how our products can solve the existing industry problems, w
 
 WIN is the main Blind Croupier Token of ERC20 standard. Total emission of Win Tokens is 500,000,000 WIN, of which 423,000,000 WIN are to be sold during the Token Distribution, divided into several periods. The Token Distribution begins с 13 августа 2017 года НАПИСАТЬ И ВРЕМЯ and ends after 363 periods.
 
-Токен WIN - это внутреняя валюта проекта Blind Croupier. Все категории участников могут использовать WIN для продуктов и услуг, связанных с экосистемой Blind Croupier. Игроки могут использовать токен WIN для получения BlindChips(игровые фишки).Казино могут оплачивать роялти платежи, арендную плату, покупать BlindChips для пополнения банкрола, а также оплачивать другие услуги за токены WIN.
+Токен WIN - это внутреняя валюта проекта Blind Croupier. Все категории участников могут использовать WIN для оплаты продуктов и услуг, связанных с проектом Blind Croupier. Игроки могут использовать токен WIN для получения BlindChips(игровые фишки. Казино могут оплачивать роялти платежи, арендную плату, покупать BlindChips для пополнения банкрола, а также оплачивать другие услуги за токены WIN.
 
-## The Privilege Auction
-
-Top 5 Investors (considering ETH spent by the end of Period 25) receive a free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, they need to invest from a single Ethereum wallet.
-
-The top Investor (considering ETH spend by the end of Period 25) will (in addition to the above bonuses) receive a unique Videopoker installation. We will offer this installation to these exclusive customers. This is a great opportunity be first to enter the transparent online gambling market. Videopoker is platform for MainNet release in September - October 2017 (beta is available right now).
-
-*If the winner fails to contact us for verification and getting the award within 14 days from the end of Period 25, the bonus will be offered to the next Investor in the Top table until we are able to verify him. We reserve the right of the winner to give/sell the privileges gained to the third parties, but not earlier than the verification occurs.*
 
 ## Token Distribution
 
 **Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. 
-*All unsold tokens (if any) are destroyed at the end of every period*
+*All unsold tokens (if any) are destroyed at the end of every period* 
 
-**Token Price:** Starting price *(Period 0)* 1 WIN = $0.1.
+**Token Price:** Early Bird price: 0.07$ **(Period 0)**
+Starting price *(Period 1)* 1 WIN = $0.1.
 In each new period, the price is increased by 0.7% from the price in the previous period. 
 *If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level*
 
@@ -97,11 +91,11 @@ In each new period, the price is increased by 0.7% from the price in the previou
 | 70 | 0.140$  | 1,000,000WIN | 800,000,000WIN  | **20%** |
 | 71  | **0.140$**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
 
-**5,000,000WIN:** Offered for Token Distribution Early Bird Period . The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
+**5,000,000WIN:** Offered for Period 0. Это небольшой период для "раних птичек", цена 1 токена WIN в периоде 0.07$. Период будет завершен когда все доступные для него токены будут распределены или **УКАЗАТЬ ДАТУ РАСПРЕДЕЛЕНИЯ** во втором случае все не проданные токены будут уничтожены.
 
-**15,000,000WIN** Offered for Token Distribution Period 0. The period lasts 161 hours (or until all the tokens are sold), after that the next period begins. All the unsold tokens are destroyed at the end of the period.
+**15,000,000WIN** Offered for Token Distribution Period 1, ***который начнется УКАЗАТЬ ДАТУ**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. All the unsold tokens are destroyed at the end of the period.
 
- **364,000,000WIN:**  Split for periods 1-363. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
+ **364,000,000WIN:**  Split for periods 2-365. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
  
 **100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. The are put on hold to the special smart contract and will be unlocked after 12 months.
 
@@ -110,6 +104,14 @@ In each new period, the price is increased by 0.7% from the price in the previou
 **6,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.
 
 **4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
+
+## The Privilege Auction
+
+Top 5 Investors (considering ETH spent by the end of Period 25) receive a free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, they need to invest from a single Ethereum wallet.
+
+The top Investor (considering ETH spend by the end of Period 25) will (in addition to the above bonuses) receive a unique Videopoker installation. We will offer this installation to these exclusive customers. This is a great opportunity be first to enter the transparent online gambling market. Videopoker is platform for MainNet release in September - October 2017 (beta is available right now).
+
+*If the winner fails to contact us for verification and getting the award within 14 days from the end of Period 25, the bonus will be offered to the next Investor in the Top table until we are able to verify him. We reserve the right of the winner to give/sell the privileges gained to the third parties, but not earlier than the verification occurs.*
 
 # About Token Distribution Model
 
@@ -123,21 +125,32 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 3. Limited emission - 500'000'000 WIN is a maximum emission limited by the smart contract. The total amount of tokens can only decrease.
 
-4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case of 50% of the tokens, which are offered to the Token Distribution, are destroyed, Blind Croupier team will own 48% of the total emission. **в наши планы не входит удержание больше 35% токенов, в случае если мы получим токенов больше необходимого колличества** Also, part of the tokens will be send the market maker, which is to support the stable token market price.
+4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case of 50% of the tokens, which are offered to the Token Distribution, are destroyed, Blind Croupier team will own 48% of the total emission. Also, part of the tokens will be send the market maker, which is to support the stable token market price.
 
 5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
-# Put Your Tokens To Work
+# Следование Механизмам Дефляционной модели
 
-You can rent your tokens to the smart contract right on our site to generate BlindChips (gambling chips used in connected casinos). As a reward you are getting part of the generated BlindChips. The amount of BlindChips generated depends heavily on the amount of BlindChips put on stake in our casinos (number of bets made) and WIN holders concern of the system. The more BlindChips are used during your tokens are rented, the greater bonus your get.
+Дефляция - это изъятие из обращения избыточной денежной массы с целью увеличения их покупательной способности. Дефляционный механизм лежит в основе всей экономической модели Blind Croupier, начиная от первоначального распределения токенов, так и на протяжении всей дальнейшей жизни проекта. 
 
-* *You rent tokens but not for a time period, but rather to generate a certain amount of BlindChips.*
+Тем самым мы выстариваем зависимость стоимости токена WIN от экономических показателей Blind Croupier. Основной показатель экономической эффективности Blind Croupier это размер полученных роялти отчислений от использующих ПО казино, отчисления составляют 13% от GGR(GGR=ставки-выигрыши).
 
-* *The greater your share is and the longer rent is, the more BlindChips you get. The total amount of BlindChips sent to the token owners depends on the market situation and the token holders’ concern level.*
+Минимум 15% от полученной роялти прибыли будет использоваться для **постепенного** выкупа токенов WIN и их выводу из оборота. Чем лучше идут дела у проекта, тем больше средств будет выделено для вывода из оборота токенов, в случае если токен оказался определенно не дооценен, то соответственно больше токенов будет выведено из оборота. Если же оценка стоимости на рынке окажется сбалансированной - будет выведено не значительное колличество токенов(Чем выше цена токена, то соответственно и на выделенную сумму мы можем купить меньше токенов). 
 
-* *Using BlindChips, you can place bets, get wins and them in any Blind Croupier-enabled casino.*
+>Пример: Ожидается, что размер рынка интернет-гейминга в 2018 году достигнет $52млрд, если подключенные к Blind Croupier казино смогут занять минимальные 0.5% от рынка, то их годовой оборот достигнет $260,000,000, GGR в среднем составит 5% или $13,000,000 из которых 13% будут отправлены для Blind Croupier в виде Роялти, что составит $1,690,000, из этой суммы Blind Croupier выделит минимум 15% для следования механизмам дефляционной модели или $253,500 в год. Давайте рассмотрим в ниже приведенной таблице, какое колличество токенов будет уничтоженно при данных условиях, в зависимости от их стоимости:
 
-> **E.g.:** Alice rents 80 WIN (80%) and Bob rents 20 WIN (20%). Other token holders do not participate. They both choose 0 - 1,000,000 BlindChips interval (the number of bets placed since the tokens have been rented). They both get 5% bonus for renting for a wide interval. In 3 months the goal is achieved and 1,000,000 BlindChips were placed as bets. From that amount the smart contract takes 10,000 BlindChips to pay the rent. Alice gets 8,000 + 400 BlindChips and Bob gets 2,000 + 100 Blind Chips.
+| Выделено для поддержания дефляционной модели в год  | Цена токена на рынке  | Токенов уничтоженно в год |
+|---|---|---|
+| $253,500  | $1  |  253,500WIN  |
+| $253,500  | $0.5  | 507,000WIN  |
+| $253,500  | $0.25  | 1,014,000WIN |
+| $253,500  | $0.1  | 2,535,0000WIN  |
+
+Как видно из таблицы, когда цена токена снижается, дефляция ускоряется и стабилизирует рынок, соответственно когда стоимость токена WIN  достигнет стабильного уровня, который соответствует размеру будущей экономики Blind Croupier, дефляция будет замедлена. Дефляция в свою очередь постепенно увеличивает покупательную способность токена WIN, в зависимости от экономических показателей проекта Blind Croupier, не прибегая для этого к спекулятивным методам.  
+
+# Маркет мейкер
+
+Ограниченная эмиссия и постоянный вывод токенов из оборота на всей жизни проекта делает безопасным хранение токенов WIN в долгой перспективе. Однако это может повлечь за собой не способность токена быть быстро проданным по цене, близкой к рыночной или другими словами низкую ликвидность токена на рынке. Для предотвращения подобных ситуаций, как вы уже возможно заметили из раздела распределения токенов, на рынке будет присутствовать маркет-мейкер. Маркет-мейкер хранит на своем балансе токены и другую валюту и принимает активное участие в покупке и продаже токенов WIN по рыночным ценам. Другими словами, если вы захотите приобрести токен WIN на бирже вам не прийдется платить цену выше рыночной, чтобы это сделать, также как и не прийдетется выставлять предложение о продаже по цене ниже рыночной, маркет-мейкер купит/продаст токены по рыночной стоимости.
 
 # Blind Chips
 
