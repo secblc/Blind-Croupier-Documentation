@@ -53,7 +53,6 @@ Blind Croupier is a **gambling software development company** [Business to bus
   * [Jackpot Winner Determining Algorithm](#jackpot-winner-determining-algorithm)
   
 
-
 # Introduction
 
 The moment smart contracts emerged, the gambling industry changed forever, making casinos more transparent and fair. A player can easily check all the transactions, confirm the source code validity and check a casino's advantage in no time.
@@ -68,7 +67,7 @@ This document shows how our products can solve the existing industry problems, w
 
 # Token WIN
 
-Токен WIN - это внутреняя валюта проекта Blind Croupier. Все категории участников могут использовать WIN для оплаты продуктов и услуг, связанных с проектом Blind Croupier. Игроки могут использовать токен WIN для получения BlindChips(игровые фишки. Казино могут оплачивать роялти платежи, арендную плату, покупать BlindChips для пополнения банкрола, а также оплачивать другие услуги за токены WIN.
+Токен WIN - это валюта проекта Blind Croupier служащая измерителем стоимости на другие товары и услуги. Все категории участников могут использовать WIN для оплаты продуктов и услуг, связанных с проектом Blind Croupier. К тому же WIN может быть использован для оплаты или обмена среди участников обращения токена WIN.
 
 ## Token Distribution
 
@@ -92,13 +91,13 @@ In each new period, the price is increased by 0.7% from the price in the previou
 
 **15,000,000WIN** Offered for Token Distribution Period 1, ***который начнется УКАЗАТЬ ДАТУ**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. All the unsold tokens are destroyed at the end of the period.
 
- **364,000,000WIN:**  Split for periods 2-365. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
+ **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
  
-**100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. The are put on hold to the special smart contract and will be unlocked after 12 months.
+**100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment, **и поддержания баланса маркет мейкера**. The are put on hold and will be unlocked after 12 months.
 
-**6,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
+**5,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
 
-**6,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.
+**5,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.
 
 **4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
 
@@ -116,7 +115,7 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 1. Step-by-step investment - We look at this as at a great opportunity for an investor to look closer to the project, to assess how the given promises are fulfilled and divided the investment into stages. An investor, decided to take part in the Token Distribution will most probably be given a chance to do so. For us it is an opportunity to showcase our products during the Token Distribution and let the market vote for our project, final emission and the token price.
 
-> It's worth mentioning, however, that if an extreme interest rises among the investors, new periods will finish and start without delays, which can, theoretically, lead to the fast end of period 363. But the price will also rise in this case, requiring further roadmap advancement and/or token destruction.
+> It's worth mentioning, however, that if an extreme interest rises among the investors, new periods will finish and start without delays, which can, theoretically, lead to the fast end of period 367. But the price will also rise in this case, requiring further roadmap advancement and/or token destruction.
 
 2. The low share boundary - An investor knows the total amount of tokens and their distribution. The only unknown figure is the amount of tokens issued to the market. But in the case we decrease the emission after the investment, the investor's share will grow.
 
@@ -449,4 +448,4 @@ A winner is determined randomly using a specially designed blockchain-based algo
 
 # Заключение
 
-Программное обеспечение от Blind Croupier разработано на основе проверенных методов криптографии и технологии блокчейн, с использованием наилучших методик и практик, что в совакупности предсталяет собой абсолютно новый, ранее недостижимый уровень в интернет-гейминге. Программное обеспечение является инструментом с помощью которого любой желающий сможет запустить собственное честное, прозрачное, децентрализованное казино нового поколения за несколько кликов. 
+Программное обеспечение от Blind Croupier разработано на основе проверенных методов криптографии и технологии блокчейн, с использованием наилучших методик и практик, что в совакупности предсталяет собой абсолютно новый ранее недостижимый уровень в интернет-гейминге. Само программное обеспечение является инструментом с помощью которого любой желающий сможет запустить собственное честное, прозрачное, децентрализованное казино нового поколения за несколько кликов. 
