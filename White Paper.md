@@ -74,8 +74,8 @@ This document shows how our products can solve the existing industry problems, w
 **Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. 
 *All unsold tokens (if any) are destroyed at the end of every period* 
 
-**Token Price:** Early Bird price: 0.07$ *(Period 0)*
-Starting price *(Period 1)* 1 WIN = $0.1.
+**Token Price:** Period 0 price: 0.07$
+Period 1 price 1 WIN = $0.1$
 In each new period, the price is increased by 0.7% from the price in the previous period. 
 *If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level*
 
@@ -87,11 +87,11 @@ In each new period, the price is increased by 0.7% from the price in the previou
 | 70 | 0.140$  | 1,000,000WIN | 800,000,000WIN  | **20%** |
 | 71  | **0.140$**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
 
-**5,000,000WIN:** Offered for Period 0. Это небольшой период для "раних птичек". Период будет завершен когда все доступные для него токены будут распределены или вместе с началом с Period 1 то есть ** УКАЗАТЬ ДАТУ**.
+**5,000,000WIN:** Offered for Period 0. Это небольшой период для "раних птичек". Период будет завершен когда все доступные для него токены будут распределены или вместе с началом с Period 1 то есть ** УКАЗАТЬ ДАТУ**. *All the unsold tokens are destroyed at the end of the period.*
 
-**15,000,000WIN** Offered for Token Distribution Period 1, ***который начнется УКАЗАТЬ ДАТУ**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. All the unsold tokens are destroyed at the end of the period.
+**15,000,000WIN** Offered for Token Distribution Period 1, ***который начнется УКАЗАТЬ ДАТУ**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
 
- **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). All the unsold tokens are destroyed at the end of the period.
+ **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). *All the unsold tokens are destroyed at the end of the period.*
  
 **100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment, **и поддержания баланса маркет мейкера**. The are put on hold and will be unlocked after 12 months.
 
@@ -121,7 +121,7 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 3. Limited emission - 500'000'000 WIN is a maximum emission limited by the smart contract. The total amount of tokens can only decrease.
 
-4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case of 50% of the tokens, which are offered to the Token Distribution, are destroyed, Blind Croupier team will own 48% of the total emission. Also, part of the tokens will be send the market maker, which is to support the stable token market price.
+4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case of 50% of the tokens, which are offered to the Token Distribution, are destroyed, Blind Croupier team will own 48% of the total emission. Also, part of the tokens will be send to the market maker, which is to support the stable token market price.
 
 5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
@@ -142,11 +142,11 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 | $253,500  | $0.25  | 1,014,000WIN |
 | $253,500  | $0.1  | 2,535,000WIN  |
 
-Как видно из таблицы, когда цена токена снижается, дефляция ускоряется и стабилизирует рынок, соответственно когда стоимость токена WIN  достигнет стабильного уровня, который соответствует размеру будущей экономики Blind Croupier, дефляция будет замедлена. Дефляция постепенно увеличивает покупательную способность токена WIN, в зависимости от экономических показателей проекта Blind Croupier, не прибегая для этого к спекулятивным методам.  
+Как видно из таблицы, когда цена токена снижается, дефляция ускоряется и стабилизирует рынок, соответственно когда стоимость токена WIN  достигнет стабильного уровня, который соответствует размеру будущей экономики Blind Croupier, дефляция будет замедлена. Данная модель постепенно увеличивает покупательную способность токена WIN, в зависимости от экономических показателей проекта Blind Croupier, не прибегая для этого к спекулятивным методам.  
 
 ## Ликвидность
 
-Ограниченная эмиссия и постоянный вывод токенов из оборота на всей жизни проекта делает безопасным хранение токенов WIN в долгоcрочной перспективе. Однако это может повлечь за собой не способность токена быть быстро проданным по цене, близкой к рыночной или другими словами низкую ликвидность токена на рынке. Для предотвращения подобных ситуаций, как вы уже возможно заметили из раздела [распределения токенов](#about-token-distribution-model), на рынке будет присутствовать маркет-мейкер. Маркет-мейкер хранит на своем балансе токены и другую валюту и принимает активное участие в покупке и продаже токенов WIN по рыночным ценам. Другими словами, если вы захотите приобрести токен WIN на бирже вам не прийдется платить цену выше рыночной чтобы это сделать, также как и не прийдетется выставлять предложение о продаже по цене ниже рыночной - маркет-мейкер купит/продаст токены по рыночной стоимости.
+Ограниченная эмиссия и постоянный вывод токенов из оборота на всей жизни проекта делает безопасным хранение токенов WIN в долгоcрочной перспективе. Однако это может повлечь за собой не способность токена быть быстро проданным по цене близкой к рыночной или другими словами низкую ликвидность токена на рынке. Для предотвращения подобных ситуаций, как вы уже возможно заметили из раздела [распределения токенов](#about-token-distribution-model), на рынке будет присутствовать маркет-мейкер. Маркет-мейкер хранит на своем балансе токены и другую валюту и принимает активное участие в покупке и продаже токенов WIN по рыночным ценам. Другими словами, если вы захотите приобрести токен WIN на бирже вам не прийдется платить цену выше рыночной чтобы это сделать, также как и не прийдетется выставлять предложение о продаже по цене ниже рыночной - маркет-мейкер купит/продаст токены по рыночной стоимости.
 
 
 # Raised Funds Distribution
