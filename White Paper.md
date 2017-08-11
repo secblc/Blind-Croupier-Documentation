@@ -74,11 +74,11 @@ This document shows how our products can solve the existing industry problems, w
 **Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. 
 *All unsold tokens (if any) are destroyed at the end of every period*
 
-**Period 0 price:** 0.07$
+**Period 0 price:** 1WIN = 0.07$
 
 **Period 1 price:** 1 WIN = $0.1$
 
-In each new period, the price is increased by 0.7% from the price in the previous period.
+**In each new period, the price is increased by 0.7% from the price in the previous period.**
 *If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level*
 
 | Period  | Price | Offer | Demand  | Tokens Burnt % |
