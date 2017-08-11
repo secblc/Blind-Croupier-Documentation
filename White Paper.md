@@ -78,7 +78,7 @@ This document shows how our products can solve the existing industry problems, w
 
 **Period 1 price:** 1 WIN = $0.1$
 
-**In each new period, the price is increased by 0.7% from the price in the previous period.**
+*In each new period, the price is increased by 0.7% from the price in the previous period.*
 *If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level*
 
 | Period  | Price | Supply | Demand  | Tokens Burnt % |
