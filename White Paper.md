@@ -151,7 +151,7 @@ Top 5 Investors (considering ETH spent by the end of Period 25) receive a free p
 > Проверить лидеров и узнать на каком месте находитесь вы, можно в соответствующем разделе на нашем сайте. **добавить ссылку**.
 
 The top Investor (considering ETH spend by the end of Period 25) will (in addition to the above bonuses) receive a unique Videopoker installation. We will offer this installation to this exclusive customer. This is a great opportunity be first to enter the transparent online gambling market. Videopoker is platform for MainNet release in September - October 2017 (beta is available right now).
->  Как и для любого казино, чтобы обеспечить ставки игроков необходимо внести соответствующий депозит в банкролл видеопокера на адрес смарт-контракта, это является обязательным условием для запуска вашего проекта.
+>  Как и для любого казино, чтобы обеспечить ставки игроков необходимо внести соответствующий депозит в банкролл вашего крупье, это является обязательным условием для запуска вашего проекта.
 
 *If the winner fails to contact us for verification and getting the award within 14 days from the end of Period 25, the bonus will be offered to the next Investor in the Top table until we are able to verify him. We reserve the right of the winner to give/sell the privileges gained to the third parties, but not earlier than the verification occurs.*
 
