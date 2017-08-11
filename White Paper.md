@@ -2,6 +2,7 @@
 #### Jul 21, 2017 <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="95">
 
 Blind Croupier is a **gambling software development company** [Business to business], providing decentralized, fair and transparent gambling solutions for casinos.
+> С нашим программным обеспечением, операторы казино смогут открыть свое собственное децентрализованное казино в кратчайшие сроки.
 
 **Completely fair** — a casino can't possibly gain any advantages except for those defined by specific game rules, including the fair random generation.
 
@@ -148,8 +149,9 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 ## The Privilege Auction
 
 Top 5 Investors (considering ETH spent by the end of Period 25) receive a free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, they need to invest from a single Ethereum wallet.
-> Проверить лидеров и узнать на каком месте находитесь вы, можно в соответствующем разделе на нашем сайте. **добавить ссылку**.
-*We reserve the right of the winner to give/sell the privileges gained to the third parties.
+> Проверить лидеров и узнать на каком месте находитесь вы, можно в соответствующем разделе на нашем сайте.
+
+*We reserve the right of the winner to give/sell the privileges gained to the third parties.*
 
 # Raised Funds Distribution
 
@@ -314,6 +316,9 @@ A casino's revenue is formed from the house edge. The house edge is defined as t
 
 > **For example:** Games like Roulette, the “Edge” is achieved by the casino paying slightly less than the “true” odds for a particular bet. For example, the true odds for a single Roulette number to win are 36 to 1, since there are 37 compartments on the wheel. However, winning bets are actually paid at 35 to 1. Therefore the house advantage is equal to 1/37*100 = 2.7%. In theory after 10 spins, betting 1 unit per spin, the average house profit will be 10 x 1 x 2.76% = 0.27 units. Of course, the casino may not win exactly 0.27 units; this figure is the average casino profit from each player if it had millions of players each betting for 10 spins at 1 unit per spin.
 
+# Turnkey Solution For Operators Casino 
+
+Blind Croupier solutions are not for a single casino, but for many casinos working together with the same software. To the casino operators, we guarantee a modern platform, all available games, and the ability to process transactions using our gambling license as soon as possible (everything is already done). We require minimum investment from a casino owners and little effort to launch a project. To begin, they will only need to develop a casino's design and a marketing plan (which is what Blind Croupier would help with) - and that's it, they can serve the clients in their own new generation casino.
 
 # Blind Croupier Business model
 
@@ -332,11 +337,6 @@ Usage fees are fixed regular payments for platform services, support and server 
 
 Our partners can use a template platform design or order a unique one. Besides, partners can order unique games, which will be developed exclusively for their project, thus giving them marketing advantages.
 
-## The Marketing Strategy
-
-BlindCroupier, we believe, is going to be a quality brand in the online gambling world. It is important for those casinos working with our software for Blind Croupier to be associated with fine gameplay, fairness and large wins (which is, of course, true). Our strategy is to provide higher conversion rates for those casinos using our solutions. This will increase both our revenues accordingly. We intend to acquire our first clients during the Token Distribution (See our Auction Privileges). First stage will be mainly used for the continuous delivery of our products. We are not going to invest in a marketing campaign while it's still inefficient. However, the marketing campaign will be planned thoroughly and will be started before the release of the final product set. We are going to hire the best specialists for this purpose.
-
-The basic platform and the basic game set are to be presented to the blockchain community. The advanced platform with advanced games are to be presented at the main online gambling exhibitions. During this stage we are going to showcase all the features of our solutions. We will start following a marketing plan as soon as this becomes efficient. 
 
 ## Motivation and Mission
 
@@ -356,13 +356,11 @@ Before starting to develop our platform, we looked into building an online casin
 
 *As each of these tasks needs large investments, we decided to focus on delivering quality solutions for other professionals, who, in turn, will use their resources to attract players and secure their stakes. Together we can bring new horizons to online gambling.*
 
-# Turnkey Solution For Operators Casino 
-
-Blind Croupier solutions are not for a single casino, but for many casinos working together with the same software. To the casino operators, we guarantee a modern platform, all available games, and the ability to process transactions using our gambling license as soon as possible (everything is already done). We require minimum investment from a casino owners and little effort to launch a project. To begin, they will only need to develop a casino's design and a marketing plan (which is what Blind Croupier would help with) - and that's it, they can serve the clients in their own new generation casino.
-
 # Blind Croupier Platform
 
-The release of the platform is split into two stages. The features and functionality are described in table.
+BlindCroupier, we believe, is going to be a quality brand in the online gambling world. It is important for those casinos working with our software for Blind Croupier to be associated with fine gameplay, fairness and large wins (which is, of course, true). Our strategy is to provide higher conversion rates for those casinos using our solutions. 
+
+The release of the platform is split into two stages. The basic platform and the basic game set are to be presented to the blockchain community. The advanced platform with advanced games are to be presented at the main online gambling exhibitions. During this stage we are going to showcase all the features of our solutions. The features and functionality are described in table.
 
 |  Platform features | Basic platform  | Advanced platform  |
 |---|---|:-:|
