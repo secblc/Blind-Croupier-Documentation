@@ -86,30 +86,25 @@ This document shows how our products can solve the existing industry problems, w
 | 1  | 0.1$  | 10,000,000WIN | 10,000,000WIN  | 0%  |
 | 2 |  0.1007 | 1,000,000WIN | 1,000,000WIN  | 0%  |
 | 3-69 | -  | -  | -  |  - |
-| 70 | 0.140$  | 1,000,000WIN | 800,000,000WIN  | **20%** |
+| 70 | 0.140$  | 1,000,000WIN | **800,000,000WIN**  | **20%** |
 | 71  | **0.140$**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
+> Как вы наверное заметили из таблицы, в периоде 1 все предложенные токены были распределены, и стоимость токена во втором периоде повысилась на 0.07%. А в периоде 70 было сожжено 20% токенов, поэтому в соответствии с указаным в смарт-контракте алгоритме, стоимость токена в периоде 71 не повысилась. В этом и следующих разделах вы узнаете больше о предложенной экономической модели.
 
-**5,000,000WIN:** Offered for Period 0. Это небольшой период для "раних птичек". Период будет завершен когда все доступные для него токены будут распределены или вместе с началом с Period 1 то есть ** УКАЗАТЬ ДАТУ**. *All the unsold tokens are destroyed at the end of the period.*
+**5,000,000WIN:** Offered for Token Distribution Period 0. Price for period:1WIN = 0.07$. Это небольшой период для "раних птичек". Период будет завершен когда все доступные для него токены будут распределены или вместе с началом с Period 1 то есть ** УКАЗАТЬ ДАТУ**. *All the unsold tokens are destroyed at the end of the period.*
 
-**15,000,000WIN** Offered for Token Distribution Period 1, ***который начнется УКАЗАТЬ ДАТУ**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
+**15,000,000WIN** Offered for Token Distribution Period 1. Price for period:  1 WIN = $0.1$.  ***Период начнется УКАЗАТЬ ДАТУ**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
 
- **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). *All the unsold tokens are destroyed at the end of the period.*
+ **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). In each new period, the price is increased by 0.7% from the price in the previous period.
+If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level.
  
-**100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment, **и поддержания баланса маркет мейкера**. The are put on hold and will be unlocked after 12 months.
+**100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment, **и поддержания необходимого баланса маркет мейкера**. The are put on hold and will be unlocked after 12 months.
 
 **5,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
 
-**5,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.
+**5,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.**ДОБАВИТЬ ССЫЛКУ НА БАУНТИ**
 
 **4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
 
-## The Privilege Auction
-
-Top 5 Investors (considering ETH spent by the end of Period 25) receive a free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, they need to invest from a single Ethereum wallet.
-
-The top Investor (considering ETH spend by the end of Period 25) will (in addition to the above bonuses) receive a unique Videopoker installation. We will offer this installation to these exclusive customers. This is a great opportunity be first to enter the transparent online gambling market. Videopoker is platform for MainNet release in September - October 2017 (beta is available right now).
-
-*If the winner fails to contact us for verification and getting the award within 14 days from the end of Period 25, the bonus will be offered to the next Investor in the Top table until we are able to verify him. We reserve the right of the winner to give/sell the privileges gained to the third parties, but not earlier than the verification occurs.*
 
 # About Token Distribution Model
 
@@ -150,6 +145,15 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 Ограниченная эмиссия и постоянный вывод токенов из оборота на всей жизни проекта делает безопасным хранение токенов WIN в долгоcрочной перспективе. Однако это может повлечь за собой не способность токена быть быстро проданным по цене близкой к рыночной или другими словами низкую ликвидность токена на рынке. Для предотвращения подобных событий, как вы уже возможно заметили из раздела [распределения токенов](#about-token-distribution-model), на рынке будет присутствовать маркет-мейкер. Маркет-мейкер хранит на своем балансе токены и другую валюту и принимает активное участие в покупке и продаже токенов WIN по рыночным ценам, в соответствии с указаным алгоритмом. Другими словами, если вы захотите приобрести токен WIN на бирже вам не прийдется платить цену выше рыночной чтобы это сделать, также как и не прийдетется выставлять предложение о продаже по цене ниже рыночной - маркет-мейкер купит/продаст токены по рыночной стоимости.
 
+## The Privilege Auction
+
+Top 5 Investors (considering ETH spent by the end of Period 25) receive a free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, they need to invest from a single Ethereum wallet.
+> Проверить лидеров и узнать на каком месте находитесь вы, можно в соответствующем разделе на нашем сайте. **добавить ссылку**.
+
+The top Investor (considering ETH spend by the end of Period 25) will (in addition to the above bonuses) receive a unique Videopoker installation. We will offer this installation to this exclusive customer. This is a great opportunity be first to enter the transparent online gambling market. Videopoker is platform for MainNet release in September - October 2017 (beta is available right now).
+>  Как и для любого казино, чтобы обеспечить ставки игроков необходимо внести соответствующий депозит в банкролл видеопокера на адрес смарт-контракта, это является обязательным условием для запуска вашего проекта.
+
+*If the winner fails to contact us for verification and getting the award within 14 days from the end of Period 25, the bonus will be offered to the next Investor in the Top table until we are able to verify him. We reserve the right of the winner to give/sell the privileges gained to the third parties, but not earlier than the verification occurs.*
 
 # Raised Funds Distribution
 
