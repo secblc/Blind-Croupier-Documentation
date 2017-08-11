@@ -81,7 +81,7 @@ This document shows how our products can solve the existing industry problems, w
 **In each new period, the price is increased by 0.7% from the price in the previous period.**
 *If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level*
 
-| Period  | Price | Offer | Demand  | Tokens Burnt % |
+| Period  | Price | Supply | Demand  | Tokens Burnt % |
 |---|:-:|---|---|---|
 | 1  | 0.1$  | 10,000,000WIN | 10,000,000WIN  | 0%  |
 | 2 |  0.1007 | 1,000,000WIN | 1,000,000WIN  | 0%  |
