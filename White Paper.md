@@ -66,11 +66,9 @@ We have already done a tremendous job, starting from the general concept and end
 
 This document shows how our products can solve the existing industry problems, which innovations we are introducing, what advantage our investors are going to receive and our current goals.
 
-# Token WIN
+# WIN Token Distribution
 
 Токен WIN - это валюта проекта Blind Croupier служащая измерителем стоимости других товаров и услуг. Все категории участников могут использовать WIN для оплаты продуктов и услуг, связанных с проектом Blind Croupier. К тому же WIN может быть использован для оплаты или обмена среди всех участников обращения токена WIN.
-
-## Token Distribution
 
 **Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. 
 *All unsold tokens (if any) are destroyed at the end of every period.*
@@ -106,8 +104,7 @@ If  20% of more of tokens were destroyed in the period, then the price would be 
 
 **4,000,000WIN:** Reserved for the current and future Blind Croupier advisor. 
 
-
-# About Token Distribution Model
+## About Token Distribution Model
 
 The aforementioned Token Distribution model was developed to solve investors' problems which are, by our opinion and [blockchain community opinion](http://vitalik.ca/general/2017/06/09/sales.html), are most relevant.
 
@@ -123,7 +120,7 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
-# Следование Механизмам Дефляционной Модели
+## Следование Механизмам Дефляционной Модели
 
 Дефляция - это изъятие из обращения избыточной денежной массы с целью увеличения их покупательной способности. Дефляционный механизм лежит в основе всей экономической модели Blind Croupier, как во время первоначального распределения токенов, так и на протяжении всей дальнейшей жизни проекта. 
 
@@ -153,7 +150,7 @@ Top 5 Investors (considering ETH spent by the end of Period 25) receive a free p
 
 *We reserve the right of the winner to give/sell the privileges gained to the third parties.*
 
-# Raised Funds Distribution
+## Raised Funds Distribution
 
 The further distribution plan is for reference only. Blind Croupier reserves the right to change funds distribution scheme, depending on the amount of funds raised, market situation and other circumstances. Blind Croupier is not obliged to provide accurate information about funds distribution, which, in turn, is supplied without any guarantee and obligations.
 
@@ -162,7 +159,7 @@ The further distribution plan is for reference only. Blind Croupier reserves the
 * 10% legal expenses
 * 20% operating expenses
 
-# Roadmap
+## Roadmap
 
 This document supplies the general development plan, which is to be updated as the project progresses. All the roadmap content is subject to change at any time. The information is for reference only. Blind Croupier doesn't guarantee the information provided in the Roadmap is accurate, which, in turn, is supplied without any guarantee and obligations.
 
