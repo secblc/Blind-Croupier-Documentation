@@ -146,8 +146,6 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 ## The Privilege Auction
 
 Top 5 Investors (considering ETH spent by the end of Period 25) receive a free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, they need to invest from a single Ethereum wallet.
-> Проверить лидеров и узнать на каком месте находитесь вы, можно в соответствующем разделе на нашем сайте.
-
 *We reserve the right of the winner to give/sell the privileges gained to the third parties.*
 
 ## Raised Funds Distribution
