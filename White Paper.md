@@ -1,8 +1,10 @@
 # BLINDCROUPIER.io White Paper
 #### Jul 21, 2017 <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="95">
 
-Blind Croupier is a **gambling software development company** [Business to business], providing decentralized, fair and transparent gambling solutions for casinos.
+Blind Croupier is a **gambling software development company** [Business to business], providing decentralized, fast, fair and transparent gambling solutions for casinos.
 > Программное обеспечение, позволяет операторам казино открыть свое собственное децентрализованное казино в кратчайшие сроки.
+
+**Fast НАПИШИ ЗАСЧЕТ ЧЕГО ДОСТИГАЕТСЯ СКОРОСТЬ** 
 
 **Completely fair** — a casino can't possibly gain any advantages except for those defined by specific game rules, including the fair random generation.
 
