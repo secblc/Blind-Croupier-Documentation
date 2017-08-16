@@ -199,7 +199,7 @@ https://kovan.etherscan.io/tx/0x97de8fd8a8af1bd67668cdf49cd89adf74402d1f095fa24a
 [1] 0000000000000000000000001d6acdeb2eada5feca9fe4c78870d0c06f5f1745
 ```
 
-Количество Wei выплаты(используем уже нам знакомый [хекс конвертер](http://www.binaryhexconverter.com/hex-to-decimal-converter):
+Количество Wei выплаты(используем уже нам знакомый [хекс конвертер](http://www.binaryhexconverter.com/hex-to-decimal-converter)):
 
 ```
 [2] 0000000000000000000000000000000000000000000000000429d069189e0000 = 
