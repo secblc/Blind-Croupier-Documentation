@@ -81,7 +81,7 @@ Limited emissions and constant tokens withdrawal during the project's lifetime m
 Top 5 Investors (considering ETH spent by the end of Period 25) receive a free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, they need to invest from a single Ethereum wallet.
 *We reserve the right of the winner to give/sell the privileges gained to the third parties.*
 
-## Raised Funds Distribution
+# Raised Funds Distribution
 
 The further distribution plan is for reference only. Blind Croupier reserves the right to change funds distribution scheme, depending on the amount of funds raised, market situation and other circumstances. Blind Croupier is not obliged to provide accurate information about funds distribution, which, in turn, is supplied without any guarantee and obligations.
 
@@ -90,23 +90,23 @@ The further distribution plan is for reference only. Blind Croupier reserves the
 * 10% legal expenses
 * 20% operating expenses
 
-## Roadmap
+# Roadmap
 
 This document supplies the general development plan, which is to be updated as the project progresses. All the roadmap content is subject to change at any time. The information is for reference only. Blind Croupier doesn't guarantee the information provided in the Roadmap is accurate, which, in turn, is supplied without any guarantee and obligations.
 
-### Stage 1: Spring-Summer 2017 - Minimal Viable Product (MVP)
+## Stage 1: Spring-Summer 2017 - Minimal Viable Product (MVP)
 
 This stage was devoted to developing the general software concept for a new generation casino with three main requirements: quick bet placement, transparency, fair random generation, and creating an MVP. The goal was achieved, you can see the algorithms at work in the Videopoker beta version.
 
-### Stage 2: Fall 2017 - Development and Legal
+## Stage 2: Fall 2017 - Development and Legal
 
 This fall the platform will be developed along with the set of basic games (baccarat, roulette, dice, blackjack). At the same time we will register a company and get a gambling license. We will expand our team to improve the product quality and development speeds. We will start developing the marketing campaign.
 
-### Stage 3: Winter 2017-2018: Testing and Presentation
+## Stage 3: Winter 2017-2018: Testing and Presentation
 
 During Winter 2017, we are going to prepare the platform and the games for the open beta-testing. For the bugs and vulnerabilities found testers are going to get rewards. After that we are going to present the platform and install it along with the games for the 5 winners of the privilege auction. This winter we are going to get a gambling license, after that BlindCroupier casinos will be able to use our merchant account to process Visa/MasterCard payments (and many other popular payment methods), without losing fairness and transparency of Ethereum block chain gambling.
 
-### Stage 4: Spring-Summer 2018: Advanced Platform and Blind Jackpot Fund
+## Stage 4: Spring-Summer 2018: Advanced Platform and Blind Jackpot Fund
 
 Development and testing: The Blind Jackpot Fund, advanced platform, first video slots set, and optimization of all products for the mobile devices. After the testing is finished, we are going to present the ready product at all main online gambling events. The marketing campaign is to be started and the product launched to the main market.
 
@@ -121,10 +121,12 @@ Development and testing: The Blind Jackpot Fund, advanced platform, first video 
 Переведите ETH на смарт-контракт распределения  токенов **ССЫЛКА НА ЭФИРСКАН**, для этого вы можете использовать 
 плагин для Google Chrome - MetaMask Wallet или веб-кошелек My Ether Wallet, без загрузки всего блокчейна Ethereum.
 
+**ОТПРАВЛЯЙТЕ ETH ТОЛЬКО НА ЭТОТ АДРЕС:** ``УКАЗАТЬ АДРЕС ЗДЕСЬ``
+
+
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29415341-513e2742-8395-11e7-8269-e86eb5c93134.png" width="420">](https://metamask.io)
 
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29416130-c2aabe8e-8397-11e7-9b0f-f5921f4645c2.png" width="420">](https://www.myetherwallet.com)
 
-
-
+**Так же вы можете отправить транзакцию, через любой другой ERC20 совместимый кошелек: Ethereum Foundation, Mist, Parity, imToken(iPhone/Android)**
 
