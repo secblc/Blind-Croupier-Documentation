@@ -2,6 +2,8 @@
 
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29418964-6d417772-83a0-11e7-9f08-a9ed87bcdb84.png" width="950">](http://blind-croupier.herokuapp.com/)
 
+[<img align="left" src="https://user-images.githubusercontent.com/30338333/29420933-107cd170-83a6-11e7-87cf-748ff5be5212.png" width="420">](http://blind-croupier.herokuapp.com/) [<img align="left" src="https://user-images.githubusercontent.com/30338333/29420941-14b5461e-83a6-11e7-8b97-c404c9905d09.png" width="420">](http://blind-croupier.herokuapp.com/)
+
 # WIN Token Distribution
 
 WIN Token - is Blind Croupier project's currency, used to measure other goods and services costs. All participants can use WIN to pay for goods and services of the Blind Croupier project. 
