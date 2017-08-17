@@ -6,7 +6,7 @@ Let us create a link:
 
 `http://blind-croupier.herokuapp.com/api/v1/transactions?address=**ADDRESS**&gameId=**GAMEID**`.
 
-You need to replace your Ethereum wallet address instead of `**ADDRESS**` and the actual id of the game you played insted of `**GAMEID**`.
+You need to put your Ethereum wallet address instead of `**ADDRESS**` and the actual id of the game you played instead of `**GAMEID**`.
 
 After you open the link, the server responds with the transaction list of the game: bet, seeds, initial hand, replacement order and the final hand:
 
@@ -70,9 +70,7 @@ After opening the link we are mostly interested in the `Input Data` field, which
 
 ## Step One: Bet Made
 
-To verify bet information, we will need to use the corresponding `"txHash"` for the `submitBet` method.
-
-будем следовать и дальше анализу одной конкретной партии поэтому возьмем соответствующий хэш``"0x31a7368260c0a2f8ddad9afecea9ebac1bc97a4274c695fe3ee03b3be9be93a2",`` и подставим в ссылку после чего перейдем по ней https://kovan.etherscan.io/tx/0x31a7368260c0a2f8ddad9afecea9ebac1bc97a4274c695fe3ee03b3be9be93a2
+To verify bet information, we will need to use the corresponding `txHash` for the `submitBet` method (or `BetSubmitted` event).
 
 `Input Data` contains function parameters:
 
@@ -114,7 +112,7 @@ And parameter `[3]` is the level:
 
 ## Step Two: Random Seeds
 
-Like we did in the Step One, use the corresponding `txHash` for the method `submitCrouiperSeedAsSignature`:
+Like we did in the Step One, use the corresponding `txHash` for the method `submitCrouiperSeedAsSignature` (or `CroupierSeedSubmitted` event).
 
 `https://kovan.etherscan.io/tx/0x0297d8b91e3cea22a3e862e5a146949840e40298c5971cd116fa104bc53352bd`
 
@@ -158,7 +156,7 @@ Other seeds (Croupier 1, Player 0, Player 1) are calculated the same way.
 
 ## Step Three: Replacement Order
 
-Method name: `submitReplacementOrder`
+Method name: `submitReplacementOrder` (event name: `ReplacementOrderSubmitted`).
 
 Transaction: 
 https://kovan.etherscan.io/tx/0xa72ded162330c6d60b5de4728e7d216f1b6ae609a04b3854e6d6b9c45bd54e11
