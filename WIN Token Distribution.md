@@ -4,10 +4,21 @@
 
 # Ресурсы
 
+Посетите наш WebSite: LINK
+
+Подпишись на нас в Twitter: LINK
+
+Читай нашу White Paper: LINK
+
+Узнай больше о работе алгоритма из технической WP: LINK
+
+Узнай как проверить честность казино: LINK
+
+Участвуй в Баунти кампании: Link
+
+Смарт контракт для распределения токенов WIN: LINK
+
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29420933-107cd170-83a6-11e7-87cf-748ff5be5212.png" width="420">](http://blind-croupier.herokuapp.com/) [<img align="left" src="https://user-images.githubusercontent.com/30338333/29420941-14b5461e-83a6-11e7-8b97-c404c9905d09.png" width="420">](http://blind-croupier.herokuapp.com/)
-
-
-
 
 # WIN Token Distribution
 
