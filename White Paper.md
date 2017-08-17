@@ -2,9 +2,9 @@
 #### Jul 21, 2017 <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="95">
 
 Blind Croupier is a **gambling software development company** [Business to business], providing decentralized, fast, fair and transparent gambling solutions for casinos.
-> Программное обеспечение, позволяет операторам казино открыть свое собственное децентрализованное казино в кратчайшие сроки.
+> Software making it possible for the casino operators to open a decentralized casino in no time.
 
-**Fast НАПИШИ ЗАСЧЕТ ЧЕГО ДОСТИГАЕТСЯ СКОРОСТЬ** 
+**Fast: the innovative algorithm, making use of Ethereum blockchain technology ** 
 
 **Completely fair** — a casino can't possibly gain any advantages except for those defined by specific game rules, including the fair random generation.
 
@@ -70,7 +70,7 @@ This document shows how our products can solve the existing industry problems, w
 
 # WIN Token Distribution
 
-Токен WIN - это валюта проекта Blind Croupier служащая измерителем стоимости других товаров и услуг. Все категории участников могут использовать WIN для оплаты продуктов и услуг, связанных с проектом Blind Croupier. К тому же WIN может быть использован для оплаты или обмена среди всех участников обращения токена WIN.
+WIN Token - is Blind Croupier project's currency, used to measure other goods and services costs. All participants can use WIN to pay for goods and services of the Blind Croupier project. 
 
 **Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. 
 *All unsold tokens (if any) are destroyed at the end of every period.*
@@ -89,16 +89,19 @@ This document shows how our products can solve the existing industry problems, w
 | 3-69 | -  | -  | -  |  - |
 | 70 | 0.140$  | 1,000,000WIN | **800,000,000WIN**  | **20%** |
 | 71  | **0.140$**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
-> Как вы наверное заметили из таблицы, в периоде 1 все предложенные токены были распределены, и стоимость токена во втором периоде повысилась на 0.7%. А в периоде 70 было сожжено 20% токенов, поэтому в соответствии с указаным в смарт-контракте алгоритме, стоимость токена в периоде 71 не повысилась. В этом и следующих разделах вы узнаете больше о предложенной экономической модели.
 
-**5,000,000WIN:** Offered for Token Distribution Period 0. Price for period:1WIN = 0.07$. Это небольшой период для "раних птичек". Период будет завершен когда все доступные для него токены будут распределены или вместе с началом с Period 1 то есть ** УКАЗАТЬ ДАТУ**. *All the unsold tokens are destroyed at the end of the period.*
+> As you may have noticed from the table, in period 1 all the tokens offered were distributed, and the token cost in the second period was raised by 0.7%. And in the period 70 20% of tokens were burnt, so according to the smart contract algorithm, the token cost for the period 71 was **not** raised. In the following chapters you will learn more about the economic model offered.
 
-**15,000,000WIN** Offered for Token Distribution Period 1. Price for period:  1 WIN = $0.1$.  ***Период начнется УКАЗАТЬ ДАТУ**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
+**5,000,000WIN:** Offered for Token Distribution Period 0. Price for period:1WIN = 0.07$. This is a small period for "early birds". The period finished when all the tokens available are distributed or when Period 1 starts (i.e. ** УКАЗАТЬ ДАТУ**).
+
+*All the unsold tokens are destroyed at the end of the period.*
+
+**15,000,000WIN** Offered for Token Distribution Period 1. Price for period:  1 WIN = $0.1$.  ***The period begins УКАЗАТЬ ДАТУ**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
 
  **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). In each new period, the price is increased by 0.7% from the price in the previous period.
 If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level.
  
-**100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment, **и поддержания необходимого баланса маркет мейкера**. The are put on hold and will be unlocked after 12 months.
+**100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. Also will be used for maintaining the marketmaker balance. The are put on hold and will be unlocked after 12 months.
 
 **5,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
 
@@ -122,28 +125,28 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
-## Следование Механизмам Дефляционной Модели
+## Following Deflation Model Mechanisms
 
-Дефляция - это изъятие из обращения избыточной денежной массы с целью увеличения их покупательной способности. Дефляционный механизм лежит в основе всей экономической модели Blind Croupier, как во время первоначального распределения токенов, так и на протяжении всей дальнейшей жизни проекта. 
+Deflation is a contraction in the supply of circulated money within an economy in order to increase its buying power. Deflational mechanis is the basement of the Blind Croupier economic model during the initial token distribution stage as well as all the project lifetime.
 
-Тем самым мы выстариваем зависимость стоимости токена WIN от экономических показателей Blind Croupier. Основной показатель экономической эффективности Blind Croupier это размер полученных роялти отчислений от использующих ПО казино, отчисления составляют 13% от GGR(GGR=ставки-выигрыши).
+We are tying the WIN token cost to the economical success of Blind Cropier. The main economic inidicator of the Blind Croupier efficiency is the royalty received from the casinos connected (13$ of GGR, GGR = bets - wins).
 
-Минимум 15% от полученной роялти прибыли будет использоваться для **постепенного** выкупа токенов WIN и их выводу из оборота. Чем лучше идут дела у проекта, тем больше средств будет выделено для вывода из оборота токенов, в случае если WIN оказался определенно не дооценен, то соответственно больше WIN будет выведено из оборота. Если же оценка стоимости на рынке окажется сбалансированной - будет выведено не значительное колличество WIN (Чем выше цена токена, то соответственно и на выделенную сумму мы можем купить меньше токенов). 
+At least 15% of the royalties will be used for **step-by-step** buying back WIN tokens and their withdrawal from circulation. The better project performs, the more funds will be used for token withdrawal. If WIN is definitely underestimated, more WIN will the withdrawn. If the market value is balanced - the lesser amount of WIN will be withdrawn (the higher the token price is, the less tokens we can buy back, using the funds designated).
 
->Пример: Ожидается, что размер рынка интернет-гейминга в 2018 году достигнет $52млрд, если подключенные к Blind Croupier казино смогут занять минимальные 0.5% от рынка, то их годовой оборот достигнет $260,000,000, GGR в среднем составит 5% или $13,000,000 из которых 13% будут отправлены для Blind Croupier в виде Роялти, что составит $1,690,000, из этой суммы Blind Croupier выделит минимум 15%($253,500) для обратного выкупа и сжигания токенов. Давайте рассмотрим в ниже приведенной таблице, какое колличество токенов будет уничтоженно при данных условиях, в зависимости от их стоимости:
+>E.g. it is expected that online gambling market reached $52bln. in 2018. If all Blind Croupier connected casinos can take as little as 0.5% of the market, their yearly turnover will reach $260,000,000, GCR will be 5% or $13,000,000. 13% of which will be send to Blind Croupier as royalties ($1,690,000). From that amount Blind Croupier will use 15% (($253,500) for tokens buying back and destruction. Using the table below, let us compare amounts of tokens destroyed depending on their price:
 
-| Выделено в год  |Средняя цена токена на рынке  | Токенов уничтоженно в год |
+| Tokens allocated / year | Average token market price  | Tokens destroyed / year |
 |---|---|---|
 | $253,500  | $1  |  253,500WIN  |
 | $253,500  | $0.5  | 507,000WIN  |
 | $253,500  | $0.25  | 1,014,000WIN |
 | $253,500  | $0.1  | 2,535,000WIN  |
 
-Как видно из таблицы, когда цена токена снижается, дефляция ускоряется и стабилизирует рынок, соответственно когда стоимость токена WIN  достигнет стабильного уровня, который соответствует размеру будущей экономики Blind Croupier, дефляция будет замедлена. Данная модель постепенно увеличивает покупательную способность токена WIN, в зависимости от экономических показателей проекта Blind Croupier, не прибегая для этого к спекулятивным методам.  
+As you can see from the table, when the token price lowers, deflation speeds up and stabilizes the market. Accordingly, when the WIN token prices reaches the stable level (corresponding to the future Blind Croupier economics size) deflation will slow down. This model gradually increases the WIN token buying power, depending on the Blind Croupier effeciency, without using speculative methods.
 
-## Ликвидность
+## Liquidity
 
-Ограниченная эмиссия и постоянный вывод токенов из оборота на всей жизни проекта делает безопасным хранение токенов WIN в долгоcрочной перспективе. Однако это может повлечь за собой не способность токена быть быстро проданным по цене близкой к рыночной или другими словами низкую ликвидность токена на рынке. Для предотвращения подобных событий, как вы уже возможно заметили из раздела [распределения токенов](#about-token-distribution-model), на рынке будет присутствовать маркет-мейкер. Маркет-мейкер хранит на своем балансе токены и другую валюту и принимает активное участие в покупке и продаже токенов WIN по рыночным ценам, в соответствии с указаным алгоритмом. Другими словами, если вы захотите приобрести токен WIN на бирже вам не прийдется платить цену выше рыночной чтобы это сделать, также как и не прийдетется выставлять предложение о продаже по цене ниже рыночной - маркет-мейкер купит/продаст токены по рыночной стоимости.
+Limited emissions and constant tokens withdrawal during the project's lifetime makes it safe to store WIN tokens in a long-term perspective. It can, however, lead to inability to sell tokens by the market price or (in other words) low liquidity. To prevent this (as you may have already noticed from [distribution tokens](#about-token-distribution-model)), there is a marketmaker. A marketmaker stores tokens and other currencies on its balance and actively buys and sells WIN tokens by market price, according to the algorithm programmmed. In other words, if you are going to buy WIN on the token exchange, you won't need to pay higher than market price to to this (as well as sell by the lower than market price). A marketmaker will buy or sell tokens by the market price.
 
 ## The Privilege Auction
 
@@ -421,7 +424,7 @@ The prize fund is built in a way that money are always accumulated, so the fund 
 	
 * **Miracle Jackpot** is the second largest of the regular payouts. It's 4% of the Fund's size. The payout interval is 16 days. The winning "ticket" is excluded from the further payout cycles.
 
-* **Wild Jackpot** is the daily payout of 0.3% of the Fund's size. **Wild Jackpot не разыгрывается по дням когда идут розыгрыши других фондов**
+* **Wild Jackpot** is the daily payout of 0.3% of the Fund's size. **Wild Jackpot is not played on the days other funds are played**
 
 > **E.g.** To make things clear, let's suggest that the prize fund is not replenished by the new bets and its balance during the whole cycle is $1,000. To pay Wild Jackpot, $74 are needed (daily payouts), to pay Miracle Jackpot - $38 (one payout for the current cycle, two payouts during the next cycle), for the Mega Jackpot - $117. So, $771 is moved to the next cycle and so on.
 
@@ -443,6 +446,6 @@ The prize fund is built in a way that money are always accumulated, so the fund 
 
 A winner is determined randomly using a specially designed blockchain-based algorithm. At the moment of writing this document we are inclined to using a [RANDAO](https://github.com/randao/randao) based method. Yet, we leave the possibility to design and implement a totally different fair and transparent system for this purpose.
 
-# Заключение
+# Conclusion
 
-Программное обеспечение от Blind Croupier разработано на основе проверенных методов криптографии и технологии блокчейн, с использованием наилучших методик и практик, что в совакупности предсталяет собой абсолютно новый ранее недостижимый уровень в интернет-гейминге. Само программное обеспечение является инструментом с помощью которого любой желающий сможет запустить собственное честное, прозрачное, децентрализованное казино нового поколения за несколько кликов. 
+Blind Croupier software was developed using the trusted cryptographical methods and blockchain technology, using the best methodologies. It offers a new, previously unreachable level in the online gambling. The software itself is a tool allowing anyone to launch a fair, transparent decentralized new generation casino in a few clicks.
