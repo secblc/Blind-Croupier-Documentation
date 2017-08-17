@@ -1,6 +1,6 @@
 # Ресурсы
 
-[<img align="left" src="https://user-images.githubusercontent.com/30338333/29418964-6d417772-83a0-11e7-9f08-a9ed87bcdb84.png" width="850">](http://blind-croupier.herokuapp.com/)
+[<img align="left" src="https://user-images.githubusercontent.com/30338333/29418964-6d417772-83a0-11e7-9f08-a9ed87bcdb84.png" width="950">](http://blind-croupier.herokuapp.com/)
 
 # WIN Token Distribution
 
