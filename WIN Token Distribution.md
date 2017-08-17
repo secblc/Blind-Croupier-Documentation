@@ -75,9 +75,9 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
-## Following Deflation Model Mechanisms
+## Following Deflation Model Processes
 
-Deflation is a contraction in the supply of circulated money within an economy in order to increase its buying power. Deflational mechanis is the basement of the Blind Croupier economic model during the initial token distribution stage as well as all the project lifetime.
+Deflation is a contraction in the supply of circulated money within an economy in order to increase its buying power. Deflational processes is the basement of the Blind Croupier economic model during the initial token distribution stage as well as all the project lifetime.
 
 We are tying the WIN token cost to the economical success of Blind Cropier. The main economic inidicator of the Blind Croupier efficiency is the royalty received from the casinos connected (13$ of GGR, GGR = bets - wins).
 
