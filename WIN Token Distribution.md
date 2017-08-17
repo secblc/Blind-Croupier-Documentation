@@ -128,5 +128,5 @@ Development and testing: The Blind Jackpot Fund, advanced platform, first video 
 
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29416130-c2aabe8e-8397-11e7-9b0f-f5921f4645c2.png" width="420">](https://www.myetherwallet.com)
 
-``**Так же вы можете отправить транзакцию, через любой другой ERC20 совместимый кошелек: Ethereum Foundation, Mist, Parity, imToken(iPhone/Android)**``
+`` **Так же вы можете отправить транзакцию, через любой другой ERC20 совместимый кошелек: Ethereum Foundation, Mist, Parity, imToken(iPhone/Android)** ``
 
