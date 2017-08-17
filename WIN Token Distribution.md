@@ -20,7 +20,7 @@ WIN Token - is Blind Croupier project's currency, used to measure other goods an
 | 70 | 0.140$  | 1,000,000WIN | **800,000,000WIN**  | **20%** |
 | 71  | **0.140$**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
 
-> As you may have noticed from the table, in period 1 all the tokens offered were distributed, and the token cost in the second period was raised by 0.7%. And in the period 70 20% of tokens were burnt, so according to the smart contract algorithm, the token cost for the period 71 was **not** raised. In the following chapters you will learn more about the economic model offered.
+> As you may have noticed from the table, in period 1 all the tokens offered were distributed, and the token cost in the second period was raised by 0.5%. And in the period 70 20% of tokens were burnt, so according to the smart contract algorithm, the token cost for the period 71 was **not** raised. In the following chapters you will learn more about the economic model offered.
 
 **5,000,000WIN:** Offered for Token Distribution Period 0. Price for period: 1000WIN = 0.35ETH. This is a small period for "early birds". The period finished when all the tokens available are distributed or when Period 1 starts (i.e.21.09.2017; 14:00UTC ).*All the unsold tokens are destroyed at the end of the period.*
 
@@ -115,8 +115,16 @@ Development and testing: The Blind Jackpot Fund, advanced platform, first video 
 Для участия в распределение токенов WIN, вам следует отправить ETH на адрес смарт контракта который указан ниже. 
 Минимальная сумма вклада составляет 0.01ETH. Сразу же после того как смарт контракт обработает транзакцию (Как правило на это уходит несколько минут) соответствующее колличество токенов WIN  будет зарезервированно для Вас, для их получения на свой кошелек Ethereum, следуйте ниже представленной инструкции:
 
+<img align="center" src="https://user-images.githubusercontent.com/30338333/29416736-a45e39f4-8399-11e7-9b11-0a90b5088208.png" width="950">
+
 ## Вклад через облегченный кошелек
 Переведите ETH на смарт-контракт распределения  токенов **ССЫЛКА НА ЭФИРСКАН**, для этого вы можете использовать 
 плагин для Google Chrome - MetaMask Wallet или веб-кошелек My Ether Wallet, без загрузки всего блокчейна Ethereum.
 
-[<img align="left" src="https://user-images.githubusercontent.com/30338333/29415341-513e2742-8395-11e7-8269-e86eb5c93134.png" width="400">](<a href="https://metamask.io"</a>)
+[<img align="left" src="https://user-images.githubusercontent.com/30338333/29415341-513e2742-8395-11e7-8269-e86eb5c93134.png" width="400">](https://metamask.io)
+
+[<img align="left" src="https://user-images.githubusercontent.com/30338333/29416130-c2aabe8e-8397-11e7-9b0f-f5921f4645c2.png" width="400">](https://www.myetherwallet.com)
+
+
+
+
