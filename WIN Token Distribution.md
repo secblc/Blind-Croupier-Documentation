@@ -118,3 +118,5 @@ Development and testing: The Blind Jackpot Fund, advanced platform, first video 
 ## Вклад через облегченный кошелек
 Переведите ETH на смарт-контракт распределения  токенов **ССЫЛКА НА ЭФИРСКАН**, для этого вы можете использовать 
 плагин для Google Chrome - MetaMask Wallet или веб-кошелек My Ether Wallet, без загрузки всего блокчейна Ethereum.
+
+[<img align="left" src="https://user-images.githubusercontent.com/30338333/29415341-513e2742-8395-11e7-8269-e86eb5c93134.png" width="450">](https://metamask.io)
