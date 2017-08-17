@@ -2,13 +2,13 @@
 
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29418964-6d417772-83a0-11e7-9f08-a9ed87bcdb84.png" width="950">](http://blind-croupier.herokuapp.com/)
 
-# Ресурсы
-
 Посетите наш WebSite: LINK
 
 Подпишись на нас в Twitter: LINK
 
 Читай нашу White Paper: LINK
+
+Следите за дорожной картой проекта: LINK
 
 Узнай больше о работе алгоритма из технической WP: LINK
 
