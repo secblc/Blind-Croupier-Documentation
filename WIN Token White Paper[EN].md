@@ -1,5 +1,3 @@
-
-
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29418964-6d417772-83a0-11e7-9f08-a9ed87bcdb84.png" width="950">](http://blind-croupier.herokuapp.com/)
 
 Посетите наш WebSite: LINK
@@ -89,7 +87,7 @@ As you can see from the table, when the token price lowers, deflation speeds up 
 
 Limited emissions and constant tokens withdrawal during the project's lifetime makes it safe to store WIN tokens in a long-term perspective. It can, however, lead to inability to sell tokens by the market price or (in other words) low liquidity. To prevent this (as you may have already noticed from [distribution tokens](#about-token-distribution-model)), there is a marketmaker. A marketmaker stores tokens and other currencies on its balance and actively buys and sells WIN tokens by market price, according to the algorithm programmmed. In other words, if you are going to buy WIN on the token exchange, you won't need to pay higher than market price to to this (as well as sell by the lower than market price). A marketmaker will buy or sell tokens by the market price.
 
-## The Privilege Auction
+# The Privilege Auction
 
 Top 5 Investors (considering ETH spent by the end of Period 25) receive a free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, they need to invest from a single Ethereum wallet.
 *We reserve the right of the winner to give/sell the privileges gained to the third parties.*
