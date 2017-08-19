@@ -83,7 +83,7 @@ We are tying the WIN token cost to the economical success of Blind Cropier. The 
 
 At least 15% of the royalties will be used for **step-by-step** buying back WIN tokens and their withdrawal from circulation. The better project performs, the more funds will be used for token withdrawal. If WIN is definitely underestimated, more WIN will the withdrawn. If the market value is balanced - the lesser amount of WIN will be withdrawn (the higher the token price is, the less tokens we can buy back, using the funds designated).
 
->E.g. it is expected that online gambling market reached $52bln. in 2018. If all Blind Croupier connected casinos can take as little as 0.5% of the market, their yearly turnover will reach $260,000,000, GCR will be 5% or $13,000,000. 13% of which will be send to Blind Croupier as royalties ($1,690,000). From that amount Blind Croupier will use 15% (($253,500) for tokens buying back and destruction. Using the table below, let us compare amounts of tokens destroyed depending on their price:
+>E.g. it is expected that online gambling market reached $52bln. in 2018. If all Blind Croupier connected casinos can take as little as 0.5% of the market, their yearly turnover will reach $260,000,000, GCR will be 5% or $13,000,000. 13% of which will be send to Blind Croupier as royalties ($1,690,000). From that amount Blind Croupier will use 15% ($253,500) for tokens buying back and destruction. Using the table below, let us compare amounts of tokens destroyed depending on their price:
 
 | Tokens allocated / year | Average token market price  | Tokens destroyed / year |
 |---|---|---|
