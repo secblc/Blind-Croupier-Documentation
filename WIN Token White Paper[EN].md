@@ -34,15 +34,6 @@ WIN Token - is Blind Croupier project's currency, used to measure other goods an
 *In each new period, the price is increased by 0.5% from the price in the previous period.*
 *If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level.*
 
-| Period  | Price | Supply | Demand  | Tokens Burnt % |
-|---|:-:|---|---|---|
-| 1  | 0.5ETH  | 10,000,000WIN | 10,000,000WIN  | 0%  |
-| 2 |  0.5025ETH | 1,000,000WIN | 1,000,000WIN  | 0%  |
-| 3-69 | -  | -  | -  |  - |
-| 70 | 0.68ETH  | 1,000,000WIN | **800,000WIN**  | **20%** |
-| 71  | **0.68ETH**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
-
-> As you may have noticed from the table, in period 1 all the tokens offered were distributed, and the token cost in the second period was raised by 0.5%. And in the period 70 20% of tokens were burnt, so according to the smart contract algorithm, the token cost for the period 71 was **not** raised. In the following chapters you will learn more about the economic model offered.
 
 **5,000,000WIN:** Offered for Token Distribution Period 0. Price for period: 1000WIN = 0.35ETH. This is a small period for "early birds". The period finished when all the tokens available are distributed or when Period 1 starts (i.e.21.09.2017; 14:00UTC ).*All the unsold tokens are destroyed at the end of the period.*
 
