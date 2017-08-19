@@ -39,7 +39,7 @@ WIN Token - is Blind Croupier project's currency, used to measure other goods an
 | 1  | 0.5ETH  | 10,000,000WIN | 10,000,000WIN  | 0%  |
 | 2 |  0.5025ETH | 1,000,000WIN | 1,000,000WIN  | 0%  |
 | 3-69 | -  | -  | -  |  - |
-| 70 | 0.68ETH  | 1,000,000WIN | **800,000,000WIN**  | **20%** |
+| 70 | 0.68ETH  | 1,000,000WIN | **800,000WIN**  | **20%** |
 | 71  | **0.68ETH**  | 1,000,000WIN  | 1,000,000WIN  | 0%  |
 
 > As you may have noticed from the table, in period 1 all the tokens offered were distributed, and the token cost in the second period was raised by 0.5%. And in the period 70 20% of tokens were burnt, so according to the smart contract algorithm, the token cost for the period 71 was **not** raised. In the following chapters you will learn more about the economic model offered.
