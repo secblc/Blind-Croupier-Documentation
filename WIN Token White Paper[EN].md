@@ -18,6 +18,23 @@
 
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29420933-107cd170-83a6-11e7-87cf-748ff5be5212.png" width="420">](http://blind-croupier.herokuapp.com/) [<img align="left" src="https://user-images.githubusercontent.com/30338333/29420941-14b5461e-83a6-11e7-8b97-c404c9905d09.png" width="420">](http://blind-croupier.herokuapp.com/)
 
+# Content
+- [Token WIN](#win-Token-distribution
+  * [About Token Distribution Model](#about-token-distribution-model)
+  * [Token Distribution](#the-privilege-auction)
+  * [Following Deflation Model Processes](#following-deflation-model-processes)
+  * [Liquidity](#liquidity)
+- [The Privilege Auction](#the-privilege-auction)
+- [Raised Funds Distribution](#raised-funds-distribution)
+- [Roadmap](#roadmap)
+  * [Stage 1: Minimal Viable Product (MVP)](#stage-1-spring-summer-2017---minimal-viable-product-mvp)
+  * [Stage 2: Development and Legal](#stage-2-fall-2017---development-and-legal) 
+  * [Stage 3: Testing and Presentation](#stage-3-winter-2017-2018-testing-and-presentation)
+  * [Stage 4: Advanced Platform and Blind Jackpot Fund](#stage-4-spring-summer-2018-advanced-platform-and-blind-jackpot-fund)
+- [How to Participate In The Tokens Distribution](#how-to-participate-in-the-tokens-distribution)
+- [How To Claim Tokens](#how-to-claim-tokens) 
+  
+  
 # WIN Token Distribution
 
 WIN Token - is Blind Croupier project's currency, used to measure other goods and services costs. All participants can use WIN to pay for goods and services of the Blind Croupier project. 
@@ -121,7 +138,7 @@ During Winter 2017, we are going to prepare the platform and the games for the o
 
 Development and testing: The Blind Jackpot Fund, advanced platform, first video slots set, and optimization of all products for the mobile devices. After the testing is finished, we are going to present the ready product at all main online gambling events. The marketing campaign is to be started and the product launched to the main market.
 
-# Как принять участие в распределении токенов?
+# How to Participate In The Tokens Distribution
 
 Для участия в распределение токенов WIN, вам следует отправить ETH на адрес смарт контракта который указан ниже. 
 Минимальная сумма вклада составляет 0.1ETH. Сразу же после того как смарт контракт обработает транзакцию (Как правило на это уходит несколько минут) соответствующее колличество токенов WIN  будет зарезервированно для Вас, для их получения на свой кошелек Ethereum, следуйте ниже представленной инструкции:
@@ -141,7 +158,7 @@ Development and testing: The Blind Jackpot Fund, advanced platform, first video 
 
 ``Так же вы можете отправить транзакцию, через любой другой ERC20 совместимый кошелек: Ethereum Foundation, Mist, Parity, imToken(iPhone/Android)``
 
-# Запросите токены у смарт-контракта
+# How To Claim Tokens
 Для того, чтобы получить оплаченые токены их нужно запросить путем вызова функции: ``claimAllTokens``
 
 **ДАННЫЕ НЕОБХОДИМЫЕ ДЛЯ ПОИСКА КОНТРАКТА И ВЫЗОВА ФУНКЦИИ:**
