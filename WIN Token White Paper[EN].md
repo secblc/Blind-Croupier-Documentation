@@ -19,7 +19,7 @@
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29420933-107cd170-83a6-11e7-87cf-748ff5be5212.png" width="420">](http://blind-croupier.herokuapp.com/) [<img align="left" src="https://user-images.githubusercontent.com/30338333/29420941-14b5461e-83a6-11e7-8b97-c404c9905d09.png" width="420">](http://blind-croupier.herokuapp.com/)
 
 # Content
-- [Token WIN](#win-Token-distribution
+- [Token WIN](#win-Token-distribution)
   * [About Token Distribution Model](#about-token-distribution-model)
   * [Token Distribution](#the-privilege-auction)
   * [Following Deflation Model Processes](#following-deflation-model-processes)
