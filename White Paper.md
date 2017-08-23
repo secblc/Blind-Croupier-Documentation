@@ -89,7 +89,7 @@ BlindChips - Games in all the connected casinos will be played with special game
 
 ## Video Poker Game Rules
 
-A video poker machine <img align="right" src="https://user-images.githubusercontent.com/30338333/29621113-68d60958-8852-11e7-82f3-8472b92d9cd4.gif" width="500"> is usually visually similar to a slot machine. 
+A video poker machine <img align="right" src="https://cdn.discordapp.com/attachments/314338202569801728/349923433632759808/2017-08-23_22-26-34-1.gif" width="500"> is usually visually similar to a slot machine. 
 On the top there are winning combinations and the payouts table. In the center there is a screen showing the player's hand. On the bottom side there are 3 fields, indicating the player's credit, the last game win and the current bet. By using the "Bet One" button, a player increases the current bet by one coin.
 
 Having placed a bet, the player pushes the "Deal" button and receives five cards from the 52-card deck. By touching a card, the player can put it on hold. After that, the player pushes the "DRAW" button  and the machine changes the free cards for him. In case there is a winning combination, shown in the top table, the appropriate win is deposited to the player's account. The combinations correspond to the standard poker combinations, the lower the chances, the higher the payouts.
