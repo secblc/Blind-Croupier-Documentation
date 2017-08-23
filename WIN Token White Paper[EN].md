@@ -21,6 +21,7 @@
 # Content
 - [WIN Token Distribution](#win-token-distribution)
   * [About Token Distribution Model](#about-token-distribution-model)
+  * [Token Distribution](#the-privilege-auction)
   * [Following Deflation Model Processes](#following-deflation-model-processes)
   * [Liquidity](#liquidity)
 - [The Privilege Auction](#the-privilege-auction)
@@ -38,23 +39,15 @@
 
 WIN Token - is Blind Croupier project's currency, used to measure other goods and services costs. All participants can use WIN to pay for goods and services of the Blind Croupier project. 
 
-**Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. 
-*All unsold tokens (if any) are destroyed at the end of every period.*
+Emission: The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. A finite number of tokens will only decrease.
 
-**Period 0 price:** 1000WIN = 0.35ETH
-
-**Period 1 price:** 1000WIN=0.5ETH
-
-*In each new period, the price is increased by 0.5% from the price in the previous period.*
-*If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level.*
-
+**All unsold tokens (if any) are destroyed at the end of every period.**
 
 **5,000,000WIN:** Offered for Token Distribution Period 0. Price for period: 1000WIN = 0.35ETH. This is a small period for "early birds". The period finished when all the tokens available are distributed or when Period 1 starts (i.e.21.09.2017; 14:00UTC ).*All the unsold tokens are destroyed at the end of the period.*
 
 **15,000,000WIN** Offered for Token Distribution Period 1. Price for period:  1000WIN=0.5ETH.  **The period begins 21.09.2017; 14:00UTC.**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
 
- **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours (or until all the tokens are sold). In each new period, the price is increased by 0.5% from the price in the previous period.
-If  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level.
+ **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours. If the tokens are distributed ahead of time, the new period will begin without slowing down. In each new period, the price is increased by 0.5% from the price in the previous period.**If** the previous period ended early, in the new period the price increases by 1%. **If**  20% of more of tokens were destroyed in the period, then the price would be maintained at the same level.
  
 **100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. Also will be used for maintaining the marketmaker balance. The are put on hold and will be unlocked after 12 months.
 
@@ -103,12 +96,12 @@ As you can see from the table, when the token price lowers, deflation speeds up 
 
 Limited emissions and constant tokens withdrawal during the project's lifetime makes it safe to store WIN tokens in a long-term perspective. It can, however, lead to inability to sell tokens by the market price or (in other words) low liquidity. To prevent this (as you may have already noticed from [distribution tokens](#about-token-distribution-model)), there is a marketmaker. A marketmaker stores tokens and other currencies on its balance and actively buys and sells WIN tokens by market price, according to the algorithm programmmed. In other words, if you are going to buy WIN on the token exchange, you won't need to pay higher than market price to to this (as well as sell by the lower than market price). A marketmaker will buy or sell tokens by the market price.
 
-# The Privilege Auction
+## The Privilege Auction
 
 Top 5 Investors (considering ETH spent by the end of Period 25) receive a free platform subscription for 12 months (as soon as platform is released) and a discounted royalty (7% instead of 13%) for 12 months. To participate, they need to invest from a single Ethereum wallet.
 *We reserve the right of the winner to give/sell the privileges gained to the third parties.*
 
-# Raised Funds Distribution
+## Raised Funds Distribution
 
 The further distribution plan is for reference only. Blind Croupier reserves the right to change funds distribution scheme, depending on the amount of funds raised, market situation and other circumstances. Blind Croupier is not obliged to provide accurate information about funds distribution, which, in turn, is supplied without any guarantee and obligations.
 
@@ -137,7 +130,7 @@ During Winter 2017, we are going to prepare the platform and the games for the o
 
 Development and testing: The Blind Jackpot Fund, advanced platform, first video slots set, and optimization of all products for the mobile devices. After the testing is finished, we are going to present the ready product at all main online gambling events. The marketing campaign is to be started and the product launched to the main market.
 
-# How to Participate In The Tokens Distribution
+# How to Participate In The Token Distribution
 
 Для участия в распределение токенов WIN, вам следует отправить ETH на адрес смарт контракта который указан ниже. 
 Минимальная сумма вклада составляет 0.1ETH. Сразу же после того как смарт контракт обработает транзакцию (Как правило на это уходит несколько минут) соответствующее колличество токенов WIN  будет зарезервированно для Вас, для их получения на свой кошелек Ethereum, следуйте ниже представленной инструкции:
