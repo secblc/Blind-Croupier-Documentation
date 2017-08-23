@@ -18,6 +18,22 @@
 
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29420933-107cd170-83a6-11e7-87cf-748ff5be5212.png" width="420">](http://blind-croupier.herokuapp.com/) [<img align="left" src="https://user-images.githubusercontent.com/30338333/29420941-14b5461e-83a6-11e7-8b97-c404c9905d09.png" width="420">](http://blind-croupier.herokuapp.com/)
 
+# Содержание
+- [Распределение токенов WIN](#распределение-токенов-win)
+  * [About Token Distribution Model](#about-token-distribution-model)
+  * [Token Distribution](#the-privilege-auction)
+  * [Following Deflation Model Processes](#following-deflation-model-processes)
+  * [Liquidity](#liquidity)
+- [The Privilege Auction](#the-privilege-auction)
+- [Raised Funds Distribution](#raised-funds-distribution)
+- [Roadmap](#roadmap)
+  * [Stage 1: Minimal Viable Product (MVP)](#stage-1-spring-summer-2017---minimal-viable-product-mvp)
+  * [Stage 2: Development and Legal](#stage-2-fall-2017---development-and-legal) 
+  * [Stage 3: Testing and Presentation](#stage-3-winter-2017-2018-testing-and-presentation)
+  * [Stage 4: Advanced Platform and Blind Jackpot Fund](#stage-4-spring-summer-2018-advanced-platform-and-blind-jackpot-fund)
+- [How to Participate In The Token Distribution](#how-to-participate-in-the-token-distribution)
+- [How To Claim Tokens](#how-to-claim-tokens) 
+
 # Распределение токенов WIN
 
 Токен WIN - это валюта проекта Blind Croupier служащая измерителем стоимости других товаров и услуг. Все категории участников могут использовать WIN для оплаты продуктов и услуг, связанных с проектом Blind Croupier.
