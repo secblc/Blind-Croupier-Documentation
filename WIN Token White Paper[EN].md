@@ -21,7 +21,6 @@
 # Content
 - [WIN Token Distribution](#win-token-distribution)
   * [About Token Distribution Model](#about-token-distribution-model)
-  * [Token Distribution](#the-privilege-auction)
   * [Following Deflation Model Processes](#following-deflation-model-processes)
   * [Liquidity](#liquidity)
 - [The Privilege Auction](#the-privilege-auction)
