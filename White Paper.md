@@ -15,7 +15,7 @@ Blind Croupier is a **gambling software development company** [Business to bus
 
 
 - [Introduction](#introduction)
-- [Background](#Background)
+- [Background](#background)
 - [Algorithm and Video Poker Implementation](#algorithm-and-video-poker-implementation)
   * [Blind Chips](#blind-chips)
   * [Video Poker Game Rules](#video-poker-game-rules)
@@ -33,12 +33,11 @@ Blind Croupier is a **gambling software development company** [Business to bus
   * [Royalties](#royalties)
   * [Fees](#fees)
   * [Custom Services](#custom-services)
-  * [The Marketing Strategy](#the-marketing-strategy)
   * [Motivation and Mission](#motivation-and-mission)
-  * [Premises](#Premises)
+  * [Premises](#premises)
 - [Turnkey Solution For Operators Casino](#turnkey-solution-for-operators-casino)
 - [Blind Croupier Platform](#blind-croupier-platform)
-  * [Description](#Description)
+  * [Description](#description)
   * [Mobile Casino](#mobile-casino)
   * [Operation under BlindCroupier license](#operation-under-blindcroupier-license)
 - [The Blind Jackpot Fund](#the-blind-jackpot-fund)
@@ -76,7 +75,7 @@ The Bitcoin platforms also gave a boost to casinos using the currency because of
 
 But Bitcoin casinos were still unable to solve the main gambling problem: a player can never be sure a casino is playing fair.
 
-# Algorithms and Video Poker Implementation
+# Algorithm and Video Poker Implementation
 
 Let's look at one of the possible Player-Croupier-Bank algorithms, already implemented in the beta version of the Video Poker game from Blind Croupier. Please note that the same idea can be used to develop and implement an algorithm for any possible casino game with 2 or more participants.
 
