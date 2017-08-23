@@ -5,7 +5,7 @@ Blind Croupier is a **gambling software development company** [Business to bus
 
 > Software making it possible for the casino operators to open a decentralized casino in no time.
 
-**Fast: the innovative algorithm, making use of Ethereum blockchain technology** 
+**Fast** - the innovative algorithm, making use of Ethereum blockchain technology. 
 
 **Completely fair** — a casino can't possibly gain any advantages except for those defined by specific game rules, including the fair random generation.
 
