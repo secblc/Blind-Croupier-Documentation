@@ -47,7 +47,7 @@ WIN Token - is Blind Croupier project's currency, used to measure other goods an
 
 **15,000,000WIN** Offered for Token Distribution Period 1. **Price for period:**  1000WIN=0.5ETH.  **The period begins 21.09.2017; 14:00UTC.**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
 
- **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours. If the tokens are distributed ahead of time, the new period will begin without slowing down. In new period, the price is increased by 0.5% from the price in the previous period. **If** the previous period ended early, in the new period the price increases by 1%. **If** 20% of more of tokens were destroyed in the period, then the price would be maintained at the same level.
+ **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours. If the tokens are distributed ahead of time, the new period will begin without slowing down. In new period, the price is increased by 0.5% from the price in the previous period. **If** the previous period ended early, in the new period the price increases by 1%. **If** 20% or more of tokens were destroyed in the period, then the price would be maintained at the same level.
  
 **100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. Also will be used for maintaining the marketmaker balance. The are put on hold and will be unlocked after 12 months.
 
@@ -75,9 +75,9 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 ## Following Deflation Model Processes
 
-Deflation is a contraction in the supply of circulated money within an economy in order to increase its buying power. Deflational processes is the basement of the Blind Croupier economic model during the initial token distribution stage as well as all the project lifetime.
+Deflation is a contraction in the supply of circulated money within an economy in order to increase its buying power. Deflation processes is the basement of the Blind Croupier economic model during the initial token distribution stage as well as all the project lifetime.
 
-We are tying the WIN token cost to the economical success of Blind Cropier. The main economic inidicator of the Blind Croupier efficiency is the royalty received from the casinos connected (13$ of GGR, GGR = bets - wins).
+We are tying the WIN token cost to the economical success of Blind Croupier. The main economic inidicator of the Blind Croupier efficiency is the royalty received from the casinos connected (13$ of GGR, GGR = bets - wins).
 
 At least 15% of the royalties will be used for **step-by-step** buying back WIN tokens and their withdrawal from circulation. The better project performs, the more funds will be used for token withdrawal. If WIN is definitely underestimated, more WIN will the withdrawn. If the market value is balanced - the lesser amount of WIN will be withdrawn (the higher the token price is, the less tokens we can buy back, using the funds designated).
 
@@ -133,7 +133,7 @@ Development and testing: The Blind Jackpot Fund, advanced platform, first video 
 # How to Participate In The Token Distribution
 
 Для участия в распределение токенов WIN, вам следует отправить ETH на адрес смарт контракта который указан ниже. 
-Минимальная сумма вклада составляет 0.1ETH. Сразу же после того как смарт контракт обработает транзакцию (Как правило на это уходит несколько минут) соответствующее колличество токенов WIN  будет зарезервированно для Вас, для их получения на свой кошелек Ethereum, следуйте ниже представленной инструкции:
+Минимальная сумма вклада составляет 0.1ETH. Сразу же после того как смарт контракт обработает транзакцию (Как правило на это уходит несколько минут) соответствующее количество токенов WIN  будет зарезервировано для Вас, для их получения на свой кошелек Ethereum, следуйте ниже представленной инструкции:
 
 <img align="center" src="https://user-images.githubusercontent.com/30338333/29416736-a45e39f4-8399-11e7-9b11-0a90b5088208.png" width="950">
 
@@ -151,7 +151,7 @@ Development and testing: The Blind Jackpot Fund, advanced platform, first video 
 ``Так же вы можете отправить транзакцию, через любой другой ERC20 совместимый кошелек: Ethereum Foundation, Mist, Parity, imToken(iPhone/Android)``
 
 # How To Claim Tokens
-Для того, чтобы получить оплаченые токены их нужно запросить путем вызова функции: ``claimAllTokens``
+Для того, чтобы получить оплаченные токены их нужно запросить путем вызова функции: ``claimAllTokens``
 
 **ДАННЫЕ НЕОБХОДИМЫЕ ДЛЯ ПОИСКА КОНТРАКТА И ВЫЗОВА ФУНКЦИИ:**
 
@@ -161,7 +161,7 @@ Development and testing: The Blind Jackpot Fund, advanced platform, first video 
 
 ABI / JSON Interface: ``НАПИСАТЬ ABI/JSON``
 
-**Способ вызова функции будет зависить от кошелька, который вы выбрали для отправки транзакции. Рассмотрим некоторые из них:**
+**Способ вызова функции будет зависеть от кошелька, который вы выбрали для отправки транзакции. Рассмотрим некоторые из них:**
 [<img align="left" src="https://user-images.githubusercontent.com/30338333/29423197-6c5a632a-83ad-11e7-93ae-7d8500e9b5d2.png" width="950">](https://www.myetherwallet.com)
 
 `` Если вы использовали другой ERC20 кошелек для отправки транзакций и не знаете как запросить токены, спросите в нашем сообществе Slack или Telegram ``
