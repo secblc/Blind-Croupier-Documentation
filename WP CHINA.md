@@ -149,7 +149,7 @@ Limited emissions and constant tokens withdrawal during the project's lifetime m
 ##  伪随机数生成(PRNG)
  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="20">**问题:** 对于任何在线赌场使用的PRNG极为重要。第二个问题是透明度。一个封闭的系统可能产生伪随机性（甚至预定义的随机性）来占玩家的便宜。
  
-**我们的解决方案：**在BlindCroupier算法中，我们使用一个非常简单的想法来生成随机数据。各方都有一个私钥，用于签署消息和命令。我们用它来签署固定的信息，由4部分组成：庄家的地址、玩家的地址、游戏ID和种子ID。然后，该随机的种子通过很简单的操作从这个签名获得。直到种子被发布，唯一知情的只有私有密钥的所有者。然而，在种子发布后，任何一方可以通过检查种子所有者的公钥签名很容易地进行验证。所以，每一个用于BlindCroupier算法的随机种子有两大特点：
+<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **我们的解决方案：**在BlindCroupier算法中，我们使用一个非常简单的想法来生成随机数据。各方都有一个私钥，用于签署消息和命令。我们用它来签署固定的信息，由4部分组成：庄家的地址、玩家的地址、游戏ID和种子ID。然后，该随机的种子通过很简单的操作从这个签名获得。直到种子被发布，唯一知情的只有私有密钥的所有者。然而，在种子发布后，任何一方可以通过检查种子所有者的公钥签名很容易地进行验证。所以，每一个用于BlindCroupier算法的随机种子有两大特点：
 * *种子是确定的，不能被任何一方改变。*
 * *游戏开始时，种子是向所有者显示的，当所有者愿意发布时，公众才可以看到。*
 * *两个种子发布后（1个庄家种子和1个玩家种子），我们将它们混合以得到一个真正的随机无偏差的种子。双方都用它来独立计算游戏结果。*
@@ -226,6 +226,7 @@ Blind Croupier模型保证每月的收入流，激励我们改善我们的产品
 #Blind Croupier平台
 我们相信，BlindCroupier将成为一个在线赌博界的优质品牌。这对于那些采用我们BlindCroupier软件的赌场获得精密的游戏、公平与大量的利益非常重要（当然，这是事实）。我们的战略是为使用我们解决方案的赌场提供更高的转换率。
 平台的发布分为两个阶段。基本平台和基本游戏设置将展示在区块链社区。拥有先进游戏的先进平台将在主要的在线博彩展览中展示。在此阶段我们将展示我们解决方案的所有特征，特征与功能如下表所述。
+
 |  平台特征 | 基本平台 | Advanced platform  |
 |---|---|:-:|
 | 分析法  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
@@ -240,6 +241,7 @@ Blind Croupier模型保证每月的收入流，激励我们改善我们的产品
 | Blind大奖基金   | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  |  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">  |
 | 大奖  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
 | 移动赌场  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="25">  | <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="25">   |
+
 
 # 描述
 
