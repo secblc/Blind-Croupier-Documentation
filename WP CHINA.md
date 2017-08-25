@@ -118,6 +118,7 @@ Limited emissions and constant tokens withdrawal during the project's lifetime m
 ## 视频扑克游戏规则
 卡牌扑克机看上去通常与老虎机相似。顶部有中奖组合和支付表。中心有一个屏幕显示玩家的掌控情况。底部有3个字段，表示玩家的信用、最后一场胜利、目前的赌注。利用“Bet One”按钮，玩家可通过一个硬币来增加现有赌注。
 下好赌注后，玩家按下“Deal”按钮，从52张牌中获得五张牌。通过触摸牌，玩家可以将它搁置。之后，玩家按下“DRAW”按钮，机器为他换掉空闲的牌。如果有一个得分组合显示在表格顶端，适当的收益就会被存放到玩家帐户。该组合对应着标准的扑克牌组合，机会越低，支付越多。
+
 | 组合  | 1级  | 2级 | 3级  | 4级  | 5级  |
 |---|---|:-:|---|:-:|---|
 | l皇家同花顺 | 250  | 500  |  750 |  1000 |  4000 |
@@ -147,25 +148,36 @@ Limited emissions and constant tokens withdrawal during the project's lifetime m
 
 ##  伪随机数生成(PRNG)
  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="20">**问题:** 对于任何在线赌场使用的PRNG极为重要。第二个问题是透明度。一个封闭的系统可能产生伪随机性（甚至预定义的随机性）来占玩家的便宜。
+ 
 **我们的解决方案：**在BlindCroupier算法中，我们使用一个非常简单的想法来生成随机数据。各方都有一个私钥，用于签署消息和命令。我们用它来签署固定的信息，由4部分组成：庄家的地址、玩家的地址、游戏ID和种子ID。然后，该随机的种子通过很简单的操作从这个签名获得。直到种子被发布，唯一知情的只有私有密钥的所有者。然而，在种子发布后，任何一方可以通过检查种子所有者的公钥签名很容易地进行验证。所以，每一个用于BlindCroupier算法的随机种子有两大特点：
 * *种子是确定的，不能被任何一方改变。*
 * *游戏开始时，种子是向所有者显示的，当所有者愿意发布时，公众才可以看到。*
 * *两个种子发布后（1个庄家种子和1个玩家种子），我们将它们混合以得到一个真正的随机无偏差的种子。双方都用它来独立计算游戏结果。*
+
 ## 游戏速度和缓慢下注
  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="20">**问题：**大多数以区块链（blockhain）为基础的赌场需要等待下注被接受的时间（交易时间）。因为智能交易合同很缓慢，它们需要新的区块生成。这就是许多现有的解决方案运行缓慢的原因。这明显破坏游戏进程。
+ 
 <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20">**我们的解决方案：**我们只使用HTTPS来交换玩家和庄家之间签署的命令。银行交易不可能破坏或减慢正常的游戏速度。玩家可以下注、抽牌和换牌，结束游戏和开始新游戏得到HTTPS连接的迅速允许。唯一的最终交易是在游戏结束时的背景下进行的，它不会减慢游戏进程。对于下注，我们使用专门设计的Blind筹码代币。它们的主要特点是，持有私钥的任何人（由玩家最初生成）都可以拥有它们。所以，为了开始游戏，玩家将签署的命令发送给庄家以转移一些Blind筹码，且庄家立即检查其有效性并开始游戏。没有必要等待区块链（Blockchain）交易确认。这种方法结合了区块链的绝对可靠性和传统的在线赌场的速度。
+
 ## 公平检查
  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="20">**问题：**由于封闭的赌场系统，没有办法检查赌场的算法优势。
-<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20">**我们的解决方案：**所有流程中使用的随机性由四个随机种子生成。每个种子都是随机的和可核查的。没有人能影响种子的生成，任何人可以检查种子是否已正确生成。所以，真正的优势由绝对透明的游戏规则确定。
+ 
+<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **我们的解决方案：**所有流程中使用的随机性由四个随机种子生成。每个种子都是随机的和可核查的。没有人能影响种子的生成，任何人可以检查种子是否已正确生成。所以，真正的优势由绝对透明的游戏规则确定。
+
 ## Miner[开采者]的操作
  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="20">**问题：**在一些区块链（Blockchain）系统中，新生成的区块参数用于生成随机性。这种方法受到颇多批评，因为miner（开采者）很容易进行某些操纵。从理论上说，miner可以延迟“开采”区块，直到出现更好的区块，从而给他们一个不公平的优势。必须指出的是，所有这些攻击向量都是纯理论性的，且成本很高。没有证据表明真正攻击的发生。
-<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20">**我们的解决方案：**我们不使用区块参数作为随机源。相反，我们混合由庄家和玩家生成的种子以获得完全随机的种子。
+ 
+<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **我们的解决方案：**我们不使用区块参数作为随机源。相反，我们混合由庄家和玩家生成的种子以获得完全随机的种子。
+
 ## 第三方随机源
  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="20">**问题:**很多现有的解决方案使用第三方的随机供应商（例如，http://random.org）。考虑到上述说明，很明显，这些供应商的恶意行为可能给玩家或庄家带来不公平的优势。简单地说，当产生所需的随机种子时，像random.org的网站可以轻松赢得大奖。
-<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20">**我们的解决方案：**我们不使用第三方随机性。我们所有的随机性在系统内部生成。
+ 
+<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> **我们的解决方案：**我们不使用第三方随机性。我们所有的随机性在系统内部生成。
+
 ## 大奖验证
  <img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28472253-71b69640-6e72-11e7-8ae4-a76447229482.png" width="20">**问题：**没有办法验证公布中的奖金额的真实存在。
-<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20">**我们的解决方案：**庄家的资金存放在银行，它是一个以太坊智能合同。智能合同的所有基金都是公众的，任何人可以验证。
+ 
+<img align="CENTER" src="https://user-images.githubusercontent.com/30338333/28471826-ffa1e268-6e70-11e7-80b7-27849ac874de.png" width="20"> >**我们的解决方案：**庄家的资金存放在银行，它是一个以太坊智能合同。智能合同的所有基金都是公众的，任何人可以验证。
 
 # 技术和方法
 在开发中，我们使用了最新的技术和方法的堆栈。我们项目的主要编程语言为JavaScript（ECMAScript 6）和Solidity 0.4.11。最初我们把所有智能合同代码写入专门设计的isolidity语言，它被编译成普通的Solidity代码。我们设计和应用了isolidity to Solidity编译器以解决Solidity的一些重大问题（如无法让结构和结构的阵列往返于合同）。对于智能合同的开发，我们使用了Truffle框架。我们正利用Mocha 和 Chai进行单元测试。我们利用Babel生成源代码。我们通过利用ESLint坚持严格的源代码风格和有效性。我们使用solc编制智能合同。对于玩家-庄家API的建立，我们使用了Swagger与 Express 框架。我们使用Webpack包装和优化源代码。
