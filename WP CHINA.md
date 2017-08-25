@@ -1,3 +1,6 @@
+# BLINDCROUPIER.io White Paper
+#### Jul 21, 2017 <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="95">
+
 是一家博彩软件开发公司[企业对企业，（B2B）]，针对企业提供分散的、公正透明的赌场赌博解决方案。
 >Software making it possible for the casino operators to open a decentralized casino in no time.
 
