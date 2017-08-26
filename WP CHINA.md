@@ -1,8 +1,8 @@
-# BLINDCROUPIER.io White Paper
+# BLINDCROUPIER.io 白皮书
 #### Jul 21, 2017 <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="95">
 
-是一家博彩软件开发公司[企业对企业，（B2B）]，针对企业提供分散的、公正透明的赌场赌博解决方案。
->Software making it possible for the casino operators to open a decentralized casino in no time.
+BLINDCROUPIER是一家博彩软件开发公司[企业对企业，（B2B）]，针对企业提供分散的、公正透明的赌场赌博解决方案， 能让企业在最快的速度及时的部署整套扑克类
+博彩方案.
 
 完全公平——只有受到具体游戏规则的限制，包括公平的随机生成等，每个人才可能获得利益。
 
@@ -13,34 +13,31 @@
 	
 # 介绍
 
-目前，智能合同的出现彻底改变了博彩业，使赌场更加透明和公平。玩家可以在任何时间轻松地检查所有的交易，确认源代码的有效性，检查赌场的利益。
-很明显的是，直到出现完整的解决方案，该行业才会进入在线赌博的新阶段，利用智能合同提供平台和游戏。我们相信，市场需要先进技术，而它反过来又会带动市场成长。
+目前，智能合同的出现彻底改变了博彩业，使赌场更加透明和公平。玩家可以在任何时间轻松地检查所有的交易，确认源代码的有效性，检查赌场的利益。很明显的是，直到出现完整的解决方案，该行业才会进入在线赌博的新阶段，利用智能合同提供平台和游戏。我们相信，市场需要先进技术，而它反过来又会带动市场成长.
 Blind Croupier将为在线博彩业开启一扇新的大门，它将为创建您自己的分散赌场提供所有必要的工具。我们相信，我们的解决方案将为该行业创造一个新的开始，我公司也将在这个新兴市场取得领先地位，现市场份额已达420亿美元。
-我们已经做了大量工作，开始于一般概念，结束于视频扑克游戏的测试版。我们已经彻底解决了缓慢投注和公平的问题，没有涉及Oracle。（Oracle是一家有关智能合同、伪随机数生成的第三方数据供应商）。
-本文展示了我们的产品如何解决现有的行业问题，包括我们所介绍的创新，我们的投资者将获得什么样的利益，以及我们目前的目标。
-WIN 代币分配
+我们从一开始的概念到现在已经做了大量工作，已得到卡牌扑克游戏的测试版.我们已经彻底解决了缓慢投注和公平性的问题，没有涉及Oracle数据库.Oracle是一家有关智能合同、伪随机数生成的第三方数据供应商）.
+本文展示了我们的产品如何解决现有的行业问题，包括我们所介绍的创新，我们的投资者将获得什么样的利益，以及我们目前的目标.
 
-# WIN Token Distribution
+WIN代币分配方案
 
-WIN Token - is Blind Croupier project's currency, used to measure other goods and services costs. All participants can use WIN to pay for goods and services of the Blind Croupier project. 
 
-**Emission:** The total amount of WIN Tokens emitted is 500,000,000 WIN. There will be no further emission. A finite number of tokens will only decrease.
+WIN 代币 - 基于BLC博彩软件的数字货币代币.用于博彩系统的标准筹码以及相关服务的支出. 所有的参与者都可以使用WIN代币获得服务和相关数字产品.
 
-**All unsold tokens (if any) are destroyed at the end of every period.**
+**代币发布:** BLC系统根据只能合约发布的代币总量为500,000,000 WIN.根据智能合约的分销细节合同,每个分销期的未售代币都会自动销毁.WIN代币只会减少不会增多，不可再生.
 
-**5,000,000WIN:** Offered for Token Distribution Period 0. **Price for period:** 1000WIN = 0.35ETH. This is a small period for "early birds". The period finished when all the tokens available are distributed or when Period 1 starts (i.e.21.09.2017; 14:00UTC ).*All the unsold tokens are destroyed at the end of the period.*
+**5,000,000WIN:**此部分提供给早鸟期的代币预购者.此阶段的价格为1000WIN=0.35ETH.早鸟期截至日期为2017年9月21日.所有未售出代币将自动销毁.
 
-**15,000,000WIN** Offered for Token Distribution Period 1. **Price for period:**  1000WIN=0.5ETH.  **The period begins 21.09.2017; 14:00UTC.**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
+**15,000,000WIN** 此部分为代币分销为阶段第1期.价格为1000WIN=0.5ETH.阶段1代币分销时间为161个小时,阶段1开始的时间为UTC时间 2017年9月21日14:00.此阶段未能销售的代币将根据智能合约自动销毁.
 
- **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours. If the tokens are distributed ahead of time, the new period will begin without slowing down. In new period, the price is increased by 0.5% from the price in the previous period. **If** the previous period ended early, in the new period the price increases by 1%. **If** 20% or more of tokens were destroyed in the period, then the price would be maintained at the same level.
+ **366,000,000WIN:**  此部分代币分销为第2期到第367期.每个分阶段为23小时.默认每个新的阶段将自动比上个阶段价格提高0.5%. 如果代币短时间内分销完毕，则下个阶段价格自动提高1%.如果每个阶段超过20%的代币被智能合约自动销毁, 则价格与上个阶段保持不变.
  
-**100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. Also will be used for maintaining the marketmaker balance. The are put on hold and will be unlocked after 12 months.
+**100,000,000WIN:** 此部分将保留为奖励给BLC创始团队的长期投资代币,以提供流动资金.锁定期为12个月.
 
-**5,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
+**5,000,000WIN:** 此部分将保留给相关的市场做市网站，以提供良好的流动性，并保持代币的价格稳定上涨.
 
-**5,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.
+**5,000,000WIN:** 此部分保留给不同时期的志愿参与者. 每阶段的代币分销后,将发放代币给各个阶段的志愿参与者. 请阅读网站以获得更进一步的信息
 
-**4,000,000WIN:** Reserved for the current and future Blind Croupier advisor.
+**4,000,000WIN:** 此部分保留给当前和将来的公司商业顾问和合作伙伴.
 
 # 关于代币分配模式
 上述代币分配模式解决的是投资者的问题，我们和区块链社区认为这是最重要的。
@@ -49,19 +46,19 @@ WIN Token - is Blind Croupier project's currency, used to measure other goods an
 	
 2. 低份额范围——投资者了解代币及其分配的总额。唯一的未知数是向市场发行代币的数量。但在我们投资后减少发行额的情况下，投资者的份额将增长。
 
-3. 限定发行额——50亿 WIN是受智能合同制约的最大发行额。代币总额只能减少。
+3. 限定发行额——50亿WIN是受智能合同制约的最大发行额，代币总额只能减少。
 
 4. 去中心——Blind Croupier团队没有足够的代币来操纵价格。即使如果用于代币分配的代币有50%被销毁，Blind Croupier团队将拥有32%的总发行量。同时，部分代币将被发送给做市商，这是为了维持代币市场价格的稳定。
 	
 5. 市场效率——所提供模型的灵活性以新周期的代币价格上涨到令投资者满意为基础。如果需求减少，那么供应也将减少，直到供需达到平衡。
 
-## Following Deflation Model Processes
+## 流通货币的通货紧缩模型
 
-Deflation is a contraction in the supply of circulated money within an economy in order to increase its buying power. Deflation processes is the basement of the Blind Croupier economic model during the initial token distribution stage as well as all the project lifetime.
+通货紧缩模型是一种基于提高货币价格增强货币购买力的模型.BLC软件系统整个经济系统是基于货币紧缩模型建立.
 
-We are tying the WIN token cost to the economical success of Blind Croupier. The main economic inidicator of the Blind Croupier efficiency is the royalty received from the casinos connected (13$ of GGR, GGR = bets - wins).
+我们将WIN代币与Blind Croupier的经济成功挂钩。Blind Croupier主要经济收入是从赌场连接的使用费以及每次交易的返回佣金(13$ of GGR, GGR = bets - wins).
 
-At least 15% of the royalties will be used for **step-by-step** buying back WIN tokens and their withdrawal from circulation. The better project performs, the more funds will be used for token withdrawal. If WIN is definitely underestimated, more WIN will the withdrawn. If the market value is balanced - the lesser amount of WIN will be withdrawn (the higher the token price is, the less tokens we can buy back, using the funds designated).
+至少有15%tter project performs, the more funds will be used for token withdrawal. If WIN is definitely underestimated, more WIN will the withdrawn. 如果市场上代币的价格是平衡的稳定上涨的，那么我们的代币 (代币的价格越高，按计划分配的资金智能购买越少的代币）
 
 >E.g. it is expected that online gambling market reached $52bln. in 2018. If all Blind Croupier connected casinos can take as little as 0.5% of the market, their yearly turnover will reach $260,000,000, GCR will be 5% or $13,000,000. 13% of which will be send to Blind Croupier as royalties ($1,690,000). From that amount Blind Croupier will use 15% ($253,500) for tokens buying back and destruction. Using the table below, let us compare amounts of tokens destroyed depending on their price:
 
@@ -74,9 +71,10 @@ At least 15% of the royalties will be used for **step-by-step** buying back WIN 
 
 As you can see from the table, when the token price lowers, deflation speeds up and stabilizes the market. Accordingly, when the WIN token prices reaches the stable level (corresponding to the future Blind Croupier economics size) deflation will slow down. This model gradually increases the WIN token buying power, depending on the Blind Croupier effeciency, without using speculative methods.
 
-## Liquidity
+##流动性
 
-Limited emissions and constant tokens withdrawal during the project's lifetime makes it safe to store WIN tokens in a long-term perspective. It can, however, lead to inability to sell tokens by the market price or (in other words) low liquidity. To prevent this (as you may have already noticed from [distribution tokens](#about-token-distribution-model)), there is a marketmaker. A marketmaker stores tokens and other currencies on its balance and actively buys and sells WIN tokens by market price, according to the algorithm programmmed. In other words, if you are going to buy WIN on the token exchange, you won't need to pay higher than market price to to this (as well as sell by the lower than market price). A marketmaker will buy or sell tokens by the market price.
+有限的代币以及合理的代币回收机制将使得囤积代币是一个更合理的长期的市场行为. 但是这将使得市场的代币流动性缺乏. 为了预防市场缺乏流动性 (您应该可以在代币分销的规则中看到),我们提供了做市商制度,将保持一定量的其他货币在市场上激活自动交易，或者说当你需要交易WIN代币时，做市商将以市场价格买卖代币，以提供流动性.
+
 
 # 特权拍卖
 排名前5的投资者（考虑到25期为止ETH的花费）获得12个月免费的平台订购权（一旦平台发布）和12个月的折扣使用费（7%而不是13%）。为了参与，他们需要从单一的以太坊钱包投资。我们保留获胜者将获得的特权给予/出售给第三方的权利。
@@ -133,7 +131,7 @@ Limited emissions and constant tokens withdrawal during the project's lifetime m
 | 三张相同的牌  | 3  |  6 |  9 | 12  | 15  |
 | 双对子  |  2 | 4  | 6  |  8 |  10 |
 | 一对  |  1 | 2  |  3 |  4 | 5  |
-| **支出** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
+| **返还率** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
 
 ## 算法实现
 玩家和庄家首先生成一个私人密钥对和一个公共密钥对并向银行提交公钥。此操作使用1 区块链（blockchain）的交易，但必须一次性完成。完成后，所有由任何一方（玩家或庄家）发出的命令都由相应方的私钥签名。然后签名可由任何一方验证。
@@ -288,6 +286,6 @@ Blind Croupier保留在系统的测试期间对其做出任何改进以提升其
 ## 大奖得主的判定算法
 赢家是通过使用特别设计的基于区块链的算法随机确定的。写这个文件时我们倾向于使用基于RANDAO的方法。然而，为此目的我们设计和实现了一个完全不同的公平和透明的系统。
 
-# Conclusion
+# 结论
 
-Blind Croupier software was developed using the trusted cryptographical methods and blockchain technology, using the best methodologies. It offers a new, previously unreachable level in the online gambling. The software itself is a tool allowing anyone to launch a fair, transparent decentralized new generation casino in a few clicks.
+Blind Croupier 博彩软件是基于可靠的加密方法以及不可更改的区块链技术开发而成, 通过几个步骤就可以快速部署.达到了前所未有的公平性，透明性，分散式的新一代的博彩软件.
