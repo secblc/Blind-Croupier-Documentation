@@ -71,7 +71,7 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 4. No command center - the Blind Croupier team doesn't possess enough tokens to manipulate price. Even in the case of 50% of the tokens, which are offered to the Token Distribution, are destroyed, Blind Croupier team will own 32% of the total emission. 
 
-5. Market efficiency - the offered model agility is based on the token price increase in new periods until the investors are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
+5. Market efficiency - the offered model agility is based on the token price increase in new periods until the market are satisfied. If the demand decreases, the offer is decreased as well until the offer-demand balance is reached.
 
 ## Following Deflation Model Processes
 
