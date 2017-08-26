@@ -65,7 +65,7 @@ The aforementioned Token Distribution model was developed to solve investors' pr
 
 > It's worth mentioning, however, that if an extreme interest rises among the investors, new periods will finish and start without delays, which can, theoretically, lead to the fast end of period 367. But the price will also rise in this case, requiring further roadmap advancement and/or token destruction.
 
-2. The low share boundary - An investor knows the total amount of tokens and their distribution. The only unknown figure is the amount of tokens issued to the market. But in the case we decrease the emission after the investment, the investor's share will grow.
+2. The low share boundary - An investor knows the total amount of tokens and their distribution. The only unknown figure is the amount of tokens issued to the marke (The maximum is known, but the minimum is unknownt). But in the case we decrease the emission after the investment, the investor's share will grow.
 
 3. Limited emission - 500'000'000 WIN is a maximum emission limited by the smart contract. The total amount of tokens can only decrease.
 
