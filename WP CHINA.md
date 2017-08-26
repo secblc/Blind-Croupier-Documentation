@@ -1,8 +1,10 @@
 # BLINDCROUPIER.io White Paper
 #### Jul 21, 2017 <img align="right" src="https://user-images.githubusercontent.com/30338333/28491741-d8bd2b18-6f28-11e7-9582-d9cbab2d1a06.png" width="95">
 
-是一家博彩软件开发公司[企业对企业，（B2B）]，针对企业提供分散的、公正透明的赌场赌博解决方案。
->Software making it possible for the casino operators to open a decentralized casino in no time.
+BLINDCROUPIER是一家博彩软件开发公司[企业对企业，（B2B）]，针对企业提供分散的、公正透明的赌场赌博解决方案， 能让企业在最快的速度及时的部署整套扑克类
+
+博彩方案.
+
 
 完全公平——只有受到具体游戏规则的限制，包括公平的随机生成等，每个人才可能获得利益。
 
@@ -30,18 +32,16 @@ WIN Token - is Blind Croupier project's currency, used to measure other goods an
 
 **5,000,000WIN:** Offered for Token Distribution Period 0. **Price for period:** 1000WIN = 0.35ETH. This is a small period for "early birds". The period finished when all the tokens available are distributed or when Period 1 starts (i.e.21.09.2017; 14:00UTC ).*All the unsold tokens are destroyed at the end of the period.*
 
-**15,000,000WIN** Offered for Token Distribution Period 1. **Price for period:**  1000WIN=0.5ETH.  **The period begins 21.09.2017; 14:00UTC.**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. *All the unsold tokens are destroyed at the end of the period.*
+**15,000,000WIN** Offered for Token Distribution Period 1. **Price for period:**  1000WIN=0.5ETH.  **The period begins 21.09.2017; 14:00UTC.**  The period lasts 161 hours (or until all the tokens are sold), after that the next period begins instantly. 每个时期的未销售代币根据智能合约将会自动销毁.*
 
- **366,000,000WIN:**  Split for periods 2-367. For each period, 1,000,000 WIN is available for 23 hours. If the tokens are distributed ahead of time, the new period will begin without slowing down. In new period, the price is increased by 0.5% from the price in the previous period. **If** the previous period ended early, in the new period the price increases by 1%. **If** 20% or more of tokens were destroyed in the period, then the price would be maintained at the same level.
+ **366,000,000WIN:**  此部分代币分销为. 每个销售期23小时.默认每个新的分销期将自动比上个分销期价格提高0.5%. 如果分销期在短时间内分销完毕，则下个分销价格自动提高1%.如果每个分销期超过20%的代币被智能合约自动销毁, 则价格与上个分销期保持不变.
  
-**100,000,000WIN:** Reserved by Blind Croupier to award project participants for their work and are considered a long-term investment. Also will be used for maintaining the marketmaker balance. The are put on hold and will be unlocked after 12 months.
+**100,000,000WIN:** 此部分将保留为BLC团队的长期投资代币,以提供相关的工作资金灯,.
 
-**5,000,000WIN:** This tokens will be transferred to the market maker balance. A market maker is a dealer/bot/broker, storing WIN tokens and making transactions to maintain higher tokens liquidity on the market. 
+**5,000,000WIN:** 此部分将保留给相关的市场做市网站，以提供良好的流动性，并保持代币的价格稳定上涨.
 
-**5,000,000WIN:** Reserved for the 'bounty' campaign. Tokens are distributed after each period and transferred to the participants' balances each 7 days. Please read more about getting involved into bounty campaign on our site.
-
-**4,000,000WIN:** Reserved for the current and future Blind Croupier advisor.
-
+**5,000,000WIN:** 此部分保留给不同时期的志愿参与者. 每阶段的代币分销后,将发放代币给各个阶段的志愿参与者. 请阅读网站以获得更进一步的信息
+**4,000,000WIN:** 此部分保留给当前和将来的ICO代销团队.
 # 关于代币分配模式
 上述代币分配模式解决的是投资者的问题，我们和区块链社区认为这是最重要的。
 1. 逐步投资——我们认为这对投资者来说是一个很好的机会，可让他们仔细查看项目，评估如何兑现承诺，以及将投资分为几个阶段。决定参与代币分配的投资者最有可能会得到这样做的机会。对我们来说，这是一个在代币分配期间展示我们的产品，让市场为我们的项目、最后发行额和代币价格投票的机会。
@@ -49,11 +49,25 @@ WIN Token - is Blind Croupier project's currency, used to measure other goods an
 	
 2. 低份额范围——投资者了解代币及其分配的总额。唯一的未知数是向市场发行代币的数量。但在我们投资后减少发行额的情况下，投资者的份额将增长。
 
-3. 限定发行额——50亿 WIN是受智能合同制约的最大发行额。代币总额只能减少。
+3. 限定发行额——50亿WIN是受智能合同制约的最大发行额，代币总额只能减少。
 
 4. 去中心——Blind Croupier团队没有足够的代币来操纵价格。即使如果用于代币分配的代币有50%被销毁，Blind Croupier团队将拥有32%的总发行量。同时，部分代币将被发送给做市商，这是为了维持代币市场价格的稳定。
 	
 5. 市场效率——所提供模型的灵活性以新周期的代币价格上涨到令投资者满意为基础。如果需求减少，那么供应也将减少，直到供需达到平衡。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Following Deflation Model Processes
 
@@ -133,7 +147,7 @@ Limited emissions and constant tokens withdrawal during the project's lifetime m
 | 三张相同的牌  | 3  |  6 |  9 | 12  | 15  |
 | 双对子  |  2 | 4  | 6  |  8 |  10 |
 | 一对  |  1 | 2  |  3 |  4 | 5  |
-| **支出** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
+| **返还率** | 98,05%  | 98,05%  |  98,05% | 98,05%  |  99,54% |
 
 ## 算法实现
 玩家和庄家首先生成一个私人密钥对和一个公共密钥对并向银行提交公钥。此操作使用1 区块链（blockchain）的交易，但必须一次性完成。完成后，所有由任何一方（玩家或庄家）发出的命令都由相应方的私钥签名。然后签名可由任何一方验证。
